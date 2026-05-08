@@ -12,105 +12,62 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="script.js" defer></script>
 </head>
-<body class="text-slate-900" data-page="home">
+<body data-page="home">
   <header id="site-header"></header>
 
   <main>
-    <section class="relative overflow-hidden bg-slate-950 py-24">
-      <div class="absolute inset-0 bg-grid opacity-20"></div>
-      <div class="relative" data-carousel>
-        <article data-slide data-active="true" class="hero-slide bg-cover bg-center transition-opacity duration-500 opacity-100" style="background-image:url('https://images.pexels.com/photos/6528855/pexels-photo-6528855.jpeg?auto=compress&cs=tinysrgb&w=1600');">
-          <div class="absolute inset-0" style="background: rgba(0, 45, 91, 0.6);"></div>
-          <div class="hero-content mx-auto flex h-full max-w-7xl items-end px-4 sm:px-6 lg:px-8">
-            <div class="grid w-full gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-end">
-              <div class="max-w-3xl pb-8">
-                <span class="hero-kicker">Modern dental surgery in Addis Ababa</span>
-                <h1 class="mt-6 max-w-3xl text-5xl font-bold leading-[0.92] text-white sm:text-6xl lg:text-6xl">Confident smiles start with precise implant planning</h1>
-                <p class="mt-6 max-w-2xl text-lg leading-8 text-white/90">At Addis Implant, we combine surgical experience, digital planning, and clear communication so patients feel informed before treatment begins and supported long after surgery.</p>
-                <div class="mt-10 flex flex-wrap gap-4">
-                  <a href="contact.html" class="gold-button rounded-full px-6 py-3 text-sm font-bold text-white">Request Appointment</a>
-                  <a href="services.html" class="rounded-full border border-white/20 bg-white/10 px-6 py-3 text-sm font-bold text-white backdrop-blur transition hover:bg-white/20">View Services</a>
-                </div>
+    <section class="hero-section py-24" style="background-image:url('https://images.pexels.com/photos/6528855/pexels-photo-6528855.jpeg?auto=compress&cs=tinysrgb&w=1800');">
+      <div class="hero-overlay"></div>
+      <div class="hero-wrap mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="grid min-h-full items-end gap-10 py-12 lg:grid-cols-[1.06fr_0.94fr] lg:py-0">
+          <div class="max-w-3xl pb-8 text-white">
+            <span class="hero-kicker">Modern oral surgery in Addis Ababa</span>
+            <h1 class="hero-title mt-6 max-w-2xl text-5xl leading-[0.95] sm:text-6xl lg:text-6xl">Confident smiles start with precise implant planning</h1>
+            <p class="mt-6 max-w-2xl text-lg leading-8 text-white/90">Addis Implant combines surgical experience, digital planning, and clear communication so patients feel informed before treatment begins and supported long after surgery.</p>
+            <div class="mt-10 flex flex-wrap gap-4">
+              <a href="contact.html" class="gold-button rounded-full px-6 py-3 text-sm font-bold text-white">Request Appointment</a>
+              <a href="services.html" class="rounded-full border border-white/20 bg-white/10 px-6 py-3 text-sm font-bold text-white backdrop-blur transition hover:bg-white/20">View Services</a>
+            </div>
+          </div>
+
+          <div class="hero-panel hero-side-card rounded-[1.75rem] p-5 sm:p-6 lg:mb-10">
+            <div class="grid gap-5">
+              <div class="overflow-hidden rounded-[1.25rem]">
+                <img src="https://images.pexels.com/photos/3845763/pexels-photo-3845763.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="Modern dental surgery room with premium lighting" class="h-[230px] w-full object-cover" />
               </div>
-              <div class="glass-card rounded-[1.75rem] p-5 text-slate-100">
-                <div class="top-line bg-[var(--accent-gold)]"></div>
-                <div class="mt-5 grid gap-4">
-                  <div class="rounded-2xl bg-slate-950/55 p-5">
-                    <div class="text-sm font-bold uppercase tracking-[0.2em] text-amber-200">Planning</div>
-                    <div class="mt-2 text-3xl font-bold text-white">Carefully sequenced treatment</div>
-                  </div>
-                  <div class="rounded-2xl bg-slate-950/55 p-5">
-                    <div class="text-sm font-bold uppercase tracking-[0.2em] text-amber-200">Comfort</div>
-                    <div class="mt-2 text-3xl font-bold text-white">Patient-first communication</div>
-                  </div>
-                  <div class="rounded-2xl bg-slate-950/55 p-5">
-                    <div class="text-sm font-bold uppercase tracking-[0.2em] text-amber-200">Location</div>
-                    <div class="mt-2 text-3xl font-bold text-white">Addis Ababa, Ethiopia</div>
-                  </div>
-                </div>
+              <div>
+                <span class="section-chip">Teeth in a Day</span>
+                <h2 class="hero-side-title mt-4 text-4xl leading-[0.95] sm:text-5xl">Full arch smiles with a premium, same-day feel</h2>
+                <p class="mt-4 text-lg leading-8 text-slate-700">For selected patients in Addis Ababa, we design implant care that is efficient, reassuring, and built around a clear restorative finish.</p>
+              </div>
+              <div class="rounded-2xl bg-[#002d5b] p-5 text-white">
+                <p class="text-xs font-bold uppercase tracking-[0.18em] text-white/75">Addis Ababa location</p>
+                <p class="mt-3 text-lg leading-8 text-white/90">Near 4th Floor JEMS Building, Opposite Dreamliner Hotel, Gabon St.</p>
               </div>
             </div>
           </div>
-        </article>
-
-        <article data-slide class="hero-slide absolute inset-0 bg-cover bg-center opacity-0 pointer-events-none transition-opacity duration-500" style="background-image:url('https://images.pexels.com/photos/5622014/pexels-photo-5622014.jpeg?auto=compress&cs=tinysrgb&w=1600');">
-          <div class="absolute inset-0" style="background: rgba(0, 45, 91, 0.6);"></div>
-          <div class="hero-content mx-auto flex h-full max-w-7xl items-end px-4 sm:px-6 lg:px-8">
-            <div class="max-w-3xl pb-8">
-              <span class="hero-kicker">Gentle care for anxious patients</span>
-              <h2 class="mt-6 max-w-3xl text-5xl font-bold leading-[0.92] text-white sm:text-6xl lg:text-6xl">A calm, premium experience from consultation to recovery</h2>
-              <p class="mt-6 max-w-2xl text-lg leading-8 text-white/90">We explain each step in plain language, review your options carefully, and build a treatment plan that respects your comfort, goals, and timeline.</p>
-              <div class="mt-10 flex flex-wrap gap-4">
-                <a href="process.html" class="gold-button rounded-full px-6 py-3 text-sm font-bold text-white">See Treatment Process</a>
-                <a href="contact.html" class="rounded-full border border-white/20 bg-white/10 px-6 py-3 text-sm font-bold text-white backdrop-blur transition hover:bg-white/20">Talk to Our Team</a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-        <article data-slide class="hero-slide absolute inset-0 bg-cover bg-center opacity-0 pointer-events-none transition-opacity duration-500" style="background-image:url('doctor_aslam.jpg');">
-          <div class="absolute inset-0" style="background: rgba(0, 45, 91, 0.6);"></div>
-          <div class="hero-content mx-auto flex h-full max-w-7xl items-end px-4 sm:px-6 lg:px-8">
-            <div class="grid w-full gap-10 lg:grid-cols-[0.95fr_1.05fr] lg:items-end">
-              <div class="max-w-2xl pb-8">
-                <span class="hero-kicker">Meet Dr. Aslam</span>
-                <h2 class="mt-6 max-w-2xl text-5xl font-bold leading-[0.92] text-white sm:text-6xl lg:text-6xl">Your implant specialist in Addis Ababa</h2>
-                <p class="mt-6 max-w-xl text-lg leading-8 text-white/90">Dr. Aslam Hisam Qasmi leads the surgical and restorative workflow with a meticulous eye for detail, patient comfort, and durable results.</p>
-                <div class="mt-10 flex flex-wrap gap-4">
-                  <a href="about.html" class="gold-button rounded-full px-6 py-3 text-sm font-bold text-white">Read the Full Bio</a>
-                  <a href="contact.html" class="rounded-full border border-white/20 bg-white/10 px-6 py-3 text-sm font-bold text-white backdrop-blur transition hover:bg-white/20">Request Appointment</a>
-                </div>
-              </div>
-              <div class="rounded-[1.75rem] border border-white/15 bg-white/10 p-4 backdrop-blur">
-                <img src="doctor_aslam.jpg" alt="Dr. Aslam Hisam Qasmi, implant specialist in Addis Ababa" class="h-[420px] w-full rounded-[1.25rem] object-cover object-top shadow-2xl" />
-              </div>
-            </div>
-          </div>
-        </article>
-
-        <div class="absolute bottom-5 right-5 z-20 flex gap-2">
-          <button data-carousel-prev class="rounded-full bg-white/92 px-4 py-3 text-sm font-bold text-slate-950 shadow-lg backdrop-blur">Prev</button>
-          <button data-carousel-next class="rounded-full bg-white/92 px-4 py-3 text-sm font-bold text-slate-950 shadow-lg backdrop-blur">Next</button>
         </div>
       </div>
     </section>
 
-    <section class="trust-bar py-24">
+    <section class="trust-rail py-24">
       <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div class="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
+        <div class="flex items-end justify-between gap-6">
           <div>
             <p class="text-xs font-bold uppercase tracking-[0.24em] text-[var(--primary-blue)]">Trusted by patients who value precision</p>
-            <h2 class="mt-2 text-3xl font-bold text-[var(--primary-blue)]">A discreet trust bar with leading dental associations</h2>
+            <h2 class="mt-2 text-3xl font-bold text-[var(--primary-blue)]">Clinical trust built on respected associations</h2>
           </div>
-          <p class="max-w-2xl text-lg leading-8 text-slate-600">These grayscale marks are styled to feel premium and understated, mirroring the confidence of a specialist-led practice without overpowering the page.</p>
+          <p class="max-w-2xl text-lg leading-8 text-slate-600">A grayscale logo rail keeps the page feeling elevated and specialist-led without distracting from the core message.</p>
         </div>
-        <div class="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-6">
-          <div class="trust-mark rounded-2xl border border-slate-200 bg-white px-4 py-4 text-center text-sm font-extrabold tracking-[0.25em]">ADA</div>
-          <div class="trust-mark rounded-2xl border border-slate-200 bg-white px-4 py-4 text-center text-sm font-extrabold tracking-[0.25em]">AAOMS</div>
-          <div class="trust-mark rounded-2xl border border-slate-200 bg-white px-4 py-4 text-center text-sm font-extrabold tracking-[0.25em]">ICOI</div>
-          <div class="trust-mark rounded-2xl border border-slate-200 bg-white px-4 py-4 text-center text-sm font-extrabold tracking-[0.25em]">EAO</div>
-          <div class="trust-mark rounded-2xl border border-slate-200 bg-white px-4 py-4 text-center text-sm font-extrabold tracking-[0.25em]">AAP</div>
-          <div class="trust-mark rounded-2xl border border-slate-200 bg-white px-4 py-4 text-center text-sm font-extrabold tracking-[0.25em]">DDS</div>
+        <div class="mt-10 overflow-hidden">
+          <div class="trust-track" data-trust-track>
+            <div class="trust-mark">ADA</div>
+            <div class="trust-mark">AAOMS</div>
+            <div class="trust-mark">ICOI</div>
+            <div class="trust-mark">EAO</div>
+            <div class="trust-mark">AAP</div>
+            <div class="trust-mark">DDS</div>
+          </div>
         </div>
       </div>
     </section>
@@ -125,54 +82,69 @@
           <a href="services.html" class="text-sm font-bold uppercase tracking-[0.14em] text-[var(--primary-blue)]">View all services</a>
         </div>
 
-        <div class="mt-12 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
-          <article class="soft-card card-hover rounded-[1.5rem] border border-[#002d5b]/15 p-6">
-            <span class="section-chip">01</span>
-            <h3 class="mt-5 text-3xl font-bold">Dental Implants</h3>
-            <p class="mt-4 text-lg leading-8 text-slate-600">Restore one or more missing teeth with a stable, natural-looking foundation designed for everyday chewing and confidence.</p>
-            <a href="dental-implants.html" class="mt-5 inline-flex font-bold text-[var(--primary-blue)]">Learn more</a>
+        <div class="mt-12 grid gap-6 md:grid-cols-3">
+          <article class="soft-card card-hover rounded-[1.5rem] p-7">
+            <div class="service-icon">01</div>
+            <h3 class="playfair-heading mt-6 text-3xl">Dental Implants</h3>
+            <p class="mt-4 text-lg leading-8 text-slate-600">Stable, natural-looking tooth replacement planned for lasting function and appearance in Addis Ababa.</p>
+            <a href="dental-implants.html" class="mt-6 inline-flex text-sm font-bold uppercase tracking-[0.14em] text-[var(--accent-gold)]">Read More</a>
           </article>
-          <article class="soft-card card-hover rounded-[1.5rem] border border-[#002d5b]/15 p-6">
-            <span class="section-chip">02</span>
-            <h3 class="mt-5 text-3xl font-bold">All-on-4</h3>
-            <p class="mt-4 text-lg leading-8 text-slate-600">A full-arch solution for patients who want a more secure alternative to removable dentures.</p>
-            <a href="all-on-4.html" class="mt-5 inline-flex font-bold text-[var(--primary-blue)]">Learn more</a>
+          <article class="soft-card card-hover rounded-[1.5rem] p-7">
+            <div class="service-icon">02</div>
+            <h3 class="playfair-heading mt-6 text-3xl">All-on-4</h3>
+            <p class="mt-4 text-lg leading-8 text-slate-600">A full-arch pathway for patients who want a secure, fixed alternative to removable dentures.</p>
+            <a href="all-on-4.html" class="mt-6 inline-flex text-sm font-bold uppercase tracking-[0.14em] text-[var(--accent-gold)]">Read More</a>
           </article>
-          <article class="soft-card card-hover rounded-[1.5rem] border border-[#002d5b]/15 p-6">
-            <span class="section-chip">03</span>
-            <h3 class="mt-5 text-3xl font-bold">Bone Grafting</h3>
-            <p class="mt-4 text-lg leading-8 text-slate-600">Strengthen the jaw foundation when extra support is needed before implant placement.</p>
-            <a href="bone-grafting.html" class="mt-5 inline-flex font-bold text-[var(--primary-blue)]">Learn more</a>
-          </article>
-          <article class="soft-card card-hover rounded-[1.5rem] border border-[#002d5b]/15 p-6">
-            <span class="section-chip">04</span>
-            <h3 class="mt-5 text-3xl font-bold">Sinus Lift</h3>
-            <p class="mt-4 text-lg leading-8 text-slate-600">Create predictable upper-jaw support where bone height is limited.</p>
-            <a href="sinus-lift.html" class="mt-5 inline-flex font-bold text-[var(--primary-blue)]">Learn more</a>
+          <article class="soft-card card-hover rounded-[1.5rem] p-7">
+            <div class="service-icon">03</div>
+            <h3 class="playfair-heading mt-6 text-3xl">Bone Grafting</h3>
+            <p class="mt-4 text-lg leading-8 text-slate-600">Supportive bone work that prepares the jaw for more predictable implant placement.</p>
+            <a href="bone-grafting.html" class="mt-6 inline-flex text-sm font-bold uppercase tracking-[0.14em] text-[var(--accent-gold)]">Read More</a>
           </article>
         </div>
       </div>
     </section>
 
-    <section class="py-24 bg-[var(--primary-blue)]">
+    <section class="section-surface py-24">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="grid gap-10 lg:grid-cols-[0.98fr_1.02fr] lg:items-center">
+          <div class="reveal">
+            <span class="section-chip">Our Center</span>
+            <h2 class="mt-4 text-4xl font-bold text-[var(--primary-blue)] sm:text-5xl">A premium implant clinic for Addis Ababa patients</h2>
+            <p class="mt-6 text-lg leading-8 text-slate-600">We serve Addis Ababa with a polished international standard of care, while keeping the tone warm, clear, and locally grounded for patients who want to feel at ease from the first visit.</p>
+            <div class="mt-10 grid gap-4 sm:grid-cols-2">
+              <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+                <h3 class="text-2xl font-bold">Board-level planning</h3>
+                <p class="mt-3 text-lg leading-8 text-slate-600">Clear diagnostics and careful sequencing guide every recommendation.</p>
+              </div>
+              <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+                <h3 class="text-2xl font-bold">Local accessibility</h3>
+                <p class="mt-3 text-lg leading-8 text-slate-600">Conveniently located near JEMS Building and Dreamliner Hotel in Addis Ababa.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="reveal">
+            <img src="https://images.pexels.com/photos/3845759/pexels-photo-3845759.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="Modern clinic interior with surgical treatment spaces" class="w-full rounded-[1.75rem] object-cover shadow-xl" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="comparison-section py-24">
       <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="grid gap-10 lg:grid-cols-[0.95fr_1.05fr] lg:items-center">
           <div class="text-white">
-            <span class="section-chip border-white/20 bg-white/10 text-white">Teeth-in-a-Day</span>
-            <h2 class="mt-5 text-4xl font-bold text-white sm:text-5xl">A full-width section that feels bold, surgical, and premium</h2>
-            <p class="mt-6 text-lg leading-8 text-white/90">For carefully selected patients, same-day provisional restorations can make treatment feel more immediate, more practical, and more reassuring.</p>
-            <ul class="mt-8 space-y-3 text-lg leading-8 text-white/90">
-              <li>- Full-arch planning guided by bone, bite, and smile goals.</li>
-              <li>- Clear expectations about provisional and final restoration stages.</li>
-              <li>- Designed to support patients in Addis Ababa who want a fixed solution.</li>
-            </ul>
+            <span class="section-chip border-white/20 bg-white/10 text-white">Teeth in a Day</span>
+            <h2 class="mt-5 text-4xl font-bold text-white sm:text-5xl">Full arch treatment presented with a strong editorial feel</h2>
+            <p class="mt-6 text-lg leading-8 text-white/90">This section mirrors the reference structure with a dramatic color block and a before-and-after presentation that feels clean, high-end, and easy to scan.</p>
           </div>
           <div class="compare-slider reveal" data-compare-slider>
             <span class="comparison-label before">Before</span>
             <span class="comparison-label after">After</span>
-            <img src="https://images.pexels.com/photos/31970661/pexels-photo-31970661.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Before image showing a missing-tooth smile" />
+            <img src="https://images.pexels.com/photos/31970661/pexels-photo-31970661.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="Before image showing a missing-tooth smile" />
             <div class="after-wrap">
-              <img src="https://images.pexels.com/photos/5622014/pexels-photo-5622014.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="After image showing a restored smile after dental treatment" />
+              <img src="https://images.pexels.com/photos/5622014/pexels-photo-5622014.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="After image showing a restored smile after dental treatment" />
             </div>
             <div class="handle"></div>
             <input type="range" min="0" max="100" value="50" aria-label="Before and after comparison slider" data-compare-input />
@@ -185,123 +157,35 @@
       <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="grid gap-10 lg:grid-cols-[0.95fr_1.05fr] lg:items-start">
           <div class="reveal">
-            <span class="section-chip">Treatment Process</span>
-            <h2 class="mt-4 text-4xl font-bold text-[var(--primary-blue)] sm:text-5xl">How we move from diagnosis to a finished smile</h2>
-            <p class="mt-6 text-lg leading-8 text-slate-600">Patients often feel most comfortable when every stage is explained clearly. We keep the process organized so you know what happens next and why it matters.</p>
+            <span class="section-chip">Request a Call Back</span>
+            <h2 class="mt-4 text-4xl font-bold text-[var(--primary-blue)] sm:text-5xl">Schedule a consultation in Addis Ababa</h2>
+            <p class="mt-6 text-lg leading-8 text-slate-600">Use the form on the right to request a call back. We keep the experience calm and premium, with quick response language and a clear next step for patients.</p>
             <div class="mt-10 grid gap-4 sm:grid-cols-2">
               <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-                <h3 class="text-2xl font-bold">Consultation</h3>
-                <p class="mt-3 text-lg leading-8 text-slate-600">We review your goals, history, and current concerns.</p>
+                <h3 class="text-2xl font-bold">What to expect</h3>
+                <p class="mt-3 text-lg leading-8 text-slate-600">A direct reply with consultation details and the next available step.</p>
               </div>
               <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-                <h3 class="text-2xl font-bold">Planning</h3>
-                <p class="mt-3 text-lg leading-8 text-slate-600">Imaging and restorative planning guide the treatment sequence.</p>
-              </div>
-              <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-                <h3 class="text-2xl font-bold">Surgery</h3>
-                <p class="mt-3 text-lg leading-8 text-slate-600">Implant placement or supporting surgery is performed with precision.</p>
-              </div>
-              <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-                <h3 class="text-2xl font-bold">Restoration</h3>
-                <p class="mt-3 text-lg leading-8 text-slate-600">The final teeth are designed for comfort, balance, and appearance.</p>
+                <h3 class="text-2xl font-bold">Clinic location</h3>
+                <p class="mt-3 text-lg leading-8 text-slate-600">Addis Ababa, near JEMS Building opposite Dreamliner Hotel.</p>
               </div>
             </div>
           </div>
 
-          <div class="video-frame reveal">
-            <iframe
-              title="Dental implant process animation"
-              src="https://www.youtube.com/embed/D788vZWD7Mc"
-              loading="lazy"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen></iframe>
-            <div class="overlay">
-              <div>
-                <p class="text-sm uppercase tracking-[0.25em] text-amber-200">Educational video</p>
-                <h2 class="mt-3 text-3xl font-bold text-white">A clean animation helps patients understand implant surgery</h2>
+          <div class="grid gap-6 lg:grid-cols-[0.98fr_1.02fr]">
+            <img src="https://images.pexels.com/photos/3845763/pexels-photo-3845763.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="High-end clinic interior in a surgical environment" class="reveal h-full min-h-[460px] w-full rounded-[1.75rem] object-cover shadow-xl" />
+            <form class="consult-form reveal rounded-[1.75rem] p-6 sm:p-8" action="https://formspree.io/f/your-form-id" method="POST" data-callback-form>
+              <h3 class="text-3xl font-bold">Request a Call Back</h3>
+              <div class="mt-6 grid gap-4">
+                <input name="name" type="text" placeholder="Full name" required />
+                <input name="phone" type="tel" placeholder="Phone number" required />
+                <input name="email" type="email" placeholder="Email address" required />
+                <textarea name="message" rows="5" placeholder="Tell us what you would like help with."></textarea>
               </div>
-            </div>
+              <button type="submit" class="gold-button mt-6 rounded-full px-6 py-3 text-sm font-bold text-white">Submit</button>
+              <p class="mt-4 hidden text-sm font-semibold text-[var(--primary-blue)]" data-form-status></p>
+            </form>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="py-24">
-      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div class="grid gap-10 lg:grid-cols-[0.95fr_1.05fr] lg:items-start">
-          <div class="reveal">
-            <span class="section-chip">Meet Dr. Aslam</span>
-            <h2 class="mt-4 text-4xl font-bold text-[var(--primary-blue)] sm:text-5xl">Meet the specialist behind the care</h2>
-            <p class="mt-6 text-lg leading-8 text-slate-600">Dr. Aslam Hisam Qasmi leads treatment with a calm, careful approach that helps patients feel heard. His focus is on accurate diagnosis, realistic recommendations, and predictable follow-through.</p>
-            <div class="mt-10 grid gap-4 sm:grid-cols-2">
-              <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-                <h3 class="text-2xl font-bold">Local trust</h3>
-                <p class="mt-3 text-lg leading-8 text-slate-600">Patients in Addis Ababa get a specialist-led experience close to home.</p>
-              </div>
-              <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-                <h3 class="text-2xl font-bold">Transparent care</h3>
-                <p class="mt-3 text-lg leading-8 text-slate-600">Each recommendation is explained before treatment moves forward.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="glass-card reveal overflow-hidden rounded-[1.75rem]">
-            <img src="doctor_aslam.jpg" alt="Dr. Aslam Hisam Qasmi portrait" class="h-full min-h-[420px] w-full object-cover object-top" />
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section-surface py-24">
-      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div class="grid gap-10 lg:grid-cols-[0.92fr_1.08fr] lg:items-start">
-          <div class="reveal">
-            <span class="section-chip">Consultation</span>
-            <h2 class="mt-4 text-4xl font-bold text-[var(--primary-blue)] sm:text-5xl">Schedule a premium consultation in Addis Ababa</h2>
-            <p class="mt-6 text-lg leading-8 text-slate-600">The form below follows the reference feel closely: white card, subtle shadow, strong spacing, and a gold submit button that stands out without overwhelming the page.</p>
-            <div class="mt-10 space-y-4 text-lg leading-8 text-slate-600">
-              <p><strong class="text-[var(--primary-blue)]">Address:</strong> Near 4th Floor JEMS Building, Opposite Dreamliner Hotel, Gabon St, Addis Ababa, Ethiopia.</p>
-              <p><strong class="text-[var(--primary-blue)]">Phone:</strong> <a href="tel:+251935207720" class="text-[var(--primary-blue)]">+251 93 520 7720</a></p>
-              <p><strong class="text-[var(--primary-blue)]">Email:</strong> <a href="mailto:draslambaig@gmail.com" class="text-[var(--primary-blue)]">draslambaig@gmail.com</a></p>
-            </div>
-          </div>
-
-          <form class="consult-form reveal rounded-[1.75rem] p-6 sm:p-8 lg:p-10" action="https://formspree.io/f/your-form-id" method="POST">
-            <div class="grid gap-5 sm:grid-cols-2">
-              <label class="block sm:col-span-1">
-                <span class="text-sm font-bold uppercase tracking-[0.12em] text-[var(--primary-blue)]">Full Name</span>
-                <input name="name" type="text" placeholder="Your full name" required>
-              </label>
-              <label class="block sm:col-span-1">
-                <span class="text-sm font-bold uppercase tracking-[0.12em] text-[var(--primary-blue)]">Phone Number</span>
-                <input name="phone" type="tel" placeholder="+251 ..." required>
-              </label>
-              <label class="block sm:col-span-2">
-                <span class="text-sm font-bold uppercase tracking-[0.12em] text-[var(--primary-blue)]">Email Address</span>
-                <input name="email" type="email" placeholder="you@example.com" required>
-              </label>
-              <label class="block sm:col-span-2">
-                <span class="text-sm font-bold uppercase tracking-[0.12em] text-[var(--primary-blue)]">Preferred Service</span>
-                <select name="service">
-                  <option>Dental Implants</option>
-                  <option>All-on-4 / Full Arch</option>
-                  <option>Bone Grafting</option>
-                  <option>Ridge Augmentation</option>
-                  <option>Sinus Lift</option>
-                  <option>First Consultation</option>
-                </select>
-              </label>
-              <label class="block sm:col-span-2">
-                <span class="text-sm font-bold uppercase tracking-[0.12em] text-[var(--primary-blue)]">Message</span>
-                <textarea name="message" rows="6" placeholder="Tell us about your concerns or the treatment you are looking for."></textarea>
-              </label>
-            </div>
-            <div class="mt-8 flex flex-wrap items-center gap-4">
-              <button type="submit" class="gold-button rounded-full px-6 py-3 text-sm font-bold text-white">Submit</button>
-              <p class="text-sm text-slate-500">We’ll reply with the next available consultation steps.</p>
-            </div>
-          </form>
         </div>
       </div>
     </section>
