@@ -31,11 +31,11 @@
       <div class="site-shell sticky top-0 z-50">
         <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
           <a href="index.html" class="group flex items-center gap-3">
-            <div class="grid h-12 w-12 place-items-center rounded-2xl bg-gradient-to-br from-teal-700 to-cyan-950 text-white shadow-lg">
+            <div class="grid h-12 w-12 place-items-center rounded-2xl bg-gradient-to-br from-[#002d5b] to-[#0f2745] text-white shadow-lg">
               <span class="font-bold">AI</span>
             </div>
             <div>
-              <div class="text-sm font-extrabold uppercase tracking-[0.24em] text-teal-700">${SITE.name}</div>
+              <div class="text-sm font-extrabold uppercase tracking-[0.24em] text-[#002d5b]">${SITE.name}</div>
               <div class="text-xs text-slate-500">Implant clinic in Addis Ababa</div>
             </div>
           </a>
@@ -46,25 +46,25 @@
 
           <nav id="primary-nav" class="hidden lg:flex lg:items-center lg:gap-2" data-menu>
             ${SITE.nav.map(item => `
-              <a class="nav-link rounded-full px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-teal-50 hover:text-teal-700" data-nav-link data-nav-key="${item.key}" href="${item.href}">
+              <a class="nav-link rounded-full px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-[#002d5b]/5 hover:text-[#002d5b]" data-nav-link data-nav-key="${item.key}" href="${item.href}">
                 ${item.label}
               </a>
             `).join('')}
           </nav>
 
-          <a href="contact.html" class="hidden rounded-full bg-teal-700 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-teal-900/20 transition hover:bg-teal-800 lg:inline-flex">
-            Book a Consultation
+          <a href="contact.html" class="gold-button hidden rounded-full px-5 py-3 text-sm font-bold text-white transition lg:inline-flex">
+            Request Appointment
           </a>
         </div>
         <div class="hidden border-t border-slate-200 bg-white lg:hidden" data-mobile-panel>
           <div class="mx-auto grid max-w-7xl gap-1 px-4 py-3 sm:px-6 lg:px-8">
             ${SITE.nav.map(item => `
-              <a class="nav-link rounded-2xl px-4 py-3 text-sm font-semibold text-slate-700 hover:bg-teal-50 hover:text-teal-700" data-nav-link data-nav-key="${item.key}" href="${item.href}">
+              <a class="nav-link rounded-2xl px-4 py-3 text-sm font-semibold text-slate-700 hover:bg-[#002d5b]/5 hover:text-[#002d5b]" data-nav-link data-nav-key="${item.key}" href="${item.href}">
                 ${item.label}
               </a>
             `).join('')}
-            <a href="contact.html" class="mt-2 rounded-2xl bg-teal-700 px-4 py-3 text-center text-sm font-bold text-white">
-              Book a Consultation
+            <a href="contact.html" class="gold-button mt-2 rounded-2xl px-4 py-3 text-center text-sm font-bold text-white">
+              Request Appointment
             </a>
           </div>
         </div>
@@ -100,19 +100,25 @@
             <ul class="mt-4 space-y-3 text-sm text-slate-300">
               ${SITE.footerLinks.map(item => `<li><a class="hover:text-white" href="${item.href}">${item.label}</a></li>`).join('')}
             </ul>
-            <a href="contact.html" class="mt-6 inline-flex rounded-full bg-white px-5 py-3 text-sm font-bold text-slate-950">
-              Request Booking
+            <a href="contact.html" class="gold-button mt-6 inline-flex rounded-full px-5 py-3 text-sm font-bold text-white">
+              Request Appointment
             </a>
           </div>
         </div>
         <div class="border-t border-white/10">
           <div class="mx-auto flex max-w-7xl flex-col gap-2 px-4 py-5 text-xs text-slate-400 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
-            <div>© <span data-year></span> ${SITE.name}. All rights reserved.</div>
+            <div>&copy; <span data-year></span> ${SITE.name}. All rights reserved.</div>
             <div class="footer-fineprint">Addis Ababa implant dentistry website template.</div>
           </div>
         </div>
       </div>
     `;
+  }
+
+  function normalizePath(path) {
+    const clean = path.split('?')[0].split('#')[0].replace(/^\.\//, '');
+    if (!clean || clean === '/' || clean === 'index.html') return 'home';
+    return clean.replace(/\/$/, '');
   }
 
   function setActiveNav() {
@@ -124,15 +130,9 @@
       const isActive = key === current || normalizedHref === current;
       link.dataset.active = isActive ? 'true' : 'false';
       if (isActive) {
-        link.classList.add('text-teal-700');
+        link.classList.add('text-[#002d5b]');
       }
     });
-  }
-
-  function normalizePath(path) {
-    const clean = path.split('?')[0].split('#')[0].replace(/^\.\//, '');
-    if (!clean || clean === '/' || clean === 'index.html') return 'home';
-    return clean.replace(/\/$/, '');
   }
 
   function initMenu() {
@@ -178,6 +178,16 @@
     window.setInterval(() => advance(1), 6500);
   }
 
+  function initCompareSliders() {
+    document.querySelectorAll('[data-compare-slider]').forEach(slider => {
+      const input = slider.querySelector('[data-compare-input]');
+      if (!input) return;
+      const update = value => slider.style.setProperty('--position', `${value}%`);
+      update(input.value || 50);
+      input.addEventListener('input', event => update(event.target.value));
+    });
+  }
+
   function initFaq() {
     document.querySelectorAll('[data-accordion-button]').forEach(button => {
       const panelId = button.getAttribute('aria-controls');
@@ -218,6 +228,7 @@
     setActiveNav();
     initMenu();
     initCarousel();
+    initCompareSliders();
     initFaq();
     initReveal();
   }

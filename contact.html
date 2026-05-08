@@ -12,30 +12,39 @@
 <body data-page="contact">
   <header id="site-header"></header>
   <main>
-    <section class="section-surface">
-      <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
-        <span class="section-chip">Contact & Booking</span>
-        <h1 class="mt-4 text-5xl font-bold leading-[0.95]">Book a consultation or ask a question</h1>
-        <p class="mt-5 max-w-3xl text-base leading-8 text-slate-600">This booking page is set up for Formspree so new messages can be delivered by email. Replace the placeholder form ID with your real Formspree endpoint when you are ready to launch.</p>
+    <section class="section-surface py-16 sm:py-20">
+      <div class="mx-auto grid max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-[1.02fr_0.98fr] lg:px-8">
+        <div class="reveal">
+          <span class="section-chip">Contact & Booking</span>
+          <h1 class="mt-4 text-5xl font-bold leading-[0.95]">Request an appointment or ask a question</h1>
+          <p class="mt-5 max-w-3xl text-base leading-8 text-slate-600">Use this page to start a conversation about implants, oral surgery, or treatment planning in Addis Ababa. We respond with clear next steps and practical guidance.</p>
+        </div>
+        <div class="soft-card reveal overflow-hidden rounded-[1.75rem]">
+          <img src="https://images.pexels.com/photos/7422520/pexels-photo-7422520.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Bright modern dental office interior with clinical equipment" class="h-full min-h-[420px] w-full object-cover" />
+        </div>
+      </div>
+    </section>
 
-        <div class="mt-10 grid gap-8 lg:grid-cols-[1.02fr_0.98fr]">
+    <section class="py-16 sm:py-20">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="grid gap-8 lg:grid-cols-[1.02fr_0.98fr]">
           <form class="soft-card reveal rounded-[1.75rem] p-6 lg:p-8" action="https://formspree.io/f/your-form-id" method="POST">
             <div class="grid gap-5 sm:grid-cols-2">
               <label class="block">
                 <span class="text-sm font-bold text-slate-700">Full Name</span>
-                <input name="name" type="text" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-teal-500" placeholder="Your full name" required>
+                <input name="name" type="text" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-[#002d5b]" placeholder="Your full name" required>
               </label>
               <label class="block">
                 <span class="text-sm font-bold text-slate-700">Phone Number</span>
-                <input name="phone" type="tel" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-teal-500" placeholder="+251 ..." required>
+                <input name="phone" type="tel" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-[#002d5b]" placeholder="+251 ..." required>
               </label>
               <label class="block">
                 <span class="text-sm font-bold text-slate-700">Email Address</span>
-                <input name="email" type="email" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-teal-500" placeholder="you@example.com" required>
+                <input name="email" type="email" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-[#002d5b]" placeholder="you@example.com" required>
               </label>
               <label class="block">
                 <span class="text-sm font-bold text-slate-700">Preferred Service</span>
-                <select name="service" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-teal-500">
+                <select name="service" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-[#002d5b]">
                   <option>Dental Implants</option>
                   <option>All-on-4 / Full Arch</option>
                   <option>Bone Grafting</option>
@@ -46,11 +55,11 @@
               </label>
               <label class="block sm:col-span-2">
                 <span class="text-sm font-bold text-slate-700">Message</span>
-                <textarea name="message" rows="6" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-teal-500" placeholder="Tell us about your concerns or the treatment you are looking for."></textarea>
+                <textarea name="message" rows="6" class="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-[#002d5b]" placeholder="Tell us about your concern or the treatment you are looking for."></textarea>
               </label>
             </div>
             <div class="mt-6 flex flex-wrap items-center gap-4">
-              <button type="submit" class="rounded-full bg-teal-700 px-6 py-3 text-sm font-bold text-white">Send Inquiry</button>
+              <button type="submit" class="gold-button rounded-full px-6 py-3 text-sm font-bold text-white">Send Inquiry</button>
               <p class="text-xs text-slate-500">By submitting, you agree to be contacted about your request.</p>
             </div>
           </form>
@@ -59,28 +68,28 @@
             <div class="glass-card reveal rounded-[1.75rem] p-6 lg:p-8">
               <h2 class="text-3xl font-bold">Contact details</h2>
               <div class="mt-4 space-y-3 text-sm leading-7 text-slate-600">
-                <p><strong class="text-slate-900">Phone:</strong> <a href="tel:+251935207720" class="text-teal-700">+251 93 520 7720</a></p>
-                <p><strong class="text-slate-900">Email:</strong> <a href="mailto:draslambaig@gmail.com" class="text-teal-700">draslambaig@gmail.com</a></p>
+                <p><strong class="text-slate-900">Phone:</strong> <a href="tel:+251935207720" class="text-[#002d5b]">+251 93 520 7720</a></p>
+                <p><strong class="text-slate-900">Email:</strong> <a href="mailto:draslambaig@gmail.com" class="text-[#002d5b]">draslambaig@gmail.com</a></p>
                 <p><strong class="text-slate-900">Address:</strong> Near 4th Floor JEMS Building, Opposite Dreamliner Hotel, Gabon St, Addis Ababa, Ethiopia.</p>
               </div>
             </div>
 
-            <div class="video-placeholder reveal map-frame">
+            <div class="map-frame reveal">
               <iframe
-                title="Google Maps placeholder for Addis Implant"
+                title="Google Maps location for Addis Implant"
                 src="https://www.google.com/maps?q=Near%204th%20Floor%20JEMS%20Building%2C%20Opposite%20Dreamliner%20Hotel%2C%20Gabon%20St%2C%20Addis%20Ababa%2C%20Ethiopia&output=embed"
                 loading="lazy"></iframe>
               <div class="overlay">
                 <div>
-                  <p class="text-sm uppercase tracking-[0.25em] text-teal-200">Map Placeholder</p>
-                  <h2 class="mt-3 text-3xl font-bold text-white">Replace or keep this Google Maps embed</h2>
+                  <p class="text-sm uppercase tracking-[0.25em] text-amber-200">Find us in Addis Ababa</p>
+                  <h2 class="mt-3 text-3xl font-bold text-white">Easy access for consultations and follow-ups</h2>
                 </div>
               </div>
             </div>
 
             <div class="soft-card reveal rounded-[1.75rem] p-6">
               <h2 class="text-3xl font-bold">Booking notes</h2>
-              <p class="mt-3 text-sm leading-7 text-slate-600">If you want the contact page to match the reference site's form style even more closely, you can add a short intro banner, a second CTA strip, or a small testimonial block below the form.</p>
+              <p class="mt-3 text-sm leading-7 text-slate-600">If you want the contact page to feel even more premium, you can pair this form with a short testimonial strip or a booking calendar. The current version keeps the experience elegant and focused.</p>
             </div>
           </div>
         </div>
