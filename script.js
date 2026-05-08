@@ -29,13 +29,22 @@
   function renderHeader() {
     return `
       <div class="site-shell sticky top-0 z-50">
-        <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
+        <div class="site-topbar">
+          <div class="mx-auto flex max-w-7xl flex-col gap-2 px-4 py-3 text-sm sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
+            <div class="flex flex-wrap items-center gap-x-6 gap-y-2">
+              <span class="topbar-item">Call: <a href="tel:+251935207720" class="font-semibold">+251 93 520 7720</a></span>
+              <span class="topbar-item">Email: <a href="mailto:draslambaig@gmail.com" class="font-semibold">draslambaig@gmail.com</a></span>
+            </div>
+            <div class="topbar-item">Near 4th Floor JEMS Building, Opposite Dreamliner Hotel, Gabon St, Addis Ababa</div>
+          </div>
+        </div>
+        <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-5 sm:px-6 lg:px-8">
           <a href="index.html" class="group flex items-center gap-3">
-            <div class="grid h-12 w-12 place-items-center rounded-2xl bg-gradient-to-br from-[#002d5b] to-[#0f2745] text-white shadow-lg">
+            <div class="grid h-12 w-12 place-items-center rounded-2xl bg-[var(--primary-blue)] text-white shadow-lg">
               <span class="font-bold">AI</span>
             </div>
             <div>
-              <div class="text-sm font-extrabold uppercase tracking-[0.24em] text-[#002d5b]">${SITE.name}</div>
+              <div class="text-sm font-extrabold uppercase tracking-[0.24em] text-[var(--primary-blue)]">${SITE.name}</div>
               <div class="text-xs text-slate-500">Implant clinic in Addis Ababa</div>
             </div>
           </a>
@@ -46,7 +55,7 @@
 
           <nav id="primary-nav" class="hidden lg:flex lg:items-center lg:gap-2" data-menu>
             ${SITE.nav.map(item => `
-              <a class="nav-link rounded-full px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-[#002d5b]/5 hover:text-[#002d5b]" data-nav-link data-nav-key="${item.key}" href="${item.href}">
+              <a class="nav-link rounded-full px-4 py-2" data-nav-link data-nav-key="${item.key}" href="${item.href}">
                 ${item.label}
               </a>
             `).join('')}
@@ -59,7 +68,7 @@
         <div class="hidden border-t border-slate-200 bg-white lg:hidden" data-mobile-panel>
           <div class="mx-auto grid max-w-7xl gap-1 px-4 py-3 sm:px-6 lg:px-8">
             ${SITE.nav.map(item => `
-              <a class="nav-link rounded-2xl px-4 py-3 text-sm font-semibold text-slate-700 hover:bg-[#002d5b]/5 hover:text-[#002d5b]" data-nav-link data-nav-key="${item.key}" href="${item.href}">
+              <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="${item.key}" href="${item.href}">
                 ${item.label}
               </a>
             `).join('')}
