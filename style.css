@@ -1,206 +1,74 @@
-/* BRAND: ADDIS IMPLANT 
-   THEME: MODERN LIGHT BLUE & SLATE GRAY 
-*/
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600;700&family=Playfair+Display:wght@700&display=swap');
-
+/* style.css - Luxury Medical Theme */
 :root {
-    --primary-blue: #009ace;    /* Your Light Blue / Cyan */
-    --brand-cyan: #009ace;      
-    --menu-gray: #8691a0;       /* Your Menu Font Color */
-    --text-dark: #1a202c;       /* Dark Gray from your screenshot */
-    --body-text: #4a5568;
+    --primary: #009ace;
+    --navy: #1a202c;
+    --light: #f8fafc;
     --white: #ffffff;
-    --light-bg: #f8fafc;
-    --border: #e2e8f0;
-}
-
-/* --- Global Resets --- */
-html {
-    scroll-behavior: smooth;
 }
 
 body {
-    margin: 0;
-    background: var(--white);
-    color: var(--body-text);
-    font-family: 'Open Sans', Arial, sans-serif;
-    font-size: 18px;
-    line-height: 1.8;
+    font-family: 'Open Sans', sans-serif;
+    color: var(--navy);
+    background-color: var(--white);
+    line-height: 1.6;
 }
 
-/* Force override any lingering Dark Blue background classes */
-.bg-navy, .bg-dark-blue, [class*="bg-navy"], [class*="bg-blue-900"] {
-    background-color: var(--brand-cyan) !important;
-}
-
-/* --- Heading Styling (Matching your Screenshot) --- */
-h1, h2, h3, h4 {
+h1, h2, h3, .logo-text {
     font-family: 'Montserrat', sans-serif;
-    color: var(--text-dark); /* Dark part of the text */
-    font-weight: 800;
-    line-height: 1.2;
-    letter-spacing: -0.02em;
-    text-transform: none; /* Modern style, not all-caps */
-    margin-bottom: 1.5rem;
-}
-
-/* This targets the specific words you want in Light Blue */
-h1 span, h2 span, h3 span, .highlight {
-    color: var(--brand-cyan) !important;
     font-weight: 800;
 }
 
-/* --- Navigation & Header --- */
-.site-shell {
-    position: sticky;
-    top: 0;
-    z-index: 50;
-}
-
-.site-topbar {
-    background: var(--brand-cyan);
-    color: var(--white);
-    padding: 8px 0;
-}
-
+/* Consistent Navigation */
 .main-nav {
     background: var(--white);
-    border-bottom: 1px solid var(--border);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-    padding: 15px 0;
+    border-bottom: 1px solid #e2e8f0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 .nav-link {
-    color: var(--menu-gray) !important; /* Your specific gray */
-    font-size: 15px;
     font-weight: 600;
-    text-transform: none;
-    transition: all 0.3s ease;
+    color: var(--navy);
+    transition: color 0.3s;
 }
 
-.nav-link:hover, .nav-link.active {
-    color: var(--brand-cyan) !important;
+.nav-link:hover {
+    color: var(--primary);
 }
 
-.logo-mark {
-    background: var(--brand-cyan);
-    color: var(--white);
-    padding: 10px 15px;
-    border-radius: 12px;
-    font-weight: 800;
-}
-
-/* --- Buttons --- */
-.btn-primary, .gold-button {
-    background: var(--brand-cyan) !important;
-    color: var(--white) !important;
-    border: none !important;
-    padding: 14px 28px;
-    border-radius: 10px;
+/* Modern Buttons */
+.btn-primary {
+    background: var(--primary);
+    color: white;
+    padding: 12px 28px;
+    border-radius: 50px;
     font-weight: 700;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    box-shadow: 0 4px 14px rgba(0, 154, 206, 0.3);
-    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-block;
 }
 
 .btn-primary:hover {
+    background: #0076a3;
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(0, 154, 206, 0.4);
+    box-shadow: 0 4px 12px rgba(0, 154, 206, 0.3);
 }
 
-/* --- Section Layouts --- */
-section {
-    padding: 80px 0;
-}
-
-.hero-section {
-    position: relative;
-    background-color: var(--light-bg);
-    display: flex;
-    align-items: center;
-    overflow: hidden;
-}
-
-.hero-overlay {
-    position: absolute;
-    inset: 0;
-    background: rgba(255, 255, 255, 0.5); /* Lighter, cleaner overlay */
-}
-
-/* --- Cards & Features --- */
+/* Cards & Sections */
 .soft-card {
-    background: var(--white);
-    border: 1px solid var(--border);
+    background: white;
+    padding: 2rem;
     border-radius: 20px;
-    padding: 30px;
-    transition: all 0.3s ease;
+    border: 1px solid #edf2f7;
+    transition: transform 0.3s ease;
 }
 
 .soft-card:hover {
-    border-color: var(--brand-cyan);
     transform: translateY(-5px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.05);
+    border-color: var(--primary);
 }
 
-.service-icon {
-    color: var(--brand-cyan);
-    font-size: 2rem;
-    margin-bottom: 20px;
-}
-
-/* --- Form Styling --- */
-.consult-form {
-    background: var(--white);
-    border-radius: 24px;
-    padding: 40px;
-    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.1);
-}
-
-.consult-form input, .consult-form select, .consult-form textarea {
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 12px 16px;
-    margin-bottom: 15px;
-    width: 100%;
-}
-
-.consult-form input:focus {
-    border-color: var(--brand-cyan);
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(0, 154, 206, 0.1);
-}
-
-/* --- Trust Bar --- */
-.trust-rail {
-    background: var(--light-bg);
-    padding: 40px 0;
-    border-top: 1px solid var(--border);
-}
-
-.trust-mark {
-    filter: grayscale(100%);
-    opacity: 0.6;
-    transition: 0.3s;
-}
-
-.trust-mark:hover {
-    filter: grayscale(0%);
-    opacity: 1;
-}
-
-/* --- Footer --- */
-footer {
-    background: #1a202c; /* Deep dark gray footer for contrast */
-    color: var(--white);
-    padding: 60px 0 20px;
-}
-
-.footer-link {
-    color: #a0aec0;
-    transition: 0.3s;
-}
-
-.footer-link:hover {
-    color: var(--brand-cyan);
+.footer-top {
+    background: var(--navy);
+    color: white;
 }
