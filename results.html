@@ -3,93 +3,197 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Before & After Results | Addis Implant</title>
-  <meta name="description" content="View a before-and-after style results gallery for implant dentistry and smile restoration in Addis Ababa." />
-  <link rel="stylesheet" href="style.css" />
+  <title>Results | Addis Implant</title>
+  <meta name="description" content="Before and after case studies for dental implant and oral surgery results in Addis Ababa, Ethiopia." />
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="script.js" defer></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="./style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
+  <script src="./script.js" defer></script>
 </head>
 <body data-page="results">
-  <header id="site-header"></header>
+  <header class="site-shell">
+    <div class="site-topbar">
+      <div class="mx-auto flex max-w-7xl flex-col gap-2 px-4 py-3 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
+        <div class="flex flex-wrap items-center gap-x-6 gap-y-2">
+          <span class="topbar-item">Call: <a href="tel:+251935207720" class="font-semibold">+251 93 520 7720</a></span>
+          <span class="topbar-item">Email: <a href="mailto:draslambaig@gmail.com" class="font-semibold">draslambaig@gmail.com</a></span>
+        </div>
+        <div class="topbar-item">JEMS Building, Gabon St, Addis Ababa, Ethiopia</div>
+      </div>
+    </div>
+
+    <div class="main-nav">
+      <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-5 sm:px-6 lg:px-8">
+        <a href="./index.html" class="flex items-center gap-3">
+          <div class="logo-mark">AI</div>
+          <div>
+            <div class="site-brand">ADDIS IMPLANT</div>
+            <div class="site-subbrand">Oral Surgery in Addis Ababa</div>
+          </div>
+        </a>
+
+        <button class="inline-flex items-center justify-center rounded-full border border-[rgba(18,29,43,0.14)] bg-white px-4 py-2 text-sm font-bold text-[var(--navy)] shadow-sm lg:hidden" data-menu-button aria-expanded="false" aria-controls="primary-nav">
+          Menu
+        </button>
+
+        <nav id="primary-nav" class="hidden lg:flex lg:items-center lg:gap-8" data-menu>
+          <a class="nav-link" data-nav-link data-nav-key="home" href="./index.html">Home</a>
+          <a class="nav-link" data-nav-link data-nav-key="about" href="./about.html">About</a>
+          <a class="nav-link" data-nav-link data-nav-key="services" href="./services.html">Services</a>
+          <a class="nav-link" data-nav-link data-nav-key="results" href="./results.html">Results</a>
+          <a class="nav-link" data-nav-link data-nav-key="contact" href="./contact.html">Contact</a>
+          <a href="./contact.html" class="cta-button">Request Appointment</a>
+        </nav>
+      </div>
+
+      <div class="hidden border-t border-[rgba(18,29,43,0.08)] bg-white lg:hidden" data-mobile-panel>
+        <div class="mx-auto grid max-w-7xl gap-2 px-4 py-4 sm:px-6 lg:px-8">
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="home" href="./index.html">Home</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="about" href="./about.html">About</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="services" href="./services.html">Services</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="results" href="./results.html">Results</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="contact" href="./contact.html">Contact</a>
+          <a href="./contact.html" class="cta-button mt-2 rounded-2xl px-4 py-3 text-center">Request Appointment</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
   <main>
-    <section class="section-surface py-16 sm:py-20">
+    <section class="py-24">
       <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <span class="section-chip">Gallery</span>
-        <h1 class="mt-4 text-5xl font-bold leading-[0.95]">A results section that feels polished, honest, and easy to scan</h1>
-        <p class="mt-5 max-w-3xl text-base leading-8 text-slate-600">These comparisons are styled for clarity and trust. They show the kind of visual improvement patients often hope for when considering implants and supporting procedures.</p>
+        <span class="section-chip">Before & After</span>
+        <h1 class="mt-4 max-w-4xl text-5xl leading-[0.95] sm:text-6xl">Beautiful case studies with clear, professional labeling</h1>
+        <p class="mt-6 max-w-3xl text-lg leading-8 text-slate-600">These gallery cards are organized to feel polished and credible, making it easy for patients in Addis Ababa to understand the visual impact of treatment.</p>
 
-        <div class="mt-10 grid gap-6 lg:grid-cols-2">
-          <article class="soft-card reveal overflow-hidden rounded-[1.75rem]">
-            <div class="grid gap-4 md:grid-cols-2">
-              <div class="bg-slate-100 p-3">
-                <div class="mb-3 text-sm font-bold uppercase tracking-[0.2em] text-slate-500">Before</div>
-                <img src="https://images.pexels.com/photos/31970661/pexels-photo-31970661.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Before image showing a smiling person with a missing tooth" class="h-72 w-full rounded-2xl object-cover" />
+        <div class="mt-12 grid gap-8 lg:grid-cols-2">
+          <article class="gallery-card">
+            <div class="gallery-split">
+              <div class="gallery-panel">
+                <span class="case-label">Before</span>
+                <img src="https://images.pexels.com/photos/31970661/pexels-photo-31970661.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="Before single tooth replacement case" class="h-72 w-full object-cover" />
               </div>
-              <div class="bg-emerald-50 p-3">
-                <div class="mb-3 text-sm font-bold uppercase tracking-[0.2em] text-[#002d5b]">After</div>
-                <img src="https://images.pexels.com/photos/5622014/pexels-photo-5622014.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="After image showing a restored smile in a dental clinic setting" class="h-72 w-full rounded-2xl object-cover" />
+              <div class="gallery-panel">
+                <span class="case-label">After</span>
+                <img src="https://images.pexels.com/photos/5622014/pexels-photo-5622014.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="After single tooth implant case" class="h-72 w-full object-cover" />
               </div>
             </div>
-            <div class="p-6">
-              <h2 class="text-3xl font-bold">Single-tooth implant restoration</h2>
-              <p class="mt-3 text-sm leading-7 text-slate-600">A simple comparison format helps patients visualize how a missing tooth can be restored with a natural-looking outcome.</p>
+            <div class="gallery-copy">
+              <h2 class="text-3xl">Single Tooth Restoration</h2>
+              <p class="mt-3 text-lg leading-8 text-slate-600">A stable implant replacement can restore form, function, and confidence with a natural finish.</p>
             </div>
           </article>
 
-          <article class="soft-card reveal overflow-hidden rounded-[1.75rem]">
-            <div class="grid gap-4 md:grid-cols-2">
-              <div class="bg-slate-100 p-3">
-                <div class="mb-3 text-sm font-bold uppercase tracking-[0.2em] text-slate-500">Before</div>
-                <img src="https://images.pexels.com/photos/6627476/pexels-photo-6627476.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Before image showing a patient in a dental chair during planning" class="h-72 w-full rounded-2xl object-cover" />
+          <article class="gallery-card">
+            <div class="gallery-split">
+              <div class="gallery-panel">
+                <span class="case-label">Before</span>
+                <img src="https://images.pexels.com/photos/6627476/pexels-photo-6627476.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="Before full arch case" class="h-72 w-full object-cover" />
               </div>
-              <div class="bg-emerald-50 p-3">
-                <div class="mb-3 text-sm font-bold uppercase tracking-[0.2em] text-[#002d5b]">After</div>
-                <img src="https://images.pexels.com/photos/5622233/pexels-photo-5622233.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="After image showing a happy patient with protective eyewear after treatment" class="h-72 w-full rounded-2xl object-cover" />
-              </div>
-            </div>
-            <div class="p-6">
-              <h2 class="text-3xl font-bold">Full-arch restoration story</h2>
-              <p class="mt-3 text-sm leading-7 text-slate-600">This style works well for All-on-4 and full-mouth rehabilitation conversations.</p>
-            </div>
-          </article>
-
-          <article class="soft-card reveal overflow-hidden rounded-[1.75rem]">
-            <div class="grid gap-4 md:grid-cols-2">
-              <div class="bg-slate-100 p-3">
-                <div class="mb-3 text-sm font-bold uppercase tracking-[0.2em] text-slate-500">Before</div>
-                <img src="https://images.pexels.com/photos/6528855/pexels-photo-6528855.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Before image showing a dentist examining teeth in clinic" class="h-72 w-full rounded-2xl object-cover" />
-              </div>
-              <div class="bg-emerald-50 p-3">
-                <div class="mb-3 text-sm font-bold uppercase tracking-[0.2em] text-[#002d5b]">After</div>
-                <img src="https://images.pexels.com/photos/8313253/pexels-photo-8313253.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="After image showing a doctor and patient smiling in a bright clinic" class="h-72 w-full rounded-2xl object-cover" />
+              <div class="gallery-panel">
+                <span class="case-label">After</span>
+                <img src="https://images.pexels.com/photos/8313253/pexels-photo-8313253.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="After full arch restorative case" class="h-72 w-full object-cover" />
               </div>
             </div>
-            <div class="p-6">
-              <h2 class="text-3xl font-bold">Confident consultation outcome</h2>
-              <p class="mt-3 text-sm leading-7 text-slate-600">The goal is to show trust, comfort, and professional alignment, not just the teeth themselves.</p>
+            <div class="gallery-copy">
+              <h2 class="text-3xl">Full Arch Rehabilitation</h2>
+              <p class="mt-3 text-lg leading-8 text-slate-600">Full-arch treatment can create a more secure bite and a smoother, more confident smile line.</p>
             </div>
           </article>
 
-          <article class="soft-card reveal overflow-hidden rounded-[1.75rem]">
-            <div class="grid gap-4 md:grid-cols-2">
-              <div class="bg-slate-100 p-3">
-                <div class="mb-3 text-sm font-bold uppercase tracking-[0.2em] text-slate-500">Before</div>
-                <img src="https://images.pexels.com/photos/3845723/pexels-photo-3845723.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Before image of a modern clinic environment" class="h-72 w-full rounded-2xl object-cover" />
+          <article class="gallery-card">
+            <div class="gallery-split">
+              <div class="gallery-panel">
+                <span class="case-label">Before</span>
+                <img src="https://images.pexels.com/photos/3845723/pexels-photo-3845723.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="Before clinic and treatment planning case" class="h-72 w-full object-cover" />
               </div>
-              <div class="bg-emerald-50 p-3">
-                <div class="mb-3 text-sm font-bold uppercase tracking-[0.2em] text-[#002d5b]">After</div>
-                <img src="doctor_aslam.jpg" alt="After image showing Dr. Aslam in a polished clinic presentation" class="h-72 w-full rounded-2xl object-cover object-top" />
+              <div class="gallery-panel">
+                <span class="case-label">After</span>
+                <img src="https://images.pexels.com/photos/3845759/pexels-photo-3845759.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="After premium clinic result case" class="h-72 w-full object-cover" />
               </div>
             </div>
-            <div class="p-6">
-              <h2 class="text-3xl font-bold">Clinic experience and trust</h2>
-              <p class="mt-3 text-sm leading-7 text-slate-600">A premium presentation matters because patients are often choosing a clinic before they choose a procedure.</p>
+            <div class="gallery-copy">
+              <h2 class="text-3xl">Clinic Experience and Trust</h2>
+              <p class="mt-3 text-lg leading-8 text-slate-600">A polished clinical environment helps patients feel more at ease and confident in their care.</p>
+            </div>
+          </article>
+
+          <article class="gallery-card">
+            <div class="gallery-split">
+              <div class="gallery-panel">
+                <span class="case-label">Before</span>
+                <img src="https://images.pexels.com/photos/7583379/pexels-photo-7583379.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="Before oral surgery preparation case" class="h-72 w-full object-cover" />
+              </div>
+              <div class="gallery-panel">
+                <span class="case-label">After</span>
+                <img src="https://images.pexels.com/photos/3845766/pexels-photo-3845766.jpeg?auto=compress&cs=tinysrgb&w=1800" alt="After oral surgery result case" class="h-72 w-full object-cover" />
+              </div>
+            </div>
+            <div class="gallery-copy">
+              <h2 class="text-3xl">Surgical Planning and Outcome</h2>
+              <p class="mt-3 text-lg leading-8 text-slate-600">Careful preparation supports more predictable surgery and a refined final result.</p>
             </div>
           </article>
         </div>
       </div>
     </section>
   </main>
-  <footer id="site-footer"></footer>
+
+  <footer class="footer-shell">
+    <div class="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <h2 class="text-3xl text-white">Addis Implant</h2>
+        <p class="mt-4 max-w-2xl text-lg leading-8 text-white/82">Premium dental implants and oral surgery care in Addis Ababa with an international medical aesthetic and a patient-first approach.</p>
+      </div>
+
+      <div class="mt-14 grid gap-12 lg:grid-cols-4">
+        <div>
+          <h3 class="footer-heading text-lg">Services</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./dental-implants.html">Dental Implants</a></li>
+            <li><a class="footer-link" href="./all-on-4.html">All-on-4</a></li>
+            <li><a class="footer-link" href="./bone-grafting.html">Bone Grafting</a></li>
+            <li><a class="footer-link" href="./sinus-lift.html">Sinus Lift</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Patient Center</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./first-visit.html">First Visit</a></li>
+            <li><a class="footer-link" href="./insurance.html">Insurance & Financing</a></li>
+            <li><a class="footer-link" href="./post-op-care.html">Post-Op Care</a></li>
+            <li><a class="footer-link" href="./faq.html">FAQ</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Quick Links</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./index.html">Home</a></li>
+            <li><a class="footer-link" href="./about.html">About</a></li>
+            <li><a class="footer-link" href="./results.html">Results</a></li>
+            <li><a class="footer-link" href="./contact.html">Contact</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Location</h3>
+          <p class="mt-5 text-lg leading-8 text-white/82">Near 4th Floor JEMS Building, Opposite Dreamliner Hotel, Gabon St, Addis Ababa, Ethiopia.</p>
+          <div class="mt-5 space-y-2 text-lg leading-8 text-white/82">
+            <p>Phone: <a class="footer-link" href="tel:+251935207720">+251 93 520 7720</a></p>
+            <p>Email: <a class="footer-link" href="mailto:draslambaig@gmail.com">draslambaig@gmail.com</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-t border-white/10">
+      <div class="mx-auto max-w-7xl px-4 py-5 text-sm uppercase tracking-[0.14em] text-white/70 sm:px-6 lg:px-8">
+        &copy; <span data-year></span> Addis Implant. All rights reserved.
+      </div>
+    </div>
+  </footer>
 </body>
 </html>

@@ -1,103 +1,237 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Addis Implant | Premium Dental Care</title>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="./style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Addis Implant | Dental Implants and Oral Surgery in Addis Ababa</title>
+  <meta name="description" content="Addis Implant provides advanced dental implants, All-on-4 restorations, bone grafting, and oral surgery care in Addis Ababa, Ethiopia." />
+  <meta property="og:title" content="Addis Implant | Dental Implants and Oral Surgery in Addis Ababa" />
+  <meta property="og:description" content="Premium implant dentistry, clear treatment planning, and compassionate oral surgery care in Addis Ababa." />
+  <meta property="og:type" content="website" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="./style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
+  <script src="./script.js" defer></script>
 </head>
-<body>
-
-    <div class="bg-[#009ace] text-white py-2 text-center text-xs md:text-sm font-bold">
-        📍 JEMS Building, Addis Ababa | 📞 +251 93 520 7720 | ✉️ draslambaig@gmail.com
+<body data-page="home">
+  <header class="site-shell">
+    <div class="site-topbar">
+      <div class="mx-auto flex max-w-7xl flex-col gap-2 px-4 py-3 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
+        <div class="flex flex-wrap items-center gap-x-6 gap-y-2">
+          <span class="topbar-item">Call: <a href="tel:+251935207720" class="font-semibold">+251 93 520 7720</a></span>
+          <span class="topbar-item">Email: <a href="mailto:draslambaig@gmail.com" class="font-semibold">draslambaig@gmail.com</a></span>
+        </div>
+        <div class="topbar-item">JEMS Building, Gabon St, Addis Ababa, Ethiopia</div>
+      </div>
     </div>
 
-    <nav class="main-nav py-4">
-        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
-            <div class="flex items-center space-x-2">
-                <div class="bg-[#009ace] text-white p-2 rounded-lg font-bold text-xl">AI</div>
-                <div class="logo-text text-xl leading-tight">ADDIS <span class="text-[#009ace]">IMPLANT</span><br><small class="text-[10px] text-gray-500 font-normal">Oral Surgery in Addis Ababa</small></div>
-            </div>
-            <div class="hidden md:flex space-x-8 items-center">
-                <a href="index.html" class="nav-link">Home</a>
-                <a href="about.html" class="nav-link">About</a>
-                <a href="services.html" class="nav-link">Services</a>
-                <a href="results.html" class="nav-link">Results</a>
-                <a href="contact.html" class="btn-primary">Request Appointment</a>
-            </div>
-        </div>
-    </nav>
+    <div class="main-nav">
+      <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-5 sm:px-6 lg:px-8">
+        <a href="./index.html" class="flex items-center gap-3">
+          <div class="logo-mark">AI</div>
+          <div>
+            <div class="site-brand">ADDIS IMPLANT</div>
+            <div class="site-subbrand">Oral Surgery in Addis Ababa</div>
+          </div>
+        </a>
 
-    <section class="py-12 bg-white">
-        <div class="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-12 items-center">
-            <div>
-                <h1 class="text-4xl md:text-6xl mb-6">World-Class <span class="text-[#009ace]">Dental Implants</span> in Ethiopia</h1>
-                <p class="text-lg text-gray-600 mb-8">Dr. Aslam Hisam Qasmi provides precise, permanent solutions for your smile using the latest digital implant technology.</p>
-                <div class="flex space-x-4">
-                    <a href="contact.html" class="btn-primary">Book Consultation</a>
-                    <a href="services.html" class="px-8 py-4 border-2 border-gray-200 rounded-full font-bold hover:border-[#009ace]">View Services</a>
-                </div>
-            </div>
-            <div class="h-[400px] rounded-3xl overflow-hidden shadow-2xl">
-                <div class="swiper mySwiper h-full">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide"><img src="https://images.pexels.com/photos/3845766/pexels-photo-3845766.jpeg?auto=compress&cs=tinysrgb&w=1260" class="w-full h-full object-cover"></div>
-                        <div class="swiper-slide"><img src="https://images.pexels.com/photos/3779709/pexels-photo-3779709.jpeg?auto=compress&cs=tinysrgb&w=1260" class="w-full h-full object-cover"></div>
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
+        <button class="inline-flex items-center justify-center rounded-full border border-[rgba(18,29,43,0.14)] bg-white px-4 py-2 text-sm font-bold text-[var(--navy)] shadow-sm lg:hidden" data-menu-button aria-expanded="false" aria-controls="primary-nav">
+          Menu
+        </button>
+
+        <nav id="primary-nav" class="hidden lg:flex lg:items-center lg:gap-8" data-menu>
+          <a class="nav-link" data-nav-link data-nav-key="home" href="./index.html">Home</a>
+          <a class="nav-link" data-nav-link data-nav-key="about" href="./about.html">About</a>
+          <a class="nav-link" data-nav-link data-nav-key="services" href="./services.html">Services</a>
+          <a class="nav-link" data-nav-link data-nav-key="results" href="./results.html">Results</a>
+          <a class="nav-link" data-nav-link data-nav-key="contact" href="./contact.html">Contact</a>
+          <a href="./contact.html" class="cta-button">Request Appointment</a>
+        </nav>
+      </div>
+
+      <div class="hidden border-t border-[rgba(18,29,43,0.08)] bg-white lg:hidden" data-mobile-panel>
+        <div class="mx-auto grid max-w-7xl gap-2 px-4 py-4 sm:px-6 lg:px-8">
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="home" href="./index.html">Home</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="about" href="./about.html">About</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="services" href="./services.html">Services</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="results" href="./results.html">Results</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="contact" href="./contact.html">Contact</a>
+          <a href="./contact.html" class="cta-button mt-2 rounded-2xl px-4 py-3 text-center">Request Appointment</a>
         </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero-section">
+      <div class="swiper heroSwiper">
+        <div class="swiper-wrapper">
+          <article class="swiper-slide" style="background-image:url('https://images.pexels.com/photos/3845759/pexels-photo-3845759.jpeg?auto=compress&cs=tinysrgb&w=1800');">
+            <div class="hero-overlay"></div>
+            <div class="hero-content">
+              <div class="mx-auto max-w-5xl px-4 text-center text-white sm:px-6 lg:px-8">
+                <span class="section-chip mx-auto border-white/20 bg-white/10 text-white">Specialist-led care in Addis Ababa</span>
+                <h1 class="hero-title mt-6 text-5xl leading-[0.95] sm:text-6xl lg:text-7xl">World-Class Dental Implants in Addis Ababa</h1>
+                <p class="hero-strap mx-auto mt-6 max-w-3xl text-lg leading-8 sm:text-xl">Advanced oral surgery, careful diagnostics, and a luxury medical experience for patients who want precision, comfort, and lasting results.</p>
+                <div class="mt-10 flex flex-wrap justify-center gap-4">
+                  <a href="./contact.html" class="cta-button">Request Appointment</a>
+                  <a href="./services.html" class="secondary-button">View Services</a>
+                </div>
+              </div>
+            </div>
+          </article>
+
+          <article class="swiper-slide" style="background-image:url('https://images.pexels.com/photos/6627476/pexels-photo-6627476.jpeg?auto=compress&cs=tinysrgb&w=1800');">
+            <div class="hero-overlay"></div>
+            <div class="hero-content">
+              <div class="mx-auto max-w-5xl px-4 text-center text-white sm:px-6 lg:px-8">
+                <span class="section-chip mx-auto border-white/20 bg-white/10 text-white">Full-arch restoration</span>
+                <h2 class="hero-title mt-6 text-5xl leading-[0.95] sm:text-6xl lg:text-7xl">Confidence Through Full-Arch Solutions</h2>
+                <p class="hero-strap mx-auto mt-6 max-w-3xl text-lg leading-8 sm:text-xl">A refined treatment journey for Addis Ababa patients seeking a fixed, natural-looking solution with a clear path from consultation to final smile.</p>
+                <div class="mt-10 flex flex-wrap justify-center gap-4">
+                  <a href="./contact.html" class="cta-button">Request Appointment</a>
+                  <a href="./results.html" class="secondary-button">See Results</a>
+                </div>
+              </div>
+            </div>
+          </article>
+
+          <article class="swiper-slide" style="background-image:url('https://images.pexels.com/photos/3845723/pexels-photo-3845723.jpeg?auto=compress&cs=tinysrgb&w=1800');">
+            <div class="hero-overlay"></div>
+            <div class="hero-content">
+              <div class="mx-auto max-w-5xl px-4 text-center text-white sm:px-6 lg:px-8">
+                <span class="section-chip mx-auto border-white/20 bg-white/10 text-white">Addis Ababa, Ethiopia</span>
+                <h2 class="hero-title mt-6 text-5xl leading-[0.95] sm:text-6xl lg:text-7xl">Precision Oral Surgery with a Luxury Medical Feel</h2>
+                <p class="hero-strap mx-auto mt-6 max-w-3xl text-lg leading-8 sm:text-xl">A polished, international standard of care shaped around trust, clarity, and premium patient experience from the first visit onward.</p>
+                <div class="mt-10 flex flex-wrap justify-center gap-4">
+                  <a href="./contact.html" class="cta-button">Request Appointment</a>
+                  <a href="./about.html" class="secondary-button">Meet the Team</a>
+                </div>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
     </section>
 
-    <section class="py-20 bg-slate-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-16">
-                <h2 class="text-3xl md:text-4xl">Specialized Treatment Menu</h2>
-                <p class="text-gray-500 mt-4">Focused on implant success and patient clarity.</p>
-            </div>
-            <div class="grid md:grid-cols-3 gap-8">
-                <div class="soft-card">
-                    <div class="text-3xl mb-4">🦷</div>
-                    <h3 class="text-xl mb-2">Dental Implants</h3>
-                    <p class="text-sm text-gray-600">The gold standard for permanent tooth replacement.</p>
-                    <a href="services.html" class="text-[#009ace] mt-4 inline-block font-bold">Open Page →</a>
-                </div>
-                </div>
+    <section class="trust-rail">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-col gap-3 lg:flex-row lg:items-end lg:justify-between">
+          <div>
+            <p class="text-xs font-bold uppercase tracking-[0.22em] text-[var(--navy)]">Trusted by patients who value precision</p>
+            <h2 class="mt-2 text-3xl font-bold text-[var(--navy)]">ADA, AAOMS, and leading dental associations</h2>
+          </div>
+          <p class="max-w-2xl text-lg leading-8 text-slate-600">A grayscale trust bar keeps the experience refined while reinforcing the professionalism of the clinic.</p>
         </div>
+
+        <div class="mt-8 overflow-hidden">
+          <div class="trust-track" data-trust-track>
+            <div class="trust-mark">ADA</div>
+            <div class="trust-mark">AAOMS</div>
+            <div class="trust-mark">ICOI</div>
+            <div class="trust-mark">AAID</div>
+            <div class="trust-mark">ACP</div>
+            <div class="trust-mark">DDS</div>
+          </div>
+        </div>
+      </div>
     </section>
 
-    <footer class="footer-top py-16">
-        <div class="max-w-7xl mx-auto px-4 grid md:grid-cols-3 gap-12">
-            <div>
-                <div class="text-xl font-bold mb-4">ADDIS <span class="text-[#009ace]">IMPLANT</span></div>
-                <p class="text-gray-400">Premium oral surgery and dental implant center.</p>
-            </div>
-            <div>
-                <h4 class="font-bold mb-4 text-[#009ace]">Quick Links</h4>
-                <ul class="text-gray-400 space-y-2 text-sm">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="results.html">Results</a></li>
-                </ul>
-            </div>
-            <div>
-                <h4 class="font-bold mb-4 text-[#009ace]">Contact Us</h4>
-                <p class="text-gray-400 text-sm">JEMS Building, Gabon St, Addis Ababa<br>+251 93 520 7720</p>
-            </div>
+    <section>
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-col gap-4 lg:flex-row lg:items-end lg:justify-between">
+          <div class="max-w-3xl">
+            <span class="section-chip">Featured Procedures</span>
+            <h2 class="mt-4 text-4xl font-bold text-[var(--navy)] sm:text-5xl">Focused surgical procedures planned around long-term implant success</h2>
+          </div>
+          <a href="./services.html" class="text-sm font-bold uppercase tracking-[0.14em] text-[var(--blue)]">View All Procedures</a>
         </div>
-    </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <script>
-        var swiper = new Swiper(".mySwiper", {
-            loop: true,
-            autoplay: { delay: 3000 },
-            pagination: { el: ".swiper-pagination", clickable: true },
-        });
-    </script>
+        <div class="mt-12 grid gap-6 md:grid-cols-3">
+          <article class="feature-card">
+            <div class="feature-icon">01</div>
+            <h3 class="mt-6 text-3xl">Dental Implants</h3>
+            <p class="mt-4 text-lg leading-8 text-slate-600">Single and multi-tooth replacement designed for stable chewing, natural aesthetics, and lasting performance in Addis Ababa.</p>
+            <a href="./services.html" class="read-more mt-6">Read More</a>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon">02</div>
+            <h3 class="mt-6 text-3xl">All-on-4</h3>
+            <p class="mt-4 text-lg leading-8 text-slate-600">A full-arch restorative option for patients seeking a fixed solution with a precise surgical plan and a premium result.</p>
+            <a href="./services.html" class="read-more mt-6">Read More</a>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon">03</div>
+            <h3 class="mt-6 text-3xl">Bone Grafting</h3>
+            <p class="mt-4 text-lg leading-8 text-slate-600">Supportive jaw reconstruction that helps create the foundation needed for reliable implant placement and healing.</p>
+            <a href="./services.html" class="read-more mt-6">Read More</a>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer-shell">
+    <div class="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <h2 class="text-3xl text-white">Addis Implant</h2>
+        <p class="mt-4 max-w-2xl text-lg leading-8 text-white/82">Premium dental implants and oral surgery care in Addis Ababa with an international medical aesthetic and a patient-first approach.</p>
+      </div>
+
+      <div class="mt-14 grid gap-12 lg:grid-cols-4">
+        <div>
+          <h3 class="footer-heading text-lg">Services</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./dental-implants.html">Dental Implants</a></li>
+            <li><a class="footer-link" href="./all-on-4.html">All-on-4</a></li>
+            <li><a class="footer-link" href="./bone-grafting.html">Bone Grafting</a></li>
+            <li><a class="footer-link" href="./sinus-lift.html">Sinus Lift</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Patient Center</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./first-visit.html">First Visit</a></li>
+            <li><a class="footer-link" href="./insurance.html">Insurance & Financing</a></li>
+            <li><a class="footer-link" href="./post-op-care.html">Post-Op Care</a></li>
+            <li><a class="footer-link" href="./faq.html">FAQ</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Quick Links</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./index.html">Home</a></li>
+            <li><a class="footer-link" href="./about.html">About</a></li>
+            <li><a class="footer-link" href="./results.html">Results</a></li>
+            <li><a class="footer-link" href="./contact.html">Contact</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Location</h3>
+          <p class="mt-5 text-lg leading-8 text-white/82">Near 4th Floor JEMS Building, Opposite Dreamliner Hotel, Gabon St, Addis Ababa, Ethiopia.</p>
+          <div class="mt-5 space-y-2 text-lg leading-8 text-white/82">
+            <p>Phone: <a class="footer-link" href="tel:+251935207720">+251 93 520 7720</a></p>
+            <p>Email: <a class="footer-link" href="mailto:draslambaig@gmail.com">draslambaig@gmail.com</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-t border-white/10">
+      <div class="mx-auto max-w-7xl px-4 py-5 text-sm uppercase tracking-[0.14em] text-white/70 sm:px-6 lg:px-8">
+        &copy; <span data-year></span> Addis Implant. All rights reserved.
+      </div>
+    </div>
+  </footer>
 </body>
 </html>

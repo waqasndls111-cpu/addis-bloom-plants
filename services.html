@@ -4,96 +4,176 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Services | Addis Implant</title>
-  <meta name="description" content="Explore dental implants, All-on-4, bone grafting, ridge augmentation, sinus lift, and planning services in Addis Ababa." />
-  <link rel="stylesheet" href="style.css" />
+  <meta name="description" content="Explore dental implants, All-on-4, bone grafting, and sinus lift surgery in Addis Ababa, Ethiopia." />
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="script.js" defer></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="./style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
+  <script src="./script.js" defer></script>
 </head>
 <body data-page="services">
-  <header id="site-header"></header>
-  <main>
-    <section class="section-surface py-16 sm:py-20">
-      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <span class="section-chip">Services</span>
-        <h1 class="mt-4 max-w-3xl text-5xl font-bold leading-[0.95]">A focused treatment menu built for implant success and patient clarity</h1>
-        <p class="mt-5 max-w-3xl text-base leading-8 text-slate-600">Each service page is written for patients in Addis Ababa who want straightforward explanations, premium presentation, and an easy path from research to booking.</p>
+  <header class="site-shell">
+    <div class="site-topbar">
+      <div class="mx-auto flex max-w-7xl flex-col gap-2 px-4 py-3 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
+        <div class="flex flex-wrap items-center gap-x-6 gap-y-2">
+          <span class="topbar-item">Call: <a href="tel:+251935207720" class="font-semibold">+251 93 520 7720</a></span>
+          <span class="topbar-item">Email: <a href="mailto:draslambaig@gmail.com" class="font-semibold">draslambaig@gmail.com</a></span>
+        </div>
+        <div class="topbar-item">JEMS Building, Gabon St, Addis Ababa, Ethiopia</div>
+      </div>
+    </div>
 
-        <div class="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
-          <article class="card-hover rounded-[1.5rem] border border-[#002d5b]/15 bg-white p-6 shadow-sm">
-            <div class="section-chip">Core</div>
-            <h2 class="mt-4 text-3xl font-bold">Dental Implants</h2>
-            <p class="mt-3 text-sm leading-7 text-slate-600">A stable replacement for one or more missing teeth, planned with long-term function and appearance in mind.</p>
-            <a href="dental-implants.html" class="mt-5 inline-flex font-bold text-[#002d5b]">Open page</a>
-          </article>
-          <article class="card-hover rounded-[1.5rem] border border-[#002d5b]/15 bg-white p-6 shadow-sm">
-            <div class="section-chip">Core</div>
-            <h2 class="mt-4 text-3xl font-bold">All-on-4 / Full Arch</h2>
-            <p class="mt-3 text-sm leading-7 text-slate-600">A fixed arch solution for patients looking for a more secure alternative to removable dentures.</p>
-            <a href="all-on-4.html" class="mt-5 inline-flex font-bold text-[#002d5b]">Open page</a>
-          </article>
-          <article class="card-hover rounded-[1.5rem] border border-[#002d5b]/15 bg-white p-6 shadow-sm">
-            <div class="section-chip">Foundation</div>
-            <h2 class="mt-4 text-3xl font-bold">Bone Grafting</h2>
-            <p class="mt-3 text-sm leading-7 text-slate-600">Bone support procedures that help prepare the jaw for reliable implant placement.</p>
-            <a href="bone-grafting.html" class="mt-5 inline-flex font-bold text-[#002d5b]">Open page</a>
-          </article>
-          <article class="card-hover rounded-[1.5rem] border border-[#002d5b]/15 bg-white p-6 shadow-sm">
-            <div class="section-chip">Support</div>
-            <h2 class="mt-4 text-3xl font-bold">Ridge Augmentation</h2>
-            <p class="mt-3 text-sm leading-7 text-slate-600">Restore lost jaw ridge volume to create a stronger restorative foundation.</p>
-            <a href="ridge-augmentation.html" class="mt-5 inline-flex font-bold text-[#002d5b]">Open page</a>
-          </article>
-          <article class="card-hover rounded-[1.5rem] border border-[#002d5b]/15 bg-white p-6 shadow-sm">
-            <div class="section-chip">Support</div>
-            <h2 class="mt-4 text-3xl font-bold">Sinus Lift</h2>
-            <p class="mt-3 text-sm leading-7 text-slate-600">Upper-jaw preparation for implants when extra vertical bone is needed.</p>
-            <a href="sinus-lift.html" class="mt-5 inline-flex font-bold text-[#002d5b]">Open page</a>
-          </article>
-          <article class="card-hover rounded-[1.5rem] border border-[#002d5b]/15 bg-white p-6 shadow-sm">
-            <div class="section-chip">Planning</div>
-            <h2 class="mt-4 text-3xl font-bold">Digital Consultation</h2>
-            <p class="mt-3 text-sm leading-7 text-slate-600">A clear review, treatment roadmap, and step-by-step explanation before any procedure begins.</p>
-            <a href="process.html" class="mt-5 inline-flex font-bold text-[#002d5b]">See process</a>
-          </article>
+    <div class="main-nav">
+      <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-5 sm:px-6 lg:px-8">
+        <a href="./index.html" class="flex items-center gap-3">
+          <div class="logo-mark">AI</div>
+          <div>
+            <div class="site-brand">ADDIS IMPLANT</div>
+            <div class="site-subbrand">Oral Surgery in Addis Ababa</div>
+          </div>
+        </a>
+
+        <button class="inline-flex items-center justify-center rounded-full border border-[rgba(18,29,43,0.14)] bg-white px-4 py-2 text-sm font-bold text-[var(--navy)] shadow-sm lg:hidden" data-menu-button aria-expanded="false" aria-controls="primary-nav">
+          Menu
+        </button>
+
+        <nav id="primary-nav" class="hidden lg:flex lg:items-center lg:gap-8" data-menu>
+          <a class="nav-link" data-nav-link data-nav-key="home" href="./index.html">Home</a>
+          <a class="nav-link" data-nav-link data-nav-key="about" href="./about.html">About</a>
+          <a class="nav-link" data-nav-link data-nav-key="services" href="./services.html">Services</a>
+          <a class="nav-link" data-nav-link data-nav-key="results" href="./results.html">Results</a>
+          <a class="nav-link" data-nav-link data-nav-key="contact" href="./contact.html">Contact</a>
+          <a href="./contact.html" class="cta-button">Request Appointment</a>
+        </nav>
+      </div>
+
+      <div class="hidden border-t border-[rgba(18,29,43,0.08)] bg-white lg:hidden" data-mobile-panel>
+        <div class="mx-auto grid max-w-7xl gap-2 px-4 py-4 sm:px-6 lg:px-8">
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="home" href="./index.html">Home</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="about" href="./about.html">About</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="services" href="./services.html">Services</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="results" href="./results.html">Results</a>
+          <a class="nav-link rounded-2xl px-4 py-3" data-nav-link data-nav-key="contact" href="./contact.html">Contact</a>
+          <a href="./contact.html" class="cta-button mt-2 rounded-2xl px-4 py-3 text-center">Request Appointment</a>
         </div>
       </div>
-    </section>
+    </div>
+  </header>
 
-    <section class="py-16 sm:py-20">
-      <div class="mx-auto grid max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-[0.95fr_1.05fr] lg:px-8">
-        <div class="reveal">
-          <span class="section-chip">Services Video</span>
-          <h2 class="mt-4 text-4xl font-bold">A professional animation keeps the education section polished</h2>
-          <p class="mt-4 text-sm leading-7 text-slate-600">This embed supports the service hub with a clean educational explanation of implant treatment, which helps patients understand the flow before they read the deeper pages.</p>
-          <div class="mt-6 grid gap-4 sm:grid-cols-2">
-            <div class="rounded-2xl border border-slate-200 bg-white p-5">
-              <h3 class="text-2xl font-bold">For searchers</h3>
-              <p class="mt-2 text-sm leading-7 text-slate-600">Quickly identify the service that matches your concern.</p>
-            </div>
-            <div class="rounded-2xl border border-slate-200 bg-white p-5">
-              <h3 class="text-2xl font-bold">For patients</h3>
-              <p class="mt-2 text-sm leading-7 text-slate-600">See the treatment journey before you commit.</p>
-            </div>
-          </div>
-        </div>
-        <div class="video-frame reveal">
-          <iframe
-            title="Dental implant educational animation"
-            src="https://www.youtube.com/embed/R1rYtCFQQso"
-            loading="lazy"
-            referrerpolicy="strict-origin-when-cross-origin"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen></iframe>
-          <div class="overlay">
-            <div>
-              <p class="text-sm uppercase tracking-[0.25em] text-amber-200">Service education</p>
-              <h2 class="mt-3 text-3xl font-bold text-white">All-on-4 and implant treatment explained with a clean animation</h2>
-            </div>
-          </div>
+  <main>
+    <section class="py-24">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <span class="section-chip">Services</span>
+        <h1 class="mt-4 max-w-4xl text-5xl leading-[0.95] sm:text-6xl">Surgical procedures planned for precision, comfort, and long-term success</h1>
+        <p class="mt-6 max-w-3xl text-lg leading-8 text-slate-600">Every treatment is presented with a clean, premium structure so patients in Addis Ababa can quickly understand the procedure, its purpose, and how it supports a better final result.</p>
+
+        <div class="mt-12 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+          <article class="procedure-card">
+            <div class="feature-icon">01</div>
+            <h2 class="mt-6 text-3xl">Dental Implants</h2>
+            <p class="mt-4 text-lg leading-8 text-slate-600">Precise tooth replacement for one or multiple missing teeth with a natural-looking final restoration.</p>
+            <ul class="procedure-list text-slate-600">
+              <li>Single tooth replacement</li>
+              <li>Multiple adjacent teeth</li>
+              <li>Long-term chewing stability</li>
+            </ul>
+            <a href="./contact.html" class="read-more mt-6">Read More</a>
+          </article>
+
+          <article class="procedure-card">
+            <div class="feature-icon">02</div>
+            <h2 class="mt-6 text-3xl">All-on-4</h2>
+            <p class="mt-4 text-lg leading-8 text-slate-600">A full-arch solution for patients who want a secure, fixed alternative to removable dentures.</p>
+            <ul class="procedure-list text-slate-600">
+              <li>Full-arch restoration</li>
+              <li>Streamlined surgical planning</li>
+              <li>Confident smile support</li>
+            </ul>
+            <a href="./contact.html" class="read-more mt-6">Read More</a>
+          </article>
+
+          <article class="procedure-card">
+            <div class="feature-icon">03</div>
+            <h2 class="mt-6 text-3xl">Bone Grafting</h2>
+            <p class="mt-4 text-lg leading-8 text-slate-600">Supportive jaw reconstruction that helps create the foundation needed for implant placement.</p>
+            <ul class="procedure-list text-slate-600">
+              <li>Ridge preservation</li>
+              <li>Bone volume support</li>
+              <li>Improved treatment predictability</li>
+            </ul>
+            <a href="./contact.html" class="read-more mt-6">Read More</a>
+          </article>
+
+          <article class="procedure-card">
+            <div class="feature-icon">04</div>
+            <h2 class="mt-6 text-3xl">Sinus Lift</h2>
+            <p class="mt-4 text-lg leading-8 text-slate-600">An upper-jaw support procedure used when additional bone height is needed for implants.</p>
+            <ul class="procedure-list text-slate-600">
+              <li>Upper molar region</li>
+              <li>Vertical bone gain</li>
+              <li>Reliable implant foundation</li>
+            </ul>
+            <a href="./contact.html" class="read-more mt-6">Read More</a>
+          </article>
         </div>
       </div>
     </section>
   </main>
-  <footer id="site-footer"></footer>
+
+  <footer class="footer-shell">
+    <div class="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <h2 class="text-3xl text-white">Addis Implant</h2>
+        <p class="mt-4 max-w-2xl text-lg leading-8 text-white/82">Premium dental implants and oral surgery care in Addis Ababa with an international medical aesthetic and a patient-first approach.</p>
+      </div>
+
+      <div class="mt-14 grid gap-12 lg:grid-cols-4">
+        <div>
+          <h3 class="footer-heading text-lg">Services</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./dental-implants.html">Dental Implants</a></li>
+            <li><a class="footer-link" href="./all-on-4.html">All-on-4</a></li>
+            <li><a class="footer-link" href="./bone-grafting.html">Bone Grafting</a></li>
+            <li><a class="footer-link" href="./sinus-lift.html">Sinus Lift</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Patient Center</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./first-visit.html">First Visit</a></li>
+            <li><a class="footer-link" href="./insurance.html">Insurance & Financing</a></li>
+            <li><a class="footer-link" href="./post-op-care.html">Post-Op Care</a></li>
+            <li><a class="footer-link" href="./faq.html">FAQ</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Quick Links</h3>
+          <ul class="mt-5 space-y-3 text-lg leading-8">
+            <li><a class="footer-link" href="./index.html">Home</a></li>
+            <li><a class="footer-link" href="./about.html">About</a></li>
+            <li><a class="footer-link" href="./results.html">Results</a></li>
+            <li><a class="footer-link" href="./contact.html">Contact</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-heading text-lg">Location</h3>
+          <p class="mt-5 text-lg leading-8 text-white/82">Near 4th Floor JEMS Building, Opposite Dreamliner Hotel, Gabon St, Addis Ababa, Ethiopia.</p>
+          <div class="mt-5 space-y-2 text-lg leading-8 text-white/82">
+            <p>Phone: <a class="footer-link" href="tel:+251935207720">+251 93 520 7720</a></p>
+            <p>Email: <a class="footer-link" href="mailto:draslambaig@gmail.com">draslambaig@gmail.com</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-t border-white/10">
+      <div class="mx-auto max-w-7xl px-4 py-5 text-sm uppercase tracking-[0.14em] text-white/70 sm:px-6 lg:px-8">
+        &copy; <span data-year></span> Addis Implant. All rights reserved.
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
