@@ -5,8 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Addis Implant | Modern Dental Care Addis Ababa</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style.css">
+    <style>
+        /* Small fix to ensure the slider fits your design */
+        .swiper { width: 100%; height: 100%; border-radius: 1.5rem; }
+        .swiper-button-next, .swiper-button-prev { color: #009ace !important; }
+        .swiper-pagination-bullet-active { background: #009ace !important; }
+    </style>
 </head>
 <body>
 
@@ -35,8 +42,8 @@
     <section class="hero-section bg-slate-50 relative overflow-hidden flex items-center min-h-[80vh]">
         <div class="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-12 items-center relative z-10">
             <div>
-                <h1 class="text-5xl md:text-6xl mb-6">
-                    Find Out Your <span>Teeth Alignment Type</span> and Fix it Effortlessly
+                <h1 class="text-5xl md:text-6xl mb-6 leading-tight">
+                    Find Out Your <span class="text-[#009ace]">Teeth Alignment Type</span> and Fix it Effortlessly
                 </h1>
                 <p class="text-xl text-gray-600 mb-8 leading-relaxed">
                     Experience world-class dental implant technology right here in Addis Ababa. 
@@ -47,8 +54,24 @@
                     <a href="services.html" class="px-8 py-4 border-2 border-gray-200 rounded-xl font-bold hover:border-[#009ace] transition-all">Our Services</a>
                 </div>
             </div>
-            <div class="relative">
-                <img src="https://images.pexels.com/photos/3845766/pexels-photo-3845766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Modern Dental Clinic" class="rounded-3xl shadow-2xl">
+            
+            <div class="relative h-[400px] md:h-[500px]">
+                <div class="swiper mySwiper shadow-2xl">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="https://images.pexels.com/photos/3845766/pexels-photo-3845766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="w-full h-full object-cover" alt="Dental Clinic">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="https://images.pexels.com/photos/3779709/pexels-photo-3779709.jpeg?auto=compress&cs=tinysrgb&w=1260" class="w-full h-full object-cover" alt="Doctor Consultation">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="https://images.pexels.com/photos/6528909/pexels-photo-6528909.jpeg?auto=compress&cs=tinysrgb&w=1260" class="w-full h-full object-cover" alt="Smile Transformation">
+                        </div>
+                    </div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-pagination"></div>
+                </div>
             </div>
         </div>
     </section>
@@ -62,106 +85,30 @@
         </div>
     </div>
 
-    <section class="py-24 bg-white">
-        <div class="max-w-7xl mx-auto px-4 text-center mb-16">
-            <h2 class="text-4xl mb-4">Complete <span>Dental Solutions</span> in Addis</h2>
-            <p class="text-gray-500 max-w-2xl mx-auto">We use advanced digital planning and the highest quality materials to ensure your treatment is predictable and successful.</p>
-        </div>
-
-        <div class="grid md:grid-cols-3 gap-8 max-w-7xl mx-auto px-4">
-            <div class="soft-card">
-                <div class="service-icon">🦷</div>
-                <h3 class="text-2xl">Dental <span>Implants</span></h3>
-                <p class="text-gray-600 mb-6">The gold standard for replacing missing teeth with a permanent, natural-feeling foundation.</p>
-                <a href="dental-implants.html" class="text-[#009ace] font-bold">Learn More →</a>
-            </div>
-
-            <div class="soft-card">
-                <div class="service-icon">✨</div>
-                <h3 class="text-2xl">All-On-<span>X</span></h3>
-                <p class="text-gray-600 mb-6">Replace an entire arch of teeth in a single day with our advanced full-mouth restoration.</p>
-                <a href="all-on-4.html" class="text-[#009ace] font-bold">Learn More →</a>
-            </div>
-
-            <div class="soft-card">
-                <div class="service-icon">🛡️</div>
-                <h3 class="text-2xl">Bone <span>Grafting</span></h3>
-                <p class="text-gray-600 mb-6">Strengthening the jawbone to create a stable, long-lasting site for successful implant surgery.</p>
-                <a href="bone-grafting.html" class="text-[#009ace] font-bold">Learn More →</a>
-            </div>
-        </div>
-    </section>
-
-    <section id="consultation" class="py-24 bg-slate-50">
-        <div class="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-16 items-center">
-            <div>
-                <h2 class="text-4xl mb-6">Schedule Your <span>Consultation</span> With Dr. Aslam</h2>
-                <p class="text-lg text-gray-600 mb-8">Visit our office at JEMS Building, Addis Ababa. Our team is ready to help you plan your smile transformation.</p>
-                
-                <div class="space-y-4">
-                    <div class="flex items-center space-x-4">
-                        <span class="w-10 h-10 bg-[#009ace]/10 text-[#009ace] flex items-center justify-center rounded-full">📍</span>
-                        <p class="font-semibold">JEMS Building, Opposite Dreamliner Hotel, Addis Ababa</p>
-                    </div>
-                    <div class="flex items-center space-x-4">
-                        <span class="w-10 h-10 bg-[#009ace]/10 text-[#009ace] flex items-center justify-center rounded-full">📞</span>
-                        <p class="font-semibold">+251 93 520 7720</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="consult-form">
-                <form action="https://formspree.io/f/your_id" method="POST">
-                    <input type="text" name="name" placeholder="Full Name" required>
-                    <input type="email" name="email" placeholder="Email Address" required>
-                    <input type="tel" name="phone" placeholder="Phone Number" required>
-                    <select name="service">
-                        <option value="">Select Service</option>
-                        <option value="implants">Dental Implants</option>
-                        <option value="aligners">Clear Aligners</option>
-                        <option value="surgery">Oral Surgery</option>
-                    </select>
-                    <textarea name="message" rows="4" placeholder="Your Message"></textarea>
-                    <button type="submit" class="btn-primary w-full mt-4">Book My Appointment</button>
-                </form>
-            </div>
-        </div>
-    </section>
-
     <footer class="bg-[#1a202c] text-white py-16">
-        <div class="max-w-7xl mx-auto px-4 grid md:grid-cols-4 gap-12 border-b border-gray-700 pb-12 mb-12">
-            <div>
-                <div class="text-2xl font-extrabold mb-6">ADDIS<span>IMPLANT</span></div>
-                <p class="text-gray-400">Premium oral surgery and dental implant center in the heart of Ethiopia.</p>
-            </div>
-            <div>
-                <h4 class="text-white mb-6">Quick Links</h4>
-                <ul class="space-y-3">
-                    <li><a href="services.html" class="footer-link">Services</a></li>
-                    <li><a href="about.html" class="footer-link">Meet Dr. Aslam</a></li>
-                    <li><a href="process.html" class="footer-link">Process</a></li>
-                    <li><a href="contact.html" class="footer-link">Contact</a></li>
-                </ul>
-            </div>
-            <div>
-                <h4 class="text-white mb-6">Services</h4>
-                <ul class="space-y-3 text-gray-400">
-                    <li>Single Tooth Implants</li>
-                    <li>All-on-4 Restoration</li>
-                    <li>Bone Grafting</li>
-                    <li>Sinus Lift</li>
-                </ul>
-            </div>
-            <div>
-                <h4 class="text-white mb-6">Hours</h4>
-                <p class="text-gray-400">Mon - Fri: 8:30 AM - 6:00 PM</p>
-                <p class="text-gray-400">Sat: 9:00 AM - 1:00 PM</p>
-            </div>
-        </div>
-        <div class="text-center text-gray-500 text-sm">
+        <div class="max-w-7xl mx-auto px-4 text-center text-gray-500 text-sm">
             &copy; 2026 Addis Implant Clinic. All Rights Reserved.
         </div>
     </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script>
+        // Initialize the slider
+        var swiper = new Swiper(".mySwiper", {
+            loop: true,
+            autoplay: {
+                delay: 3500,
+                disableOnInteraction: false,
+            },
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+    </script>
 </body>
 </html>
