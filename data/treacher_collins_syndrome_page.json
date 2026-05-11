@@ -1,0 +1,98 @@
+{
+  "label": "Treacher Collins Syndrome",
+  "path": "/treacher-collins-syndrome/",
+  "page_id": 4276,
+  "title": "Treacher Collins Syndrome | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/treacher-collins-syndrome/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4276",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4276",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in Treacher Collins Syndrome treatment and surgery in Staten Island, NY. Contact us today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-16T13:58:31+00:00",
+  "modified_time": "2026-04-20T14:15:15+00:00",
+  "twitter_read_time": "3 minutes",
+  "main_h1": "Treacher Collins Syndrome Treatment & Surgery In Staten Island, NY",
+  "hero_h2": "Treacher Collins Syndrome",
+  "hero_intro": "At Staten Island Oral Surgery, our oral surgeons will discuss the surgical options available for you and your child which will result in the best possible outcome, significantly improving the appearance and quality of life for your child.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/39.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/39.jpg",
+    "alt": "Baby in white sweater laying on white bedsheets",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/8-4.jpg",
+    "alt": "Woman holding up baby feet while baby is sleeping",
+    "width": 1200,
+    "height": 1200
+  },
+  "decorative_animation": {
+    "type": "lottie",
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/21-04-15-Different-age-and-gender-groups-line-2.aep_.json",
+    "renderer": "svg",
+    "loop": true,
+    "play_speed": 0.5
+  },
+  "content_sections": [
+    {
+      "heading": "What is Treacher Collins Syndrome?",
+      "paragraphs": [
+        "Treacher Collins syndrome in New York City is a genetic birth defect that can mildly to severely affect the appearance and health of your child. Physical symptoms of this condition may include some or all of the following: abnormally shaped, missing, or low positioned ears, a very small jaw, a very large mouth, cleft palate, abnormal eye shape, defect in the lower eyelid, and a pupil that droops or runs into the lower eyelid. Treacher Collins syndrome in NYC may also affect hearing, breathing, eating, and speech in more severe cases. The severity and features most affected by Treacher Collins syndrome vary depending on each individual patient.",
+        "Treacher Collins syndrome is believed to occur when a change in the gene on chromosome 5 occurs, which largely affects facial development. Treacher Collins syndrome is genetic and can be passed on by a parent with Treacher Collins syndrome."
+      ]
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "paragraphs": []
+    },
+    {
+      "heading": "How Can I Find Out More About Treacher Collins Syndrome?",
+      "paragraphs": [
+        "For more information on Treacher Collins syndrome, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "path": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "How Can A Treacher Collins Syndrome Treatment Help?",
+      "answer": "Individual treatment plans and surgeries for Treacher Collins syndrome in NYC will vary on a patient-to-patient basis depending on the severity of the condition and the features affected. Our oral surgeons will tailor your treatment and surgeries to provide the best results for your individual Treacher Collins syndrome. Some of the surgeries available to correct the facial deformities common to Treacher Collins syndrome in NY can include airway management with neonatal distraction, cleft palate repair at 1 year, lower eyelid surgery, bone grafts for missing or deficient cheekbones at 5 years, nasal surgery to improve breathing and cosmetic appearance, ear surgery at 6 years, dental appliance or braces to help fix crowded teeth, bone graft for a small jawbone at 4 to 7 years, and distraction osteogenesis to lengthen to jawbone. Children with Treacher Collins syndrome in New York often need more than one surgery to improve the many features and facial functions that may be affected by this condition. Dr. Hoffman and the staff at Staten Island Oral Surgery will help you and your child through the process of the variety of surgeries that may be needed and the recovery after each to ensure that your child receives the best possible results."
+    },
+    {
+      "question": "What Can I Expect From Surgery To Correct Treacher Collins Syndrome?",
+      "answer": "Different surgeries are available at Staten Island Oral Surgery to treat the wide range of symptoms that those with Treacher Collins syndrome may present. These surgeries are performed at various times, mandibular or jaw distraction for babies with airway issues, cleft palate repair which is performed at one year occurs much earlier than ear repair, which must wait until the ears are fully developed at approximately six years of age. Dr. Hoffman and the staff at Staten Island Oral Surgery provide safe, excellent patient care. We use the most advanced techniques in all of our reconstructive procedures to ensure your satisfaction and peace of mind. We offer you our training and expertise so you and your child can heal from Teacher Collins syndrome in New York City."
+    }
+  ],
+  "cta": {
+    "heading": "How Can I Find Out More About Treacher Collins Syndrome?",
+    "body": "For more information on Treacher Collins syndrome, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+    "button_text": "Request a Callback",
+    "button_path": "/callback-request/"
+  },
+  "current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor"
+    ],
+    "facial_birth_deformities_parent_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "treacher_collins_syndrome_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4276",
+      "current_page_item"
+    ]
+  }
+}

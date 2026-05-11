@@ -1,0 +1,121 @@
+{
+  "label": "Sinus Lift",
+  "path": "/sinus-lift/",
+  "page_id": 4188,
+  "title": "Sinus Lift | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/sinus-lift/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4188",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4188",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in sinus lifts to support dental implants in Staten Island, NY. Contact us today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-15T21:24:35+00:00",
+  "modified_time": "2026-04-20T14:19:09+00:00",
+  "twitter_read_time": "3 minutes",
+  "main_h1": "Support Dental Implants With A Sinus Lift In Staten Island, NY",
+  "hero_h2": "Sinus Lift",
+  "hero_intro": "If enough bone exists between the upper jaw ridge and the bottom of the sinus to stabilize the dental implant, sinus lift and implant placement can be performed as a single procedure.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-15.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-15.jpg",
+    "alt": "Person smiling with perfect teeth after dental procedure",
+    "width": 1200,
+    "height": 1200,
+    "type": "image/jpeg"
+  },
+  "hero_video": {
+    "type": "youtube",
+    "url": "https://youtu.be/B3sq-jgLDew",
+    "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-4.jpg",
+    "play_button_aria_label": "Play Video"
+  },
+  "content_sections": [
+    {
+      "heading": "What is Sinus Lift?",
+      "paragraphs": [
+        "Sinus Lift in New York City can be used to increase bone density in the jaw in order to better support dental implants. When teeth have been lost, especially for a long period of time, tooth supporting bone in the jaw may begin to deteriorate. Periodontitis and other diseases may also contribute to the deterioration of tooth supporting bone.",
+        "Patients who wish to replace their missing teeth with dental implants may need surgery, such as sinus lift in NY, bone grafting, or Bone Morphogenetic Protein Infuse® Graft before their dental implant surgery in order to augment the upper jawbone, so it has enough bone density to support dental implants. Sinus lift in NY is particularly beneficial to patients whose sinuses are too close to the jawbone to support dental implants."
+      ],
+      "links": [
+        {
+          "label": "Bone Morphogenetic Protein Infuse® Graft",
+          "path": "/bmp-infuse-bone-graft/"
+        }
+      ]
+    },
+    {
+      "heading": "How Can I Find Out More About A Sinus Lift?",
+      "paragraphs": [
+        "For more information on sinus lifts, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "href": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "How Is A Sinus Lift Performed?",
+      "answer": "During a sinus lift procedure, our oral surgeons will enter the sinus cavity from the empty space created by the missing upper teeth and lift the sinus membrane upward in order to insert bone grafts into the sinus floor. Over the course of several months, the bone regenerates and becomes part of the patient’s jaw through osseointegration, making it possible for dental implants to be inserted. In cases where there is an insufficient amount of bone, the sinus lift will need to be performed first, and the grafts must be given time to mature. Dental implants can then be inserted several months later.",
+      "links": []
+    },
+    {
+      "question": "How Can A Sinus Lift Help Me?",
+      "answer": "Sinus lift in NYC can restore the density to the jawbone to support dental implants so the sinus membrane is undisturbed by the dental implant. Without proper support from the jawbone, dental implants won’t have enough of an anchor to hold them in place. Traditionally, bone grafts are used to give more bone density to patients who desire dental implants, but patients whose maxillary sinuses are too close to the jaw do not have the room between the jaw and sinuses to house a graft. Sinus lift in NY creates a pocket between the jaw and sinuses for bone to be implanted, so patients without enough room for bone grafting may still have sinus lift in New York as an option to build bone in their jaw to support the dental implants that they need.",
+      "links": []
+    },
+    {
+      "question": "What Can I Expect From A Sinus Lift?",
+      "answer": "Our sinus lift surgeon can determine what type of bone material to use in your individual sinus lift with an x-ray or CT scan. Our oral surgeons will discuss which option is best for you after examining x-ray and CT scan results during your personal consultation. During sinus lift in NY, our sinus lift surgeon will perform an incision over the jawbone to create a space for the bone substitute, or bone grafting material. The bone grafting material will be placed in the space created between the sinus membrane and the jawbone. After the graft is in position, the graft will need time to heal and form to your natural bone before dental implants can be inserted. Although the time between sinus lift in NY and receiving dental implants may vary on a patient by patient basis, our oral surgeons typically wait 6 to 9 months between surgeries.",
+      "links": []
+    }
+  ],
+  "header_current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor",
+      "menu-item-has-children"
+    ],
+    "bone_grafting_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor",
+      "menu-item-has-children"
+    ],
+    "sinus_lift_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4188",
+      "current_page_item"
+    ]
+  },
+  "footer_bone_grafting_links": [
+    {
+      "label": "Bone Grafting FAQs",
+      "path": "/bone-grafting-faqs/"
+    },
+    {
+      "label": "Ridge Augmentation",
+      "path": "/ridge-augmentation/"
+    },
+    {
+      "label": "Sinus Lift",
+      "path": "/sinus-lift/"
+    },
+    {
+      "label": "BMP Infuse Bone Graft",
+      "path": "/bmp-infuse-bone-graft/"
+    }
+  ],
+  "schema": {
+    "organization_name": "Staten Island Oral Surgery",
+    "telephone": "+1-718-226-1251",
+    "address": "256-C Mason Avenue, 3rd Floor Staten Island, New York 10305",
+    "publisher_same_as": "https://www.facebook.com/statenislandoralmaxillofacialsurgery",
+    "author": "Azuro Digital"
+  }
+}

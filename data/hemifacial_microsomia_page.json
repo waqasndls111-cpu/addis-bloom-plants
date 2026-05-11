@@ -1,0 +1,98 @@
+{
+  "label": "Hemifacial Microsomia",
+  "path": "/hemifacial-microsomia/",
+  "page_id": 4270,
+  "title": "Hemifacial Microsomia | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/hemifacial-microsomia/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4270",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4270",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in Hemifacial Microsomia treatment and surgery in Staten Island, NY. Contact us today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-16T13:56:01+00:00",
+  "modified_time": "2026-04-20T14:15:25+00:00",
+  "twitter_read_time": "2 minutes",
+  "main_h1": "Treatment Of Hemifacial Microsomia In Staten Island NY",
+  "hero_h2": "Hemifacial Microsomia",
+  "hero_intro": "At Staten Island Oral Surgery, our oral surgeons will discuss the treatment options available for hemifacial microsomia in New York City and what surgery or combination of treatments best suit you and your child’s needs.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-38.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-38.jpg",
+    "alt": "Person holding baby feet in the shape of a heart",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/10-3.jpg",
+    "alt": "Baby hand in pink sweater",
+    "width": 1200,
+    "height": 1200
+  },
+  "decorative_animation": {
+    "type": "lottie",
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/21-04-15-Different-age-and-gender-groups-line-2.aep_.json",
+    "renderer": "svg",
+    "loop": true,
+    "play_speed": 0.5
+  },
+  "content_sections": [
+    {
+      "heading": "What is Hemifacial Microsomia?",
+      "paragraphs": [
+        "Hemifacial microsomia in NYC is a condition in which a child is born with underdeveloped parts of the face, commonly the ear, jaw, cheek, and possibly the neck. This condition usually only affects one side of the face and is caused either genetically or environmentally.",
+        "Children who are born with this condition may display symptoms that range from mild to severe. Some may simply have what may be described as a “crooked” smile. Others may have an underdeveloped or completely undeveloped external ear. In the most severe cases, if the central nervous system is affected, features of the face may not move symmetrically."
+      ]
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "paragraphs": []
+    },
+    {
+      "heading": "How Can I Find Out More About Hemifacial Microsomia?",
+      "paragraphs": [
+        "For more information on hemifacial microsomia, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "path": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "How Can A Hemifacial Microsomia Treatment Help?",
+      "answer": "A wide range of surgeries and treatment options for hemifacial microsomia in NYC are available at Staten Island Oral Surgery to accommodate the varying severities and features affected with this condition. Hemifacial microsomia may potentially physically affect the formation of the ears, face, jaw, teeth, and the functioning aspects of hearing, eating, breathing, and speech. The more common physical aspects of underdeveloped and unsymmetrical features such as the ears, face, and jaw can be corrected with reconstructive surgery. The ideal age for surgery to correct your child’s underdeveloped features depends on the individual feature. Ears are typically repaired at 6 to 8 years old. Some patients may also consider the possibilities of a prosthetic ear. Cleft lips may be repaired at 3 to 4 months, and cleft palates are usually repaired at 8 months. Children with missing or malformed teeth may need braces or a dental appliance. Those with a malformed or lopsided jaw may require corrective surgery at a variety of ages varying from 4-6 years to adulthood. Dr. Hoffman and his staff look forward to discussing the individual features that hemifacial microsomia has affected on your child in order to determine which corrective surgery is needed and begin improving your child’s quality of life."
+    },
+    {
+      "question": "What Can I Expect From Surgery To Correct Hemifacial Microsomia?",
+      "answer": "Multiple surgeries on different features are often required to improve the appearance and function of the features which have been affected by hemifacial microsomia in NYC. With the expertise and advanced techniques that Dr. Hoffman and the staff at Staten Island Oral Surgery provide, your child may look forward to a life less inhibited, both aesthetically and functionally, by hemifacial microsomia in New York. Surgeries commonly used include distraction osteogenesis in NYC, rib grafts, and other orthognathic surgeries in NYC."
+    }
+  ],
+  "cta": {
+    "heading": "How Can I Find Out More About Hemifacial Microsomia?",
+    "body": "For more information on hemifacial microsomia, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+    "button_text": "Request a Callback",
+    "button_path": "/callback-request/"
+  },
+  "current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor"
+    ],
+    "facial_birth_deformities_parent_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "hemifacial_microsomia_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4270",
+      "current_page_item"
+    ]
+  }
+}

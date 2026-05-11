@@ -1,0 +1,147 @@
+{
+  "label": "Oral & Maxillofacial Surgeries",
+  "path": "/oral-and-maxillofacial/",
+  "page_id": 4045,
+  "title": "Oral & Maxillofacial Surgeries | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/oral-and-maxillofacial/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4045",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4045",
+  "meta_description": "Our industry-leading clinic specializes in oral and maxillofacial surgery in Staten Island, NY. Get in touch with our skilled doctors today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-15T19:41:34+00:00",
+  "modified_time": "2025-03-04T22:09:14+00:00",
+  "twitter_read_time": "Less than a minute",
+  "main_h1": "Staten Island Oral & Maxillofacial",
+  "hero_h2": "Oral & Maxillofacial",
+  "hero_intro": "We offer expert care in wisdom teeth removal, teeth extractions, and orthognathic jaw surgery, all performed by our team of skilled professionals. By leveraging advanced surgical techniques, we ensure precise, personalized, and effective treatments for improved oral health and a confident smile. Explore our services and discover how we can enhance your well-being.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-10.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-10.jpg",
+    "alt": "Patient sitting in chair while dentists look over their records",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-3.jpg",
+    "alt": "Woman in blue turtleneck shirt pointing to her smile",
+    "width": 1200,
+    "height": 1200
+  },
+  "content_sections": [
+    {
+      "heading": "Oral & Maxillofacial Surgeries",
+      "paragraphs": [
+        "In order to meet your needs, we provide a comprehensive range of oral surgeries in New York, from TMJ Surgery to dental implants. Using the most advanced procedures and techniques, we will solve your dental problem with the least invasive option possible so that you can swiftly return to the rhythm of your daily routine. Using innovative procedures such as wisdom tooth removals, jaw surgery, treatments for impacted canines, and more, our highly respected Staten Island oral surgeons can help treat various oral and dental complications.",
+        "Ensuring your safety first, our staff at Staten Island Oral & Maxillofacial Surgery are dedicated in helping you obtain a healthier smile. Learn more about our oral surgeries and treatments by navigating the links below."
+      ],
+      "links": [
+        {
+          "label": "Teeth Extractions",
+          "path": "/teeth-extractions/"
+        },
+        {
+          "label": "Impacted Canines",
+          "path": "/impacted-canines/"
+        },
+        {
+          "label": "Wisdom Teeth Removal",
+          "path": "/wisdom-teeth-removal/"
+        },
+        {
+          "label": "Orthognathic Jaw Surgery",
+          "path": "/orthognathic-jaw-surgery/"
+        }
+      ]
+    }
+  ],
+  "header_submenu_pages": [
+    {
+      "label": "Teeth Extractions",
+      "path": "/teeth-extractions/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Teeth Extractions outer HTML"
+    },
+    {
+      "label": "Wisdom Teeth Removal",
+      "path": "/wisdom-teeth-removal/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+    },
+    {
+      "label": "Impacted Canines",
+      "path": "/impacted-canines/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+    },
+    {
+      "label": "Orthognathic Jaw Surgery",
+      "path": "/orthognathic-jaw-surgery/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Orthognathic Jaw Surgery outer HTML"
+    }
+  ],
+  "footer_oral_maxillofacial_links": [
+    {
+      "label": "Teeth Extractions",
+      "path": "/teeth-extractions/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Teeth Extractions outer HTML"
+    },
+    {
+      "label": "Wisdom Teeth Removal",
+      "path": "/wisdom-teeth-removal/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+    },
+    {
+      "label": "Impacted Canines",
+      "path": "/impacted-canines/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+    },
+    {
+      "label": "Orthognathic Jaw Surgery",
+      "path": "/orthognathic-jaw-surgery/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Orthognathic Jaw Surgery outer HTML"
+    },
+    {
+      "label": "Frenectomy",
+      "path": "/frenectomy/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "TMJ Disorders & Surgery",
+      "path": "/tmj-disorders-surgery/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "Facial Trauma",
+      "path": "/facial-trauma/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "Oral Pathology",
+      "path": "/oral-pathology/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "MOHS Reconstruction",
+      "path": "/mohs-reconstruction/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "Anesthesia Options",
+      "path": "/anesthesia-options/",
+      "source": "footer Oral and Maxillofacial links"
+    }
+  ],
+  "current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "oral_parent_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4045",
+      "current_page_item"
+    ]
+  }
+}

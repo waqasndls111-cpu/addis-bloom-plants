@@ -1,0 +1,118 @@
+{
+  "label": "Platelet Rich Fibrin (PRF)",
+  "path": "/platelet-rich-fibrin-prf/",
+  "page_id": 6397,
+  "title": "Platelet Rich Fibrin (PRF) Treatment in Staten Island, NY",
+  "canonical": "https://statenislandoralsurgery.us/platelet-rich-fibrin-prf/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=6397",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/6397",
+  "meta_description": "PRF can be used to improve outcomes for a variety of oral surgery procedures including soft tissue grafting, bone grafting, difficult extractions, sinus lift...",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-08-07T15:13:56+00:00",
+  "modified_time": "2026-04-20T14:06:13+00:00",
+  "twitter_read_time": "1 minute",
+  "main_h1": "Platelet Rich Fibrin (PRF) Staten Island, NY",
+  "hero_h2": "Platelet Rich Fibrin (PRF)",
+  "hero_intro": "The PRF concentrate is rich in platelets, stem cells, and leukocytes (white blood cells), all of which produce growth factors that enhance the healing process. By extracting this PRF and applying it to the surgical sites it is possible to speed up and enhance the recovery process.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/close-up-doctor-checking-smiley-patient.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/close-up-doctor-checking-smiley-patient.jpg",
+    "alt": "Platelet Rich Fibrin (PRF)",
+    "alt_in_dom": "",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "hero_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/close-up-doctor-checking-smiley-patient.jpg",
+    "alt_in_dom": "",
+    "width": 1200,
+    "height": 800
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-39.jpg",
+    "alt": "Person holding a vile of blood",
+    "width": 1200,
+    "height": 1200
+  },
+  "content_sections": [
+    {
+      "heading": "What is PRF?",
+      "paragraphs": [
+        "Platelet-rich fibrin (PRF) are blood products made using a small sample of the patient’s own blood. PRF has been utilized widely in the oral surgery field to enhance the healing process following surgical procedures and therefore easing patient recovery.",
+        "As PRF is extracted from the patient’s blood your doctor will draw a simple blood sample similar to a regular medical exam blood draw at the time of your surgery. The vials of blood are then placed into a centrifuge machine to separate and concentrate the different blood components into individual layers that we can then use to help with healing after surgery."
+      ],
+      "links": []
+    },
+    {
+      "heading": "How Can I Find Out More About Platelet Rich Fibrin (PRF)?",
+      "paragraphs": [
+        "For more information on platelet rich fibrin (PRF), please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "href": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What can PRF be used for?",
+      "answer": "PRF can be used to improve outcomes for a variety of oral surgery procedures including soft tissue grafting, bone grafting, difficult extractions, sinus lift procedures, and most importantly implant placement procedures.",
+      "links": []
+    },
+    {
+      "question": "Why should I want PRF for my oral surgery procedure?",
+      "answer": "It is scientifically proven to dramatically speed up the healing cascade – and the best part is, it is using your own blood – making it a safe and natural healing agent with no risk of an allergic or immunologic rejection. And speedy healing is just one of a number of benefits. PRF also decreases bleeding intraoperatively, reduces inflammation and because it is also rich in leukocytes there is a decreased risk of postoperative infection as well. Ask one of our doctors today how PRF can help you for your next procedure!",
+      "links": []
+    }
+  ],
+  "header_current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor",
+      "menu-item-has-children"
+    ],
+    "bone_grafting_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor",
+      "menu-item-has-children"
+    ],
+    "platelet_rich_fibrin_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-6397",
+      "current_page_item"
+    ]
+  },
+  "footer_bone_grafting_links": [
+    {
+      "label": "Bone Grafting FAQs",
+      "path": "/bone-grafting-faqs/"
+    },
+    {
+      "label": "Ridge Augmentation",
+      "path": "/ridge-augmentation/"
+    },
+    {
+      "label": "Sinus Lift",
+      "path": "/sinus-lift/"
+    },
+    {
+      "label": "BMP Infuse Bone Graft",
+      "path": "/bmp-infuse-bone-graft/"
+    }
+  ],
+  "schema": {
+    "organization_name": "Staten Island Oral Surgery",
+    "telephone": "+1-718-226-1251",
+    "address": "256-C Mason Avenue, 3rd Floor Staten Island, New York 10305",
+    "publisher_same_as": "https://www.facebook.com/statenislandoralmaxillofacialsurgery",
+    "author": "Azuro Digital"
+  }
+}

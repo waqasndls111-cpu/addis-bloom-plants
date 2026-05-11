@@ -1,0 +1,53 @@
+level,label,path,source
+1,Our Center,/about-our-office/,header main menu
+2,About Our Office,/about-our-office/,Our Center submenu
+2,Our Doctors,/our-doctors/,Our Center submenu parent
+3,"David C. Hoffman, D.D.S., F.A.C.S.",/our-doctors/david-c-hoffman/,Our Doctors submenu
+3,"Lydia J. Lam, D.D.S.",/our-doctors/lydia-j-lam/,Our Doctors submenu
+3,"Jessica Li, D.D.S",/our-doctors/jessica-li/,Our Doctors submenu
+3,"Monika Patel, D.D.S",/our-doctors/monika-patel/,Our Doctors submenu
+2,Latest Technology,/latest-technology/,Our Center submenu
+1,Services,/our-services/,header main menu
+2,Dental Implants,/dental-implants/,Services submenu
+2,Teeth in a Day (All-On-X),/teeth-in-a-day-all-on-x/,Services submenu
+2,Bone Grafting,/bone-grafting/,Services submenu parent
+3,Bone Grafting FAQs,/bone-grafting-faqs/,Bone Grafting hover submenu
+3,Ridge Augmentation,/ridge-augmentation/,Bone Grafting hover submenu and extracted outer HTML page
+3,Sinus Lift,/sinus-lift/,Bone Grafting hover submenu and extracted outer HTML page
+3,Platelet Rich Fibrin (PRF),/platelet-rich-fibrin-prf/,Bone Grafting hover submenu and extracted outer HTML page
+3,BMP Infuse Bone Graft,/bmp-infuse-bone-graft/,Footer/body related Bone Grafting link
+2,Oral & Maxillofacial Surgeries,/oral-and-maxillofacial/,Services submenu parent and extracted outer HTML page
+3,Teeth Extractions,/teeth-extractions/,Oral & Maxillofacial hover submenu and extracted outer HTML page
+3,Wisdom Teeth Removal,/wisdom-teeth-removal/,Oral & Maxillofacial hover submenu and extracted outer HTML page
+3,Impacted Canines,/impacted-canines/,Oral & Maxillofacial hover submenu and extracted outer HTML page
+3,Orthognathic Jaw Surgery,/orthognathic-jaw-surgery/,Oral & Maxillofacial hover submenu and extracted outer HTML page
+3,Frenectomy,/frenectomy/,Footer Oral & Maxillofacial link
+3,TMJ Disorders & Surgery,/tmj-disorders-surgery/,Footer Oral & Maxillofacial link
+3,Facial Trauma,/facial-trauma/,Footer Oral & Maxillofacial link
+3,Oral Pathology,/oral-pathology/,Footer Oral & Maxillofacial link
+3,MOHS Reconstruction,/mohs-reconstruction/,Footer Oral & Maxillofacial link
+2,Facial Birth Deformities,/facial-birth-deformities/,Services submenu parent and extracted outer HTML page
+3,Cleft Lip & Palate Surgery,/cleft-lip-palate-surgery/,Facial Birth Deformities hover submenu and extracted outer HTML page
+3,Hemifacial Microsomia,/hemifacial-microsomia/,Facial Birth Deformities hover submenu and extracted outer HTML page
+3,Treacher Collins Syndrome,/treacher-collins-syndrome/,Facial Birth Deformities hover submenu and extracted outer HTML page
+3,Pierre Robin Sequence,/pierre-robin-sequence/,Facial Birth Deformities hover submenu and extracted outer HTML page
+3,Neonatal Distraction,/neonatal-distraction/,Facial Birth Deformities hover submenu and extracted outer HTML page
+2,Anesthesia Options,/anesthesia-options/,Services submenu
+2,Cosmetic Injectables,/cosmetic-injectables/,Footer service link
+3,Botox Injections,/botox-injections/,Footer cosmetic injectables link
+3,Dermal Fillers,/dermal-fillers/,Footer cosmetic injectables link
+1,Patient Center,/patient-center/,header main menu and extracted outer HTML page
+2,First Visit,/first-visit/,Patient Center header hover submenu
+2,Patient Forms,/patient-forms/,Patient Center header hover submenu and extracted outer HTML page
+2,Surgical Instructions,/surgical-instructions/,Patient Center header hover submenu
+2,Insurance & Financing,/insurance-and-financing/,Patient Center header hover submenu
+2,Patient Testimonials,/testimonials/,Patient Center header hover submenu and extracted outer HTML page
+2,Wisdom Tooth Consent,/wisdom-teeth-removal/#consent,Patient Center header hover submenu custom anchor link
+2,Pay Your Bill,/pay-your-bill/,Patient Center header hover submenu
+2,Media,/media/,Patient Center header hover submenu and extracted outer HTML page
+1,Contact Us,/callback-request/,header main menu
+2,Callback Request,/callback-request/,Contact Us submenu
+2,Referring Doctors,https://pdf.dsnforms.com/dsn/online_referral_form.html?p=x1u1x6,Contact Us submenu external referral form
+2,Find Our Office,/find-our-office/,Contact Us submenu
+1,Privacy Policy,/privacy-policy/,footer quick link
+1,Medical Site Disclaimer,/sitedisclaimer/,footer quick link

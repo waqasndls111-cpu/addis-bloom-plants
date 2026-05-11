@@ -1,0 +1,189 @@
+{
+  "label": "Patient Center",
+  "path": "/patient-center/",
+  "page_id": 4401,
+  "title": "Patient Center | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/patient-center/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4401",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4401",
+  "meta_description": "As the leading experts in Oral & Maxillofacial Surgery, we specialize in a range of services, including cutting-edge dental implants that restore...",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-16T19:17:24+00:00",
+  "modified_time": "2025-03-06T00:25:05+00:00",
+  "twitter_read_time": "Less than a minute",
+  "main_h1": "Patient Center",
+  "hero_h2": "Patient Center",
+  "hero_intro": "As the leading experts in Oral & Maxillofacial Surgery, we specialize in a range of services, including cutting-edge dental implants that restore function and aesthetics. Our board-certified professionals are committed to delivering personalized care for all your oral health needs. Discover our services, meet our dedicated team, and explore treatment options tailored to give you the healthy, confident smile you deserve.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-5-1.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-5-1.jpg",
+    "alt": "Patient Center",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "content_sections": [
+    {
+      "heading": "Patient Center",
+      "paragraphs": [
+        "As the leading experts in Oral & Maxillofacial Surgery, we specialize in a range of services, including cutting-edge dental implants that restore function and aesthetics. Our board-certified professionals are committed to delivering personalized care for all your oral health needs. Discover our services, meet our dedicated team, and explore treatment options tailored to give you the healthy, confident smile you deserve."
+      ],
+      "links": [
+        {
+          "label": "First Visit",
+          "path": "/first-visit/"
+        },
+        {
+          "label": "Patient Forms",
+          "path": "/patient-forms/"
+        },
+        {
+          "label": "Surgical Instructions",
+          "path": "/surgical-instructions/"
+        },
+        {
+          "label": "Insurance & Financing",
+          "path": "/insurance-and-financing/"
+        },
+        {
+          "label": "Patient Testimonials",
+          "path": "/testimonials/"
+        },
+        {
+          "label": "Wisdom Tooth Consent",
+          "path": "/wisdom-teeth-removal/#consent"
+        },
+        {
+          "label": "Pay Your Bill",
+          "path": "/pay-your-bill/"
+        },
+        {
+          "label": "Media",
+          "path": "/media/"
+        }
+      ]
+    },
+    {
+      "heading": "Patient Center Menu Pages",
+      "paragraphs": [],
+      "links": [
+        {
+          "label": "First Visit",
+          "path": "/first-visit/"
+        },
+        {
+          "label": "Patient Forms",
+          "path": "/patient-forms/"
+        },
+        {
+          "label": "Surgical Instructions",
+          "path": "/surgical-instructions/"
+        },
+        {
+          "label": "Insurance & Financing",
+          "path": "/insurance-and-financing/"
+        },
+        {
+          "label": "Patient Testimonials",
+          "path": "/testimonials/"
+        },
+        {
+          "label": "Wisdom Tooth Consent",
+          "path": "/wisdom-teeth-removal/#consent"
+        },
+        {
+          "label": "Pay Your Bill",
+          "path": "/pay-your-bill/"
+        },
+        {
+          "label": "Media",
+          "path": "/media/"
+        }
+      ]
+    }
+  ],
+  "child_pages": [
+    {
+      "label": "First Visit",
+      "path": "/first-visit/"
+    },
+    {
+      "label": "Patient Forms",
+      "path": "/patient-forms/"
+    },
+    {
+      "label": "Surgical Instructions",
+      "path": "/surgical-instructions/"
+    },
+    {
+      "label": "Insurance & Financing",
+      "path": "/insurance-and-financing/"
+    },
+    {
+      "label": "Patient Testimonials",
+      "path": "/testimonials/"
+    },
+    {
+      "label": "Wisdom Tooth Consent",
+      "path": "/wisdom-teeth-removal/#consent"
+    },
+    {
+      "label": "Pay Your Bill",
+      "path": "/pay-your-bill/"
+    },
+    {
+      "label": "Media",
+      "path": "/media/"
+    }
+  ],
+  "header_submenu_pages": [
+    {
+      "label": "First Visit",
+      "path": "/first-visit/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Patient Forms",
+      "path": "/patient-forms/",
+      "source": "Patient Center header hover submenu and Patient Forms outer HTML"
+    },
+    {
+      "label": "Surgical Instructions",
+      "path": "/surgical-instructions/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Insurance & Financing",
+      "path": "/insurance-and-financing/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Patient Testimonials",
+      "path": "/testimonials/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Wisdom Tooth Consent",
+      "path": "/our-services/oral-and-maxillofacial/wisdom-teeth-removal/#consent",
+      "source": "Patient Center header hover submenu custom anchor link"
+    },
+    {
+      "label": "Pay Your Bill",
+      "path": "/pay-your-bill/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Media",
+      "path": "/media/",
+      "source": "Patient Center header hover submenu"
+    }
+  ],
+  "current_menu_state": {
+    "patient_center_classes": [
+      "current-menu-item",
+      "current_page_item",
+      "menu-item-has-children"
+    ]
+  }
+}

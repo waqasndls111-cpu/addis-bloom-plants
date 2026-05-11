@@ -1,0 +1,3037 @@
+{
+  "base_url": "https://statenislandoralsurgery.us",
+  "parent_page": {
+    "label": "Bone Grafting",
+    "path": "/bone-grafting/",
+    "source": "header submenu parent and current page HTML"
+  },
+  "header_submenu_pages": [
+    {
+      "label": "Bone Grafting FAQs",
+      "path": "/bone-grafting-faqs/",
+      "source": "Services > Bone Grafting hover submenu"
+    },
+    {
+      "label": "Ridge Augmentation",
+      "path": "/ridge-augmentation/",
+      "source": "Services > Bone Grafting hover submenu and Ridge Augmentation page outer HTML"
+    },
+    {
+      "label": "Sinus Lift",
+      "path": "/sinus-lift/",
+      "source": "Services > Bone Grafting hover submenu and Sinus Lift page outer HTML"
+    },
+    {
+      "label": "Platelet Rich Fibrin (PRF)",
+      "path": "/platelet-rich-fibrin-prf/",
+      "source": "Services > Bone Grafting hover submenu and Platelet Rich Fibrin (PRF) page outer HTML"
+    }
+  ],
+  "related_bone_grafting_links": [
+    {
+      "label": "BMP Infuse Bone Graft",
+      "path": "/bmp-infuse-bone-graft/",
+      "source": "Bone Grafting page body/footer link; not visible in the provided header hover screenshot"
+    }
+  ],
+  "page_details": {
+    "bone_grafting": {
+      "label": "Bone Grafting",
+      "path": "/bone-grafting/",
+      "page_id": 4039,
+      "title": "Bone Grafting | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/bone-grafting/",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in bone grafting in Staten Island, NY. Get in touch with our skilled doctors today!",
+      "published_time": "2023-05-15T19:40:22+00:00",
+      "modified_time": "2025-02-19T00:03:12+00:00",
+      "twitter_read_time": "1 minute",
+      "main_h1": "Staten Island Bone Grafting",
+      "hero_h2": "Bone Grafting",
+      "hero_intro": "Discover the transformative potential of bone grafting at our Staten Island Oral & Maxillofacial Surgery office. Our team of experts leverages innovative techniques to promote bone growth and prepare your jaw for dental implants. Explore how our patient-centric approach to bone grafting can enhance your dental health and pave the way for a confident, radiant smile.",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-20.jpg",
+        "alt": "Dentist performing a bone graft on patient",
+        "width": 1200,
+        "height": 800
+      },
+      "body_links": [
+        "/bone-grafting-faqs/",
+        "/ridge-augmentation/",
+        "/sinus-lift/",
+        "/platelet-rich-fibrin-prf/"
+      ]
+    },
+    "bone_grafting_faqs": {
+      "label": "Bone Grafting FAQs",
+      "path": "/bone-grafting-faqs/",
+      "page_id": 4162,
+      "title": "Bone Grafting FAQs | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/bone-grafting-faqs/",
+      "meta_description": "Bone grafting is an effective approach to repairing implant sites with inadequate bone structure. Since bone tissue is able to regenerate and grow, strategic...",
+      "published_time": "2023-05-15T20:46:50+00:00",
+      "modified_time": "2026-04-20T14:21:20+00:00",
+      "twitter_read_time": "6 minutes",
+      "main_h1": "Jaw Bone Grafting For Dental Implants In Staten Island, NY",
+      "hero_h2": "Bone Grafting FAQs",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/tooth-implant-gray-background-3d-render-1.jpg",
+        "alt": "Bone Grafting FAQs",
+        "width": 1200,
+        "height": 800
+      },
+      "faq_questions": [
+        "What Material Is Used For Bone Grafting?",
+        "How Is A Bone Graft Performed?",
+        "Why Do I Need Bone Grafting For Dental Implants?",
+        "How Does Jawbone Density Affect Future Dental Implants?",
+        "How Long Will I Need To Wait After A Bone Graft To Receive Dental Implants?",
+        "What Material Is Used For Bone Grafts?",
+        "What Are Some Common Side Effects After A Bone Graft?",
+        "How Can A Bone Graft Help Me When My Jaw Is Not Wide Enough For Implants?"
+      ]
+    },
+    "ridge_augmentation": {
+      "label": "Ridge Augmentation",
+      "path": "/ridge-augmentation/",
+      "page_id": 4180,
+      "title": "Ridge Augmentation | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/ridge-augmentation/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4180",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4180",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in ridge augmentation in Staten Island, NY. Get in touch with our skilled doctors today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-15T20:56:31+00:00",
+      "modified_time": "2026-04-20T14:21:13+00:00",
+      "twitter_read_time": "3 minutes",
+      "main_h1": "Ridge Augmentation Surgery In Staten Island, NY",
+      "hero_h2": "Ridge Augmentation",
+      "hero_intro": "A ridge augmentation can help shape and contour your gum and jawline to what it was before any teeth were removed or any alveoli were damaged. After a successful ridge augmentation, you will have enough healthy bone to support future dental implants.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-42.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-42.jpg",
+        "alt": "Older man smiling after ridge augmentation",
+        "width": 1200,
+        "height": 1200,
+        "type": "image/jpeg"
+      },
+      "hero_video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=oEZAOWL4HJQ",
+        "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/hqdefault-1.jpg",
+        "play_button_aria_label": "Play Video"
+      },
+      "content_sections": [
+        {
+          "heading": "What is Ridge Augmentation?",
+          "paragraphs": [
+            "Ridge augmentation surgery is commonly performed after tooth extraction to help reconstruct your natural gum and jawline. Ridge augmentation can shape the jaw to treat any bone loss associated with tooth extraction or other dental conditions. Bone loss often occurs with periodontal disease or other medical conditions that deteriorate the integrity of your jawbone. Your alveolar ridges, also known as your alveolar margins, are your two jaw ridges that contain the alveoli of the teeth. An alveolus is the small socket that holds the roots of your teeth.",
+            "When you lose a tooth, your alveolus remains open, eventually being filled with natural tissues. In some cases, when you lose a tooth or have a tooth removed, your alveoli may break or be unable to properly heal on its own. In order to receive dental implants, you must have enough healthy bone to support the base of your implants."
+          ],
+          "links": [
+            {
+              "label": "dental implants",
+              "path": "/dental-implants/"
+            }
+          ]
+        },
+        {
+          "heading": "How Can I Find Out More About Ridge Augmentation?",
+          "paragraphs": [
+            "For more information on ridge augmentation, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "href": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "How Is a Ridge Augmentation Surgery Performed?",
+          "answer": "A ridge augmentation procedure is performed by placing tissue or a bone graft to fill the void from your missing tooth and to create a healthy base for dental implants. In most cases, a ridge augmentation procedure is performed immediately following tooth extraction to reduce any cases of severe bone loss. Grafting material will be placed into the alveolus, and your gums will then be carefully sutured over your alveolus to promote proper healing. Bone or tissue graft material will be promoted to grow into your alveolus and fill any empty space, promoting proper bone density for future dental implants. Once the sockets have fully healed after your ridge augmentation, the alveolar ridge can be prepared to properly receive dental implants. A ridge augmentation procedure is often performed at our office under local anesthesia to reduce any discomfort.",
+          "links": [
+            {
+              "label": "bone graft",
+              "path": "/bone-grafting-faqs/"
+            }
+          ]
+        },
+        {
+          "question": "What Can Ridge Augmentation Do For Dental Implants?",
+          "answer": "In order to receive dental implants, you must have adequate healthy bone as a base to support dental implants. If you do not have enough bone or enough bone density, ridge augmentation can help you achieve a stronger base for future dental implants. Proper bone density is needed for dental implants to properly undergo osseointegration, which is the process of your dental implants securely bonding and adhering to your living jawbone. Dental implants act like the roots of your teeth and need proper bone density to be securely fastened to your jaw.",
+          "links": []
+        },
+        {
+          "question": "Am I a Good Candidate For Ridge Augmentation?",
+          "answer": "You may be a good candidate for ridge augmentation if you have missing teeth or have had teeth surgically extracted and are looking to receive dental implants. Patients with broken or damaged alveoli may also benefit from ridge augmentation to fill any empty cavities with a bone graft. If you are unable to receive dental implants due to lack of bone or low bone density, then ridge augmentation may be right for you.",
+          "links": []
+        }
+      ],
+      "header_current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor",
+          "menu-item-has-children"
+        ],
+        "bone_grafting_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor",
+          "menu-item-has-children"
+        ],
+        "ridge_augmentation_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4180",
+          "current_page_item"
+        ]
+      },
+      "footer_bone_grafting_links": [
+        {
+          "label": "Bone Grafting FAQs",
+          "path": "/bone-grafting-faqs/"
+        },
+        {
+          "label": "Ridge Augmentation",
+          "path": "/ridge-augmentation/"
+        },
+        {
+          "label": "Sinus Lift",
+          "path": "/sinus-lift/"
+        },
+        {
+          "label": "BMP Infuse Bone Graft",
+          "path": "/bmp-infuse-bone-graft/"
+        }
+      ],
+      "schema": {
+        "organization_name": "Staten Island Oral Surgery",
+        "telephone": "+1-718-226-1251",
+        "address": "256-C Mason Avenue, 3rd Floor Staten Island, New York 10305",
+        "publisher_same_as": "https://www.facebook.com/statenislandoralmaxillofacialsurgery",
+        "author": "Azuro Digital"
+      }
+    },
+    "sinus_lift": {
+      "label": "Sinus Lift",
+      "path": "/sinus-lift/",
+      "page_id": 4188,
+      "title": "Sinus Lift | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/sinus-lift/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4188",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4188",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in sinus lifts to support dental implants in Staten Island, NY. Contact us today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-15T21:24:35+00:00",
+      "modified_time": "2026-04-20T14:19:09+00:00",
+      "twitter_read_time": "3 minutes",
+      "main_h1": "Support Dental Implants With A Sinus Lift In Staten Island, NY",
+      "hero_h2": "Sinus Lift",
+      "hero_intro": "If enough bone exists between the upper jaw ridge and the bottom of the sinus to stabilize the dental implant, sinus lift and implant placement can be performed as a single procedure.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-15.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-15.jpg",
+        "alt": "Person smiling with perfect teeth after dental procedure",
+        "width": 1200,
+        "height": 1200,
+        "type": "image/jpeg"
+      },
+      "hero_video": {
+        "type": "youtube",
+        "url": "https://youtu.be/B3sq-jgLDew",
+        "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-4.jpg",
+        "play_button_aria_label": "Play Video"
+      },
+      "content_sections": [
+        {
+          "heading": "What is Sinus Lift?",
+          "paragraphs": [
+            "Sinus Lift in New York City can be used to increase bone density in the jaw in order to better support dental implants. When teeth have been lost, especially for a long period of time, tooth supporting bone in the jaw may begin to deteriorate. Periodontitis and other diseases may also contribute to the deterioration of tooth supporting bone.",
+            "Patients who wish to replace their missing teeth with dental implants may need surgery, such as sinus lift in NY, bone grafting, or Bone Morphogenetic Protein Infuse® Graft before their dental implant surgery in order to augment the upper jawbone, so it has enough bone density to support dental implants. Sinus lift in NY is particularly beneficial to patients whose sinuses are too close to the jawbone to support dental implants."
+          ],
+          "links": [
+            {
+              "label": "Bone Morphogenetic Protein Infuse® Graft",
+              "path": "/bmp-infuse-bone-graft/"
+            }
+          ]
+        },
+        {
+          "heading": "How Can I Find Out More About A Sinus Lift?",
+          "paragraphs": [
+            "For more information on sinus lifts, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "href": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "How Is A Sinus Lift Performed?",
+          "answer": "During a sinus lift procedure, our oral surgeons will enter the sinus cavity from the empty space created by the missing upper teeth and lift the sinus membrane upward in order to insert bone grafts into the sinus floor. Over the course of several months, the bone regenerates and becomes part of the patient’s jaw through osseointegration, making it possible for dental implants to be inserted. In cases where there is an insufficient amount of bone, the sinus lift will need to be performed first, and the grafts must be given time to mature. Dental implants can then be inserted several months later.",
+          "links": []
+        },
+        {
+          "question": "How Can A Sinus Lift Help Me?",
+          "answer": "Sinus lift in NYC can restore the density to the jawbone to support dental implants so the sinus membrane is undisturbed by the dental implant. Without proper support from the jawbone, dental implants won’t have enough of an anchor to hold them in place. Traditionally, bone grafts are used to give more bone density to patients who desire dental implants, but patients whose maxillary sinuses are too close to the jaw do not have the room between the jaw and sinuses to house a graft. Sinus lift in NY creates a pocket between the jaw and sinuses for bone to be implanted, so patients without enough room for bone grafting may still have sinus lift in New York as an option to build bone in their jaw to support the dental implants that they need.",
+          "links": []
+        },
+        {
+          "question": "What Can I Expect From A Sinus Lift?",
+          "answer": "Our sinus lift surgeon can determine what type of bone material to use in your individual sinus lift with an x-ray or CT scan. Our oral surgeons will discuss which option is best for you after examining x-ray and CT scan results during your personal consultation. During sinus lift in NY, our sinus lift surgeon will perform an incision over the jawbone to create a space for the bone substitute, or bone grafting material. The bone grafting material will be placed in the space created between the sinus membrane and the jawbone. After the graft is in position, the graft will need time to heal and form to your natural bone before dental implants can be inserted. Although the time between sinus lift in NY and receiving dental implants may vary on a patient by patient basis, our oral surgeons typically wait 6 to 9 months between surgeries.",
+          "links": []
+        }
+      ],
+      "header_current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor",
+          "menu-item-has-children"
+        ],
+        "bone_grafting_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor",
+          "menu-item-has-children"
+        ],
+        "sinus_lift_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4188",
+          "current_page_item"
+        ]
+      },
+      "footer_bone_grafting_links": [
+        {
+          "label": "Bone Grafting FAQs",
+          "path": "/bone-grafting-faqs/"
+        },
+        {
+          "label": "Ridge Augmentation",
+          "path": "/ridge-augmentation/"
+        },
+        {
+          "label": "Sinus Lift",
+          "path": "/sinus-lift/"
+        },
+        {
+          "label": "BMP Infuse Bone Graft",
+          "path": "/bmp-infuse-bone-graft/"
+        }
+      ],
+      "schema": {
+        "organization_name": "Staten Island Oral Surgery",
+        "telephone": "+1-718-226-1251",
+        "address": "256-C Mason Avenue, 3rd Floor Staten Island, New York 10305",
+        "publisher_same_as": "https://www.facebook.com/statenislandoralmaxillofacialsurgery",
+        "author": "Azuro Digital"
+      }
+    },
+    "platelet_rich_fibrin_prf": {
+      "label": "Platelet Rich Fibrin (PRF)",
+      "path": "/platelet-rich-fibrin-prf/",
+      "page_id": 6397,
+      "title": "Platelet Rich Fibrin (PRF) Treatment in Staten Island, NY",
+      "canonical": "https://statenislandoralsurgery.us/platelet-rich-fibrin-prf/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=6397",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/6397",
+      "meta_description": "PRF can be used to improve outcomes for a variety of oral surgery procedures including soft tissue grafting, bone grafting, difficult extractions, sinus lift...",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-08-07T15:13:56+00:00",
+      "modified_time": "2026-04-20T14:06:13+00:00",
+      "twitter_read_time": "1 minute",
+      "main_h1": "Platelet Rich Fibrin (PRF) Staten Island, NY",
+      "hero_h2": "Platelet Rich Fibrin (PRF)",
+      "hero_intro": "The PRF concentrate is rich in platelets, stem cells, and leukocytes (white blood cells), all of which produce growth factors that enhance the healing process. By extracting this PRF and applying it to the surgical sites it is possible to speed up and enhance the recovery process.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/close-up-doctor-checking-smiley-patient.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/close-up-doctor-checking-smiley-patient.jpg",
+        "alt": "Platelet Rich Fibrin (PRF)",
+        "alt_in_dom": "",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "hero_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/close-up-doctor-checking-smiley-patient.jpg",
+        "alt_in_dom": "",
+        "width": 1200,
+        "height": 800
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-39.jpg",
+        "alt": "Person holding a vile of blood",
+        "width": 1200,
+        "height": 1200
+      },
+      "content_sections": [
+        {
+          "heading": "What is PRF?",
+          "paragraphs": [
+            "Platelet-rich fibrin (PRF) are blood products made using a small sample of the patient’s own blood. PRF has been utilized widely in the oral surgery field to enhance the healing process following surgical procedures and therefore easing patient recovery.",
+            "As PRF is extracted from the patient’s blood your doctor will draw a simple blood sample similar to a regular medical exam blood draw at the time of your surgery. The vials of blood are then placed into a centrifuge machine to separate and concentrate the different blood components into individual layers that we can then use to help with healing after surgery."
+          ],
+          "links": []
+        },
+        {
+          "heading": "How Can I Find Out More About Platelet Rich Fibrin (PRF)?",
+          "paragraphs": [
+            "For more information on platelet rich fibrin (PRF), please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "href": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "What can PRF be used for?",
+          "answer": "PRF can be used to improve outcomes for a variety of oral surgery procedures including soft tissue grafting, bone grafting, difficult extractions, sinus lift procedures, and most importantly implant placement procedures.",
+          "links": []
+        },
+        {
+          "question": "Why should I want PRF for my oral surgery procedure?",
+          "answer": "It is scientifically proven to dramatically speed up the healing cascade – and the best part is, it is using your own blood – making it a safe and natural healing agent with no risk of an allergic or immunologic rejection. And speedy healing is just one of a number of benefits. PRF also decreases bleeding intraoperatively, reduces inflammation and because it is also rich in leukocytes there is a decreased risk of postoperative infection as well. Ask one of our doctors today how PRF can help you for your next procedure!",
+          "links": []
+        }
+      ],
+      "header_current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor",
+          "menu-item-has-children"
+        ],
+        "bone_grafting_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor",
+          "menu-item-has-children"
+        ],
+        "platelet_rich_fibrin_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-6397",
+          "current_page_item"
+        ]
+      },
+      "footer_bone_grafting_links": [
+        {
+          "label": "Bone Grafting FAQs",
+          "path": "/bone-grafting-faqs/"
+        },
+        {
+          "label": "Ridge Augmentation",
+          "path": "/ridge-augmentation/"
+        },
+        {
+          "label": "Sinus Lift",
+          "path": "/sinus-lift/"
+        },
+        {
+          "label": "BMP Infuse Bone Graft",
+          "path": "/bmp-infuse-bone-graft/"
+        }
+      ],
+      "schema": {
+        "organization_name": "Staten Island Oral Surgery",
+        "telephone": "+1-718-226-1251",
+        "address": "256-C Mason Avenue, 3rd Floor Staten Island, New York 10305",
+        "publisher_same_as": "https://www.facebook.com/statenislandoralmaxillofacialsurgery",
+        "author": "Azuro Digital"
+      }
+    },
+    "oral_and_maxillofacial": {
+      "label": "Oral & Maxillofacial Surgeries",
+      "path": "/oral-and-maxillofacial/",
+      "page_id": 4045,
+      "title": "Oral & Maxillofacial Surgeries | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/oral-and-maxillofacial/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4045",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4045",
+      "meta_description": "Our industry-leading clinic specializes in oral and maxillofacial surgery in Staten Island, NY. Get in touch with our skilled doctors today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-15T19:41:34+00:00",
+      "modified_time": "2025-03-04T22:09:14+00:00",
+      "twitter_read_time": "Less than a minute",
+      "main_h1": "Staten Island Oral & Maxillofacial",
+      "hero_h2": "Oral & Maxillofacial",
+      "hero_intro": "We offer expert care in wisdom teeth removal, teeth extractions, and orthognathic jaw surgery, all performed by our team of skilled professionals. By leveraging advanced surgical techniques, we ensure precise, personalized, and effective treatments for improved oral health and a confident smile. Explore our services and discover how we can enhance your well-being.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-10.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-10.jpg",
+        "alt": "Patient sitting in chair while dentists look over their records",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-3.jpg",
+        "alt": "Woman in blue turtleneck shirt pointing to her smile",
+        "width": 1200,
+        "height": 1200
+      },
+      "content_sections": [
+        {
+          "heading": "Oral & Maxillofacial Surgeries",
+          "paragraphs": [
+            "In order to meet your needs, we provide a comprehensive range of oral surgeries in New York, from TMJ Surgery to dental implants. Using the most advanced procedures and techniques, we will solve your dental problem with the least invasive option possible so that you can swiftly return to the rhythm of your daily routine. Using innovative procedures such as wisdom tooth removals, jaw surgery, treatments for impacted canines, and more, our highly respected Staten Island oral surgeons can help treat various oral and dental complications.",
+            "Ensuring your safety first, our staff at Staten Island Oral & Maxillofacial Surgery are dedicated in helping you obtain a healthier smile. Learn more about our oral surgeries and treatments by navigating the links below."
+          ],
+          "links": [
+            {
+              "label": "Teeth Extractions",
+              "path": "/teeth-extractions/"
+            },
+            {
+              "label": "Impacted Canines",
+              "path": "/impacted-canines/"
+            },
+            {
+              "label": "Wisdom Teeth Removal",
+              "path": "/wisdom-teeth-removal/"
+            },
+            {
+              "label": "Orthognathic Jaw Surgery",
+              "path": "/orthognathic-jaw-surgery/"
+            }
+          ]
+        }
+      ],
+      "header_submenu_pages": [
+        {
+          "label": "Teeth Extractions",
+          "path": "/teeth-extractions/",
+          "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Teeth Extractions outer HTML"
+        },
+        {
+          "label": "Wisdom Teeth Removal",
+          "path": "/wisdom-teeth-removal/",
+          "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+        },
+        {
+          "label": "Impacted Canines",
+          "path": "/impacted-canines/",
+          "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+        },
+        {
+          "label": "Orthognathic Jaw Surgery",
+          "path": "/orthognathic-jaw-surgery/",
+          "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+        }
+      ],
+      "footer_oral_maxillofacial_links": [
+        {
+          "label": "Teeth Extractions",
+          "path": "/teeth-extractions/",
+          "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Teeth Extractions outer HTML"
+        },
+        {
+          "label": "Wisdom Teeth Removal",
+          "path": "/wisdom-teeth-removal/",
+          "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+        },
+        {
+          "label": "Impacted Canines",
+          "path": "/impacted-canines/",
+          "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+        },
+        {
+          "label": "Orthognathic Jaw Surgery",
+          "path": "/orthognathic-jaw-surgery/",
+          "source": "Services > Oral & Maxillofacial Surgeries hover submenu"
+        },
+        {
+          "label": "Frenectomy",
+          "path": "/frenectomy/",
+          "source": "footer Oral and Maxillofacial links"
+        },
+        {
+          "label": "TMJ Disorders & Surgery",
+          "path": "/tmj-disorders-surgery/",
+          "source": "footer Oral and Maxillofacial links"
+        },
+        {
+          "label": "Facial Trauma",
+          "path": "/facial-trauma/",
+          "source": "footer Oral and Maxillofacial links"
+        },
+        {
+          "label": "Oral Pathology",
+          "path": "/oral-pathology/",
+          "source": "footer Oral and Maxillofacial links"
+        },
+        {
+          "label": "MOHS Reconstruction",
+          "path": "/mohs-reconstruction/",
+          "source": "footer Oral and Maxillofacial links"
+        },
+        {
+          "label": "Anesthesia Options",
+          "path": "/anesthesia-options/",
+          "source": "footer Oral and Maxillofacial links"
+        }
+      ],
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "oral_parent_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4045",
+          "current_page_item"
+        ]
+      }
+    },
+    "teeth_extractions": {
+      "label": "Teeth Extractions",
+      "path": "/teeth-extractions/",
+      "page_id": 4294,
+      "title": "Teeth Extractions | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/teeth-extractions/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4294",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4294",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in teeth extractions in Staten Island, NY. Get in touch with our skilled doctors today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T14:28:56+00:00",
+      "modified_time": "2026-04-20T14:14:32+00:00",
+      "twitter_read_time": "4 minutes",
+      "main_h1": "Remove Teeth In Staten Island, NY",
+      "hero_h2": "Teeth Extractions",
+      "hero_intro": "Discover the gold standard in teeth extractions at our Staten Island Oral & Maxillofacial Surgery office. Our highly skilled team employs the latest techniques to ensure smooth, comfortable extractions, whether it’s for a damaged tooth or preparing for dental implants. Learn how our individualized approach to teeth extractions can improve your oral health and comfort.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-19.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-19.jpg",
+        "alt": "Dentist holding tooth after extraction",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-13.jpg",
+        "alt": "Dentist tools extracting a tooth from person's mouth",
+        "width": 1200,
+        "height": 1200
+      },
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/3-1.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "content_sections": [
+        {
+          "heading": "What is a Tooth Extraction?",
+          "paragraphs": [
+            "If a tooth has been severely damaged due to injury, accident, or decay, it may need to be extracted. While some teeth that are damaged or decayed may be effectively treated with a filling, teeth that are too damaged to be repaired must be removed. Tooth extraction is often referred to as pulling a tooth and is the procedure where a tooth is removed entirely to ensure a healthy smile.",
+            "In addition to excessive damage or decay, a tooth may need to be removed due to overcrowding or an overabundance of teeth. If your tooth is infected, it may also need to be extracted. A common form of tooth extraction in adults is the removal of wisdom teeth. Tooth extraction may also be required in children if a baby tooth does not fall out in time for a permanent tooth to come in. In children with overcrowding, teeth may not come in properly, which can cause teeth to shift or become crooked. Additionally, in some cases, If your child is getting braces, they may need to have teeth pulled to create room for the teeth that will straighten into place."
+          ],
+          "links": [
+            {
+              "label": "removal of wisdom teeth",
+              "path": "/wisdom-teeth-removal/"
+            }
+          ]
+        },
+        {
+          "heading": "How Can I Find Out More About Teeth Extractions?",
+          "paragraphs": [
+            "For more information on teeth extractions, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "How Are Teeth Extracted?",
+          "answer": [
+            "Most teeth can be removed using a simple extraction technique as long as they have erupted and are visible. To begin a simple tooth extraction, an anesthetic will be applied to numb the area around the tooth that is being removed. It is normal to feel a sensation of pressure when having a tooth removed. Dental tools will be used to slowly elevate the tooth out of its socket. Forceps will then be used to firmly grasp the tooth and fully remove it. Gauze may be utilized to control the bleeding from your tooth extraction procedure.",
+            "Some teeth require surgical extraction to be removed properly. Surgical extraction is commonly performed on wisdom teeth because many wisdom teeth are within the gums and not visible in the mouth. Surgical extraction is also performed on teeth that have broken off at the gum line or that have not erupted. General anesthesia is used during surgical tooth extraction to ensure patient comfort. A small incision will be made in the gum line where the surgical tooth extraction will take place. In some cases, a tooth may need to be cut in half or quarters in order to properly be removed. After the tooth or teeth are surgically removed, stitches will be applied to the incisions to promote healing. You may be directed to gently bite down on a gauze pad until the bleeding stops."
+          ]
+        },
+        {
+          "question": "What Tooth Replacement Options Are There After Tooth Extractions?",
+          "answer": [
+            "After losing a tooth or having a tooth removed, most patients are curious about what tooth replacement options are available. At Staten Island Oral & Maxillofacial Surgery, we offer the most innovative procedures for tooth replacement currently available. Some of our most popular dental restorations following tooth extraction include dental implant surgery or Teeth in a Day. It is important to undergo a dental restoration procedure after tooth extraction to reduce the risk of teeth collapsing inward or jawbone resorption."
+          ],
+          "links": [
+            {
+              "label": "dental implant surgery",
+              "path": "/dental-implants/"
+            },
+            {
+              "label": "Teeth in a Day",
+              "path": "/teeth-in-a-day-all-on-x/"
+            }
+          ]
+        },
+        {
+          "question": "Dental Implant Surgery",
+          "answer": [
+            "Dental implants use titanium posts that are surgically inserted into your jawbone. These dental implants will then begin osseointegration, also known as the period of healing where your jawbone and gums securely adhere to the dental implant post. This secure bond allows for a stable base to place your dental abutment and dental crown. Once this period of osseointegration is complete, you will return to our office to have an abutment placed on your dental implant. This abutment will then connect your future dental crown to the base of your dental implant. Multiple dental implants can be placed simultaneously to replace several missing teeth at once. Dental implants are durable, long-lasting tooth replacement options that look, feel, and function like natural teeth."
+          ]
+        },
+        {
+          "question": "Teeth In A Day",
+          "answer": [
+            "Similar to traditional dental implants, Teeth in a Day, also known as All-On-4 dental implants, use titanium posts to connect dental crowns to dental implant posts. The difference is that temporary crowns can be placed on the dental implants the same day for an immediate smile restoration. Permanent dental crowns will be placed during your follow-up appointment. Additionally, teeth in a day differs from traditional dental implants in that all the teeth of the lower or upper jaw can be replaced using just four dental implants. All-On-4 dental implants are recommended for patients who are missing most or all of their teeth.",
+            "Our oral surgeons at Staten Island Oral & Maxillofacial Surgery can help determine what is best for your smile following teeth extraction."
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "How Can I Find Out More About Teeth Extractions?",
+        "body": "For more information on teeth extractions, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "oral_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "teeth_extractions_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4294",
+          "current_page_item"
+        ]
+      }
+    },
+    "wisdom_teeth_removal": {
+      "label": "Wisdom Teeth Removal",
+      "path": "/wisdom-teeth-removal/",
+      "page_id": 4304,
+      "title": "Wisdom Teeth Removal in Staten Island, NY",
+      "canonical": "https://statenislandoralsurgery.us/wisdom-teeth-removal/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4304",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4304",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in wisdom teeth removal in Staten Island, NY. Get in touch with our doctors today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T14:44:04+00:00",
+      "modified_time": "2026-04-20T14:12:21+00:00",
+      "twitter_read_time": "3 minutes",
+      "main_h1": "Wisdom Teeth Removal in Staten Island, NY",
+      "hero_h2": "Get Your Wisdom Teeth Removed",
+      "hero_intro": "Our industry-leading oral surgeons specialize in wisdom teeth removal in Staten Island. We use state-of-the-art imaging and techniques to ensure safe and effective extractions, minimizing discomfort and promoting rapid recovery. Explore how our personalized approach to wisdom teeth removal can prevent future dental complications and contribute to your oral health.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-18.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-18.jpg",
+        "alt": "Xray showing impacted wisdom tooth in staten island",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-12.jpg",
+        "alt": "Man holding jaw in pain from impacted wisdom tooth",
+        "width": 2000,
+        "height": 2000
+      },
+      "hero_video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/AAw7zA7L2NE",
+        "title": "Wisdom Teeth Surgery in New York | What You Need To Know",
+        "duration": "PT8M4S",
+        "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/Wisdom-Tooth-Consent-Video.jpg"
+      },
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/wisdom-tooth.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "content_sections": [
+        {
+          "heading": "What Are Wisdom Teeth?",
+          "paragraphs": [
+            "The average mouth can comfortably fit 28 teeth. When the third and final set of molars - commonly known as wisdom teeth - begin to develop, the addition of 4 more teeth in an already full mouth can cause varying levels of discomfort. In order to prevent this pain, many people have their wisdom teeth removed.",
+            "For some people, wisdom teeth do not have to be extracted. If they align properly and the gum tissue is healthy, they can remain in your jaw without causing pain and discomfort. However, this is not always the case. Wisdom teeth become problematic when they are misaligned. They can grow in sideways, angled toward or away from the second molars, or angled inward or outward. Poor alignment can crowd and damage adjacent teeth, the jawbone, or surrounding nerves. Impacted wisdom teeth are those that remain trapped beneath the gum and bone. Poorly positioned impacted teeth can cause pressure that may move and disrupt the orthodontic or natural alignment of teeth."
+          ]
+        },
+        {
+          "heading": "Understand More About Wisdom Teeth Surgery",
+          "paragraphs": [],
+          "video": "https://www.youtube.com/embed/AAw7zA7L2NE"
+        },
+        {
+          "heading": "How Can I Find Out More About Wisdom Teeth Extraction In Staten Island?",
+          "paragraphs": [
+            "For more information on wisdom teeth extraction, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "How Do I Know If My Wisdom Teeth Should be Removed?",
+          "answer": "An oral and radiographic examination will allow our oral surgeons to evaluate the position of your wisdom teeth in order to predict any future complications. The earlier you have your wisdom teeth evaluated and treated, the better the outcome will be. Most patients are first assessed by a dentist, orthodontist, or oral surgeon in their mid-teens."
+        },
+        {
+          "question": "What Should I Expect from Wisdom Teeth Surgery?",
+          "answer": "In most cases, wisdom teeth are removed under conscious IV sedation to maximize patient comfort. We offer various types of anesthesia and will work with you to select the best option for your individual case. Our oral surgeons will discuss these options with you prior to the procedure. Our services are provided in an environment of optimal safety, with up-to-date equipment operated by a staff that is experienced in anesthesia techniques. Once your wisdom teeth are removed, the gum is sutured and gauze will be placed in your mouth to help control bleeding. You will remain in the office under the supervision of our staff until you are ready to be taken home by an adult escort. We will provide you with a post-operative kit including instructions for care once you are home, extra gauze, an ice pack, and a prescription for pain medication and antibiotics if necessary."
+        },
+        {
+          "question": "How Long Is Recovery From Wisdom Teeth Surgery?",
+          "answer": "Your specific recovery will depend on many factors including your age, overall health, and the difficulty of the extraction. Most patients will experience some swelling and mild discomfort after surgery, and you will be limited to a soft diet until the discomfort passes. If necessary, you may be prescribed antibiotics or pain medications. The page also mentions therapeutic IV medications and PRF (Platelet Rich Fibrin) as adjunct services that can improve healing times and decrease post-operative complications.",
+          "links": [
+            {
+              "label": "PRF (Platelet Rich Fibrin)",
+              "path": "/platelet-rich-fibrin-prf/"
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "How Can I Find Out More About Wisdom Teeth Extraction In Staten Island?",
+        "body": "For more information on wisdom teeth extraction, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "oral_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "wisdom_teeth_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4304",
+          "current_page_item"
+        ]
+      }
+    },
+    "impacted_canines": {
+      "label": "Impacted Canines",
+      "path": "/impacted-canines/",
+      "page_id": 4317,
+      "title": "Impacted Canines | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/impacted-canines/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4317",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4317",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in early detection and treatment of impacted canines in Staten Island, NY. Contact us today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T14:50:35+00:00",
+      "modified_time": "2026-04-20T14:10:32+00:00",
+      "twitter_read_time": "5 minutes",
+      "main_h1": "Early Detection & Treatment Of Impacted Canine Teeth In Staten Island",
+      "hero_h2": "Impacted Canines",
+      "hero_intro": "Teeth are called impacted if they fail to erupt and pass through the gums. Teeth that have only partially erupted through the gums are also considered to be impacted teeth. The most common teeth to remain impacted are the third molars (commonly known as wisdom teeth) followed by the maxillary canine or cuspid tooth.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-37.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-37.jpg",
+        "alt": "Little girl with front teeth starting to grow in",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-41.jpg",
+        "alt": "Little boy smiling with head resting on arms",
+        "width": 1200,
+        "height": 1200
+      },
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/wisdom-teeth.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "content_sections": [
+        {
+          "heading": "What Causes A Tooth To Be Impacted?",
+          "paragraphs": [
+            "There are several reasons that a tooth can become impacted and fail to fully erupt. The most common causes of tooth impaction are insufficient space in the jaw and the overcrowding, misalignment, or conflicting position of teeth in the jaw. This misalignment of teeth can cause emerging teeth to tilt or become displaced when attempting to emerge, which contributes to impacted teeth.",
+            "Impacted wisdom teeth may occur in early adulthood but can arise later in life. Impacted wisdom teeth often are not noticeable because they do not cause many symptoms or pain. After the wisdom teeth, the maxillary cuspid (upper eye tooth, canine tooth) is the second most common tooth to become impacted. If impacted teeth are not treated, an impacted tooth may press against an adjacent tooth, causing a misalignment or shift in your teeth."
+          ]
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "paragraphs": []
+        },
+        {
+          "heading": "How Can I Find Out More About Impacted Canine Teeth?",
+          "paragraphs": [
+            "For more information on impacted canine teeth, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "What Are Cuspid Teeth?",
+          "answer": "Located between the incisors and first premolar, cuspid teeth are easily recognizable by their distinctively pointed shape. Cuspid teeth have the longest roots of any human teeth, causing them to be very strong biting teeth. They play an important role in the dental arch because they are the first teeth that touch when your jaws close together, guiding the rest of the teeth into the proper biting position. For most people, the maxillary cuspid teeth are the last of the front teeth to erupt into place. This typically happens between the ages of 11 and 13."
+        },
+        {
+          "question": "What Kind Of Problems Can Impacted Canine Teeth Cause?",
+          "answer": "If canine teeth cannot find room to grow in an overcrowded mouth, they may become partially emerged or completely trapped under the gums. Like impacted wisdom teeth, impacted canines can lead to infections, pain, stiffness, swelling, gum disease, and cysts or tumors in the jaw. Early evaluation and treatment is the best way to resolve and prevent the problems associated with them."
+        },
+        {
+          "question": "Why Is Early Detection Of Impacted Canine Teeth Important?",
+          "answer": "Early detection of impacted canine teeth is a key element in the success of their treatment. When the eruption path for the impacted canine tooth is cleared by age 11 or 12, it is likely that the impacted canine will erupt on its own. If the impacted canine tooth and its roots are allowed to develop due to delayed detection, treatment will probably require surgery. The farther the patient is into adulthood, the higher the chance the impacted tooth will be fused to the surrounding bone. Once total fusion has occurred, the only treatment option is to extract the impacted canine tooth and insert a dental implant in its place.",
+          "links": [
+            {
+              "label": "dental implant",
+              "path": "/dental-implants/"
+            }
+          ]
+        },
+        {
+          "question": "How Are Impacted Canine Teeth Treated?",
+          "answer": "The treatment of impacted canine teeth differs from the treatment of impacted wisdom teeth because the goal is eruption, not extraction. Since the most common cause is overcrowding in the jaw, the first step is to create a space for them to grow. Orthodontists often place braces on the upper teeth to open spaces for the eruption of the impacted canines. For many people, treatment also requires extraction of baby teeth and/or adult teeth that are blocking eruption of the cuspid tooth.",
+          "links": [
+            {
+              "label": "impacted wisdom teeth",
+              "path": "/wisdom-teeth-removal/"
+            }
+          ]
+        },
+        {
+          "question": "What Happens If The Canine Tooth Will Not Erupt When Proper Space Is Available?",
+          "answer": "If the impacted canine tooth fails to erupt spontaneously after an orthodontist has applied braces and created an opening, the oral and maxillofacial surgeons can expose and bracket the impacted canine tooth. The gum is lifted to expose the impacted tooth, an orthodontic bracket with a small gold chain is placed on it, and the chain is connected to the orthodontic wire. A CT scan is often used to locate the impacted tooth, identify adjacent teeth, and determine the best surgical approach."
+        },
+        {
+          "question": "What Can I Expect From Surgery To Expose And Bracket An Impacted Tooth?",
+          "answer": "In most cases, impacted canine teeth can be exposed and bracketed safely and easily in the facility using either nitrous oxide or IV sedation. Surgery is generally scheduled for 30 minutes if one tooth is exposed and bracketed and 60 minutes if both sides require treatment. A preoperative examination is conducted before the procedure to answer questions about the specific case."
+        },
+        {
+          "question": "How Long Is Recovery After Impacted Canine Teeth Are Exposed And Bracketed?",
+          "answer": "As with any surgical procedure, recovery depends on many factors. Most patients experience mild discomfort and bleeding after surgery and are limited to a soft diet until discomfort passes. Oral surgeons may prescribe antibiotics or pain medications if necessary, but many patients find Tylenol or Advil adequate for pain management. The surgeons discuss the details of surgery and recovery before the procedure."
+        }
+      ],
+      "cta": {
+        "heading": "How Can I Find Out More About Impacted Canine Teeth?",
+        "body": "For more information on impacted canine teeth, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "oral_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "impacted_canines_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4317",
+          "current_page_item"
+        ]
+      }
+    },
+    "orthognathic_jaw_surgery": {
+      "label": "Orthognathic Jaw Surgery",
+      "path": "/orthognathic-jaw-surgery/",
+      "page_id": 4329,
+      "title": "Orthognathic Jaw Surgery | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/orthognathic-jaw-surgery/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4329",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4329",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in orthognathic jaw surgery in Staten Island, NY. Get in touch with our doctors today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T15:05:14+00:00",
+      "modified_time": "2026-04-20T14:09:30+00:00",
+      "twitter_read_time": "3 minutes",
+      "main_h1": "Staten Island Orthognathic Jaw Surgery For Misaligned Teeth & Jaw",
+      "hero_h2": "Orthognathic Jaw Surgery",
+      "hero_intro": "The purpose of orthognathic surgery is to reposition a misaligned jaw to ensure that teeth meet properly and the jaw functions effectively. In addition to its functional purposes, orthognathic surgery can also help improve a patient's appearance by correcting facial imbalances like a receding chin or protruding jaw.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-36.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-36.jpg",
+        "alt": "Woman smiling with braces",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-36.jpg",
+        "alt": "Skull showing teeth with braces",
+        "width": 1200,
+        "height": 1200
+      },
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/02-Prosthesis.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "content_sections": [
+        {
+          "heading": "What is Orthognathic Surgery?",
+          "paragraphs": [
+            "Orthognathic surgery, also known as corrective jaw surgery, is a type of surgical procedure performed by oral and maxillofacial surgeons in conjunction with orthodontists to correct a wide range of skeletal and dental irregularities in the jaw and face. Jaws that are imbalanced or in the wrong position can lead to a number of problems that can affect chewing, swallowing, breathing, and overall facial appearance. Problems with jaw alignment can be caused by injury, birth defect, or different growth rates between the upper and lower jaws.",
+            "Staten Island Oral & Maxillofacial Surgery offers the most advanced treatment options to correct major and minor skeletal and dental deformities in the jaw. Proper detection and treatment of jaw deformities can help manage chronic jaw pain, biting and chewing difficulties, or any other jaw related problems. The goal of orthognathic surgery is to improve the patient's ability to chew, speak, and breathe while also enhancing facial aesthetics. This procedure is typically considered when other orthodontic treatments, such as braces, cannot fully address the underlying structural issues of the jaw."
+          ]
+        },
+        {
+          "heading": "Before & After Orthognathic Jaw Surgery",
+          "paragraphs": [],
+          "images": [
+            "https://statenislandoralsurgery.us/wp-content/uploads/22-4.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/1-19.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/2-21.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/20-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/21-5.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/5-13.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/6-13.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/20-2.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/21-6.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/9-7.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/10-5.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/22-5.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/21-4.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/13-3.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/14-2.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/20-3.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/21-7.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/3-20.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/4-20.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/24-2.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/23-2.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/7-8.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/8-11.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/25-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/26-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/New-Before-and-After.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/New-Before-and-After-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/21-8.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/22-6.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/15-3.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/16-1.jpg"
+          ]
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "paragraphs": []
+        },
+        {
+          "heading": "Unlocking The Jaw Part 1",
+          "paragraphs": [],
+          "video": "https://www.youtube.com/watch?v=JiIvvBAKSYM",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-2.jpg"
+        },
+        {
+          "heading": "Unlocking The Jaw Part 2",
+          "paragraphs": [],
+          "video": "https://www.youtube.com/watch?v=6gIYV3wo2w4",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-3.jpg"
+        },
+        {
+          "heading": "How Can I Find Out More About Orthognathic Surgery?",
+          "paragraphs": [
+            "For more information on orthognathic surgery, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "Unlocking The Jaw Part 1",
+          "url": "https://www.youtube.com/watch?v=JiIvvBAKSYM",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-2.jpg"
+        },
+        {
+          "title": "Unlocking The Jaw Part 2",
+          "url": "https://www.youtube.com/watch?v=6gIYV3wo2w4",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-3.jpg"
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "What Are The Symptoms Of Misaligned Jaws?",
+          "answer": "There are several symptoms that indicate you may have misaligned jaws. Possible symptoms include: Difficulty chewing, biting, or swallowing; difficulty breathing; speech problems; chronic jaw pain (TMJ pain); chronic dry mouth; open space in bite; inability to fully close mouth; facial imbalance such as a protruding jaw or receding chin; and sleep apnea.",
+          "list_items": [
+            "Difficulty chewing, biting, or swallowing",
+            "Difficulty breathing",
+            "Speech problems",
+            "Chronic jaw pain (TMJ pain)",
+            "Chronic dry mouth",
+            "Open space in bite",
+            "Inability to fully close mouth",
+            "Facial imbalance (protruding jaw, receding chin)",
+            "Sleep apnea"
+          ]
+        },
+        {
+          "question": "Who is a Candidate for Orthognathic Surgery?",
+          "answer": "Orthognathic surgery may be recommended for conditions such as malocclusions, facial asymmetry, jaw growth abnormalities, and breathing difficulties. Malocclusions include improper alignment of the teeth and/or jaws that can lead to overbite, underbite, crossbite, open bite, or other dental misalignment. Facial asymmetry can result from significant imbalances in jaw size or position. Jaw growth abnormalities may involve the upper or lower jaw not developing properly. Some jaw discrepancies can also lead to obstructive sleep apnea or other breathing problems that may be improved through surgical realignment of the jaws."
+        },
+        {
+          "question": "How Is Orthognathic Surgery Performed?",
+          "answer": "The correction of jaw deformities often requires a united effort between an oral and maxillofacial surgeon and an orthodontist. Before the surgery, the patient wears braces to align the teeth properly. Once the teeth are in their ideal positions, the surgeon performs the jaw repositioning procedure. Corrective jaw surgery can include repositioning all or part of the upper jaw, lower jaw, or chin. The surgery is typically conducted inside the mouth so there are no visible facial scars. After surgery, the patient may need elastics or other orthodontic appliances for further fine tuning of the bite. The overall treatment process can take several months to complete. Staten Island Oral & Maxillofacial Surgery collaborates with the patient's orthodontist to evaluate the condition and determine the right treatment option."
+        },
+        {
+          "question": "Can I See How Beforehand What I Can Expect to Look Like After Jaw Surgery?",
+          "answer": "Staten Island Oral & Maxillofacial Surgery uses a sophisticated 3-D computer modeling system to show how corrective jaw surgery will proceed and what a patient can expect their face to look like once surgery is completed. The office uses imaging systems and computer software to simulate orthognathic surgery. CAT scans, patient photos, and medical models help diagnose and plan each individual surgery. Virtual surgical planning can simulate the surgery to obtain a general prediction of the surgical outcome. The oral and maxillofacial surgeons outline procedure details and expected results during consultation.",
+          "links": [
+            {
+              "label": "sophisticated 3-D computer modeling system",
+              "path": "/latest-technology/"
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "How Can I Find Out More About Orthognathic Surgery?",
+        "body": "For more information on orthognathic surgery, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "oral_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "orthognathic_jaw_surgery_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4329",
+          "current_page_item"
+        ]
+      }
+    },
+    "facial_birth_deformities": {
+      "label": "Facial Birth Deformities",
+      "path": "/facial-birth-deformities/",
+      "page_id": 4051,
+      "title": "Facial Birth Deformities | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/facial-birth-deformities/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4051",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4051",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in facial birth deformities in Staten Island, NY. Get in touch with our skilled doctors today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-15T19:42:40+00:00",
+      "modified_time": "2025-03-05T17:18:19+00:00",
+      "twitter_read_time": "Less than a minute",
+      "main_h1": "Staten Island Facial Birth Deformities",
+      "hero_h2": "Facial Birth Deformities",
+      "hero_intro": "Explore our commitment to treating facial birth deformities at the Staten Island Oral & Maxillofacial Surgery office. We offer personalized treatment plans using advanced surgical techniques to improve function and aesthetics.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-3.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-3.jpg",
+        "alt": "Woman holding baby with Facial Birth Deformities in Staten Island",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/15.jpg",
+        "alt": "Woman holding baby with cleft lip",
+        "width": 1500,
+        "height": 1500
+      },
+      "content_sections": [
+        {
+          "heading": "Facial Birth Deformities",
+          "paragraphs": [
+            "Parents, whether newly made or experienced, share a common desire for children following their birth: perfect health. The worry and uncertainty parents feel when their child is born with an oral congenital defect in New York, such as a cleft lip or Treacher Collins Syndrome, is unavoidable, but at Staten Island Oral & Maxillofacial Surgery, a child’s quality of life can be drastically improved.",
+            "If your child was born with an oral congenital defect, discover how our talented surgeons can impact your child’s future by reading about the congenital and pediatric surgeries we provide."
+          ],
+          "links": [
+            {
+              "label": "cleft lip",
+              "path": "/cleft-lip-palate-surgery/"
+            },
+            {
+              "label": "Treacher Collins Syndrome",
+              "path": "/treacher-collins-syndrome/"
+            }
+          ]
+        },
+        {
+          "heading": "Facial Birth Deformities Services",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Cleft Lip & Palate Surgery",
+              "path": "/cleft-lip-palate-surgery/"
+            },
+            {
+              "label": "Hemifacial Microsomia",
+              "path": "/hemifacial-microsomia/"
+            },
+            {
+              "label": "Treacher Collins Syndrome",
+              "path": "/treacher-collins-syndrome/"
+            },
+            {
+              "label": "Pierre Robin Sequence",
+              "path": "/pierre-robin-sequence/"
+            },
+            {
+              "label": "Neonatal Distraction",
+              "path": "/neonatal-distraction/"
+            }
+          ]
+        }
+      ],
+      "child_pages": [
+        {
+          "label": "Cleft Lip & Palate Surgery",
+          "path": "/cleft-lip-palate-surgery/"
+        },
+        {
+          "label": "Hemifacial Microsomia",
+          "path": "/hemifacial-microsomia/"
+        },
+        {
+          "label": "Treacher Collins Syndrome",
+          "path": "/treacher-collins-syndrome/"
+        },
+        {
+          "label": "Pierre Robin Sequence",
+          "path": "/pierre-robin-sequence/"
+        },
+        {
+          "label": "Neonatal Distraction",
+          "path": "/neonatal-distraction/"
+        }
+      ],
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "facial_birth_deformities_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4051",
+          "current_page_item"
+        ]
+      }
+    },
+    "cleft_lip_palate_surgery": {
+      "label": "Cleft Lip & Palate Surgery",
+      "path": "/cleft-lip-palate-surgery/",
+      "page_id": 4235,
+      "title": "Cleft Lip & Palate Surgery | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/cleft-lip-palate-surgery/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4235",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4235",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in Cleft Lip & Palate Surgery in Staten Island, NY. Get in touch with our doctors today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T13:34:44+00:00",
+      "modified_time": "2026-04-20T14:18:29+00:00",
+      "twitter_read_time": "4 minutes",
+      "main_h1": "Staten Island, NY Cleft Palate & Cleft Lip Repair",
+      "hero_h2": "Cleft Lip & Palate Surgery",
+      "hero_intro": "The diagnosis of a cleft lip or palate can often be made with a prenatal ultrasound. If the cleft is seen on progressive sonograms and the obstetrician informs you of the diagnosis, it’s helpful to have a pre-delivery conference with the surgeon to help you get ready for the baby’s arrival.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-8.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-8.jpg",
+        "alt": "Baby with cleft palate in NY",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery.jpg",
+        "alt": "Baby with cleft lip and cleft palate laying down",
+        "width": 2000,
+        "height": 2000
+      },
+      "content_sections": [
+        {
+          "heading": "What is a Cleft Lip?",
+          "paragraphs": [
+            "During the early weeks of development, long before a child is born, the separate areas of the face develop individually and then join together later. This includes the left and right sides of the roof of the mouth and lips. Occasionally, however, these parts do not join properly and a separation occurs in the upper lip. This condition is called a “cleft lip.”",
+            "With a cleft lip, an opening is created in the upper lip between the mouth and nose, looking as though there is a split in the lip. This can be detrimental on both a physical and functional level. A completely formed lip is important for a normal facial appearance but also for sucking and forming certain sounds made during speech."
+          ]
+        },
+        {
+          "heading": "Before & After Cleft Lip and Palate Surgery",
+          "paragraphs": [],
+          "images": [
+            "https://statenislandoralsurgery.us/wp-content/uploads/4-5.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/5-2.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/6-3.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/7-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/9-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/12-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/13-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/14.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/15-2.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/16.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/17-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/2-5.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/18-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/19-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/20.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/21.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/3-3.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/22-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/23-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/24-1.jpg",
+            "https://statenislandoralsurgery.us/wp-content/uploads/25.jpg"
+          ],
+          "image_alts": [
+            "Before and after images of baby with cleft palate in NY",
+            "Before and after images of baby with cleft palate in New York",
+            "Before and after images of baby with cleft lip in New York",
+            "Before and after images of baby with cleft lip and palate in New York",
+            "Before and after images of baby with cleft lip in Staten Island",
+            "Before and after images of baby with cleft palate in Staten Island",
+            "Before and after images of baby with cleft palate in Staten Island",
+            "Before and after images of baby with cleft palate in Staten Island, NY",
+            "Before and after images of baby with cleft palate in Staten Island, New York",
+            "Before and after images of baby with cleft palate",
+            "Before and after images of baby with cleft palate and lip",
+            "Before and after images of baby with cleft lip and palate",
+            "Before and after images of baby with cleft lip",
+            "Before and after images of baby with cleft palate in New York",
+            "Before and after images of baby with cleft palate",
+            "Before and after images of baby with cleft lip and palate",
+            "Before and after images of baby with cleft palate",
+            "Before and after images of baby with cleft lip and palate in New York",
+            "Before and after images of baby with cleft palate in Staten Island, NY",
+            "Before and after images of baby with cleft lip and palate in New York",
+            "Before and after images of baby with cleft lip in Staten Island"
+          ]
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "paragraphs": []
+        },
+        {
+          "heading": "Cleft Lip And Palate Surgery Staten Island NY",
+          "paragraphs": [],
+          "video": "https://www.youtube.com/watch?v=kfD-g8M4JBU",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault.jpg"
+        },
+        {
+          "heading": "Parent's Guide For Cleft Lip & Palate",
+          "paragraphs": [],
+          "video": "https://www.youtube.com/watch?v=hKt6mYy3YrQ",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/hqdefault.jpg"
+        },
+        {
+          "heading": "Before And After Cleft Palate Speech Therapy",
+          "paragraphs": [],
+          "video": "https://www.youtube.com/watch?v=iLOHJO0Fb6Y",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-1.jpg"
+        },
+        {
+          "heading": "How Can I Learn More About Cleft Lip & Palate Surgery?",
+          "paragraphs": [
+            "For more information on cleft lip & palate surgery, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "Cleft Lip And Palate Surgery Staten Island NY",
+          "url": "https://www.youtube.com/watch?v=kfD-g8M4JBU",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault.jpg"
+        },
+        {
+          "title": "Parent's Guide For Cleft Lip & Palate",
+          "url": "https://www.youtube.com/watch?v=hKt6mYy3YrQ",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/hqdefault.jpg"
+        },
+        {
+          "title": "Before And After Cleft Palate Speech Therapy",
+          "url": "https://www.youtube.com/watch?v=iLOHJO0Fb6Y",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-1.jpg"
+        }
+      ],
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/21-04-15-Different-age-and-gender-groups-line-2.aep_.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "gallery_images": [
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/4-5.jpg",
+          "alt": "Before and after images of baby with cleft palate in NY"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/5-2.jpg",
+          "alt": "Before and after images of baby with cleft palate in New York"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/6-3.jpg",
+          "alt": "Before and after images of baby with cleft lip in New York"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/7-1.jpg",
+          "alt": "Before and after images of baby with cleft lip and palate in New York"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/9-1.jpg",
+          "alt": "Before and after images of baby with cleft lip in Staten Island"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/12-1.jpg",
+          "alt": "Before and after images of baby with cleft palate in Staten Island"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/13-1.jpg",
+          "alt": "Before and after images of baby with cleft palate in Staten Island"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/14.jpg",
+          "alt": "Before and after images of baby with cleft palate in Staten Island, NY"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/15-2.jpg",
+          "alt": "Before and after images of baby with cleft palate in Staten Island, New York"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/16.jpg",
+          "alt": "Before and after images of baby with cleft palate"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/17-1.jpg",
+          "alt": "Before and after images of baby with cleft palate and lip"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/2-5.jpg",
+          "alt": "Before and after images of baby with cleft lip and palate"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/18-1.jpg",
+          "alt": "Before and after images of baby with cleft lip"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/19-1.jpg",
+          "alt": "Before and after images of baby with cleft palate in New York"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/20.jpg",
+          "alt": "Before and after images of baby with cleft palate"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/21.jpg",
+          "alt": "Before and after images of baby with cleft lip and palate"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/3-3.jpg",
+          "alt": "Before and after images of baby with cleft palate"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/22-1.jpg",
+          "alt": "Before and after images of baby with cleft lip and palate in New York"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/23-1.jpg",
+          "alt": "Before and after images of baby with cleft palate in Staten Island, NY"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/24-1.jpg",
+          "alt": "Before and after images of baby with cleft lip and palate in New York"
+        },
+        {
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/25.jpg",
+          "alt": "Before and after images of baby with cleft lip in Staten Island"
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "What Is A Cleft Palate?",
+          "answer": "A similar defect in the roof of the mouth is called a “cleft palate.” The palate (roof of the mouth) is made of bone and muscle and is covered by a thin, wet skin that forms the red covering inside the mouth. Like a cleft lip, a cleft palate occurs in early pregnancy when separate areas of the face have developed individually but fail to join together properly. This defect can range in severity from an opening at the back of the soft palate to a nearly complete separation of the mouth. The palate is meant to separate your nose from your mouth and plays an important role in speech functions. When you talk, the palate prevents air from blowing out of your nose instead of your mouth. The palate also prevents food and liquid from going up into the nose."
+        },
+        {
+          "question": "Are Cleft Lip & Palate Common?",
+          "answer": "Cleft defects occur in approximately 1 out of every 800 babies."
+        },
+        {
+          "question": "How Is A Cleft Lip Corrected?",
+          "answer": "Cleft lip surgery is typically performed when the child is about 10 weeks of age and is done under general anesthesia. This procedure closes the separation, restores muscle function, and provides a normal shape to the mouth. The lip and nose are repaired at the same time. Following surgery, it may be recommended to have a small plastic-like insert placed in the baby’s nose called a nasal former. This will stay in for a few weeks after surgery. Often, a nasal alveolar molding device (NAM) is used prior to surgery. This depends on the severity of the cleft lip and the baby’s ability to tolerate the molding device. Parents should not worry if the baby cannot use the device because very good results can be obtained either way. The baby will have the sutures removed one week after surgery."
+        },
+        {
+          "question": "How Is A Cleft Palate Corrected?",
+          "answer": "A cleft palate is initially treated with surgery when the child is 8 months old, depending on whether or not the child has any associated health problems. The goal of this surgery is to close the gap or hole between the roof of the mouth and the nose and to reconnect the muscles that make the palate work. The lip and nose are treated with this primary surgery. Babies are scheduled to have their sutures removed one week after surgery. The doctors will also make the repaired palate long enough so that the palate can function properly."
+        },
+        {
+          "question": "How Are Cleft Lip & Palate Managed?",
+          "answer": "Children born with one or both of these conditions typically need the skills of several professionals to manage the problems associated with the defect, such as feeding, speech, hearing, and psychological development. In most cases, surgery is recommended and can be performed using several different techniques. Dr. David Hoffman has been performing cleft surgery for over 30 years. He is the surgeon for the Staten Island University Hospital and Maimonides Medical Center Cleft teams. In addition, he is one of the medical directors of Healing the Children and has operated on well over 1000 children both in this country and abroad on medical charity missions. He is well-versed in the phases of cleft surgery from caring for a new born to teenage and adult secondary procedures. Dr. Hoffman and both teams are members of the American Cleft Palate and Craniofacial Association.",
+          "images": [
+            {
+              "url": "https://statenislandoralsurgery.us/wp-content/uploads/Angelo.jpg",
+              "alt": "",
+              "width": 656,
+              "height": 938
+            }
+          ]
+        },
+        {
+          "question": "What Can The Patient Expect After Cleft Lip & Palate Surgery?",
+          "answer": "After the lip and palate are repaired, the child may need other surgical and nonsurgical procedures. The following is a general guide to the care of a child born with a combined cleft lip and palate.",
+          "list_items": [
+            "3-4 months: lip and nose repair",
+            "8 months: cleft palate and (ear) myringotomy tubes",
+            "2 years+: speech therapy and children’s dentistry",
+            "5 years+: possible secondary palate surgery to correct speech problems (nasal speech)",
+            "8 -11 years: orthodontic treatment with bone grafting to alveolar cleft",
+            "12- 18 years: orthodontic care, possible orthognathic surgery, and nose lip revision surgery"
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "How Can I Learn More About Cleft Lip & Palate Surgery?",
+        "body": "For more information on cleft lip & palate surgery, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "facial_birth_deformities_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "cleft_lip_palate_surgery_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4235",
+          "current_page_item"
+        ]
+      }
+    },
+    "hemifacial_microsomia": {
+      "label": "Hemifacial Microsomia",
+      "path": "/hemifacial-microsomia/",
+      "page_id": 4270,
+      "title": "Hemifacial Microsomia | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/hemifacial-microsomia/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4270",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4270",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in Hemifacial Microsomia treatment and surgery in Staten Island, NY. Contact us today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T13:56:01+00:00",
+      "modified_time": "2026-04-20T14:15:25+00:00",
+      "twitter_read_time": "2 minutes",
+      "main_h1": "Treatment Of Hemifacial Microsomia In Staten Island NY",
+      "hero_h2": "Hemifacial Microsomia",
+      "hero_intro": "At Staten Island Oral Surgery, our oral surgeons will discuss the treatment options available for hemifacial microsomia in New York City and what surgery or combination of treatments best suit you and your child’s needs.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-38.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-38.jpg",
+        "alt": "Person holding baby feet in the shape of a heart",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/10-3.jpg",
+        "alt": "Baby hand in pink sweater",
+        "width": 1200,
+        "height": 1200
+      },
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/21-04-15-Different-age-and-gender-groups-line-2.aep_.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "content_sections": [
+        {
+          "heading": "What is Hemifacial Microsomia?",
+          "paragraphs": [
+            "Hemifacial microsomia in NYC is a condition in which a child is born with underdeveloped parts of the face, commonly the ear, jaw, cheek, and possibly the neck. This condition usually only affects one side of the face and is caused either genetically or environmentally.",
+            "Children who are born with this condition may display symptoms that range from mild to severe. Some may simply have what may be described as a “crooked” smile. Others may have an underdeveloped or completely undeveloped external ear. In the most severe cases, if the central nervous system is affected, features of the face may not move symmetrically."
+          ]
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "paragraphs": []
+        },
+        {
+          "heading": "How Can I Find Out More About Hemifacial Microsomia?",
+          "paragraphs": [
+            "For more information on hemifacial microsomia, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "How Can A Hemifacial Microsomia Treatment Help?",
+          "answer": "A wide range of surgeries and treatment options for hemifacial microsomia in NYC are available at Staten Island Oral Surgery to accommodate the varying severities and features affected with this condition. Hemifacial microsomia may potentially physically affect the formation of the ears, face, jaw, teeth, and the functioning aspects of hearing, eating, breathing, and speech. The more common physical aspects of underdeveloped and unsymmetrical features such as the ears, face, and jaw can be corrected with reconstructive surgery. The ideal age for surgery to correct your child’s underdeveloped features depends on the individual feature. Ears are typically repaired at 6 to 8 years old. Some patients may also consider the possibilities of a prosthetic ear. Cleft lips may be repaired at 3 to 4 months, and cleft palates are usually repaired at 8 months. Children with missing or malformed teeth may need braces or a dental appliance. Those with a malformed or lopsided jaw may require corrective surgery at a variety of ages varying from 4-6 years to adulthood. Dr. Hoffman and his staff look forward to discussing the individual features that hemifacial microsomia has affected on your child in order to determine which corrective surgery is needed and begin improving your child’s quality of life."
+        },
+        {
+          "question": "What Can I Expect From Surgery To Correct Hemifacial Microsomia?",
+          "answer": "Multiple surgeries on different features are often required to improve the appearance and function of the features which have been affected by hemifacial microsomia in NYC. With the expertise and advanced techniques that Dr. Hoffman and the staff at Staten Island Oral Surgery provide, your child may look forward to a life less inhibited, both aesthetically and functionally, by hemifacial microsomia in New York. Surgeries commonly used include distraction osteogenesis in NYC, rib grafts, and other orthognathic surgeries in NYC."
+        }
+      ],
+      "cta": {
+        "heading": "How Can I Find Out More About Hemifacial Microsomia?",
+        "body": "For more information on hemifacial microsomia, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "facial_birth_deformities_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "hemifacial_microsomia_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4270",
+          "current_page_item"
+        ]
+      }
+    },
+    "treacher_collins_syndrome": {
+      "label": "Treacher Collins Syndrome",
+      "path": "/treacher-collins-syndrome/",
+      "page_id": 4276,
+      "title": "Treacher Collins Syndrome | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/treacher-collins-syndrome/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4276",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4276",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in Treacher Collins Syndrome treatment and surgery in Staten Island, NY. Contact us today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T13:58:31+00:00",
+      "modified_time": "2026-04-20T14:15:15+00:00",
+      "twitter_read_time": "3 minutes",
+      "main_h1": "Treacher Collins Syndrome Treatment & Surgery In Staten Island, NY",
+      "hero_h2": "Treacher Collins Syndrome",
+      "hero_intro": "At Staten Island Oral Surgery, our oral surgeons will discuss the surgical options available for you and your child which will result in the best possible outcome, significantly improving the appearance and quality of life for your child.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/39.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/39.jpg",
+        "alt": "Baby in white sweater laying on white bedsheets",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/8-4.jpg",
+        "alt": "Woman holding up baby feet while baby is sleeping",
+        "width": 1200,
+        "height": 1200
+      },
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/21-04-15-Different-age-and-gender-groups-line-2.aep_.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "content_sections": [
+        {
+          "heading": "What is Treacher Collins Syndrome?",
+          "paragraphs": [
+            "Treacher Collins syndrome in New York City is a genetic birth defect that can mildly to severely affect the appearance and health of your child. Physical symptoms of this condition may include some or all of the following: abnormally shaped, missing, or low positioned ears, a very small jaw, a very large mouth, cleft palate, abnormal eye shape, defect in the lower eyelid, and a pupil that droops or runs into the lower eyelid. Treacher Collins syndrome in NYC may also affect hearing, breathing, eating, and speech in more severe cases. The severity and features most affected by Treacher Collins syndrome vary depending on each individual patient.",
+            "Treacher Collins syndrome is believed to occur when a change in the gene on chromosome 5 occurs, which largely affects facial development. Treacher Collins syndrome is genetic and can be passed on by a parent with Treacher Collins syndrome."
+          ]
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "paragraphs": []
+        },
+        {
+          "heading": "How Can I Find Out More About Treacher Collins Syndrome?",
+          "paragraphs": [
+            "For more information on Treacher Collins syndrome, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "How Can A Treacher Collins Syndrome Treatment Help?",
+          "answer": "Individual treatment plans and surgeries for Treacher Collins syndrome in NYC will vary on a patient-to-patient basis depending on the severity of the condition and the features affected. Our oral surgeons will tailor your treatment and surgeries to provide the best results for your individual Treacher Collins syndrome. Some of the surgeries available to correct the facial deformities common to Treacher Collins syndrome in NY can include airway management with neonatal distraction, cleft palate repair at 1 year, lower eyelid surgery, bone grafts for missing or deficient cheekbones at 5 years, nasal surgery to improve breathing and cosmetic appearance, ear surgery at 6 years, dental appliance or braces to help fix crowded teeth, bone graft for a small jawbone at 4 to 7 years, and distraction osteogenesis to lengthen to jawbone. Children with Treacher Collins syndrome in New York often need more than one surgery to improve the many features and facial functions that may be affected by this condition. Dr. Hoffman and the staff at Staten Island Oral Surgery will help you and your child through the process of the variety of surgeries that may be needed and the recovery after each to ensure that your child receives the best possible results."
+        },
+        {
+          "question": "What Can I Expect From Surgery To Correct Treacher Collins Syndrome?",
+          "answer": "Different surgeries are available at Staten Island Oral Surgery to treat the wide range of symptoms that those with Treacher Collins syndrome may present. These surgeries are performed at various times, mandibular or jaw distraction for babies with airway issues, cleft palate repair which is performed at one year occurs much earlier than ear repair, which must wait until the ears are fully developed at approximately six years of age. Dr. Hoffman and the staff at Staten Island Oral Surgery provide safe, excellent patient care. We use the most advanced techniques in all of our reconstructive procedures to ensure your satisfaction and peace of mind. We offer you our training and expertise so you and your child can heal from Teacher Collins syndrome in New York City."
+        }
+      ],
+      "cta": {
+        "heading": "How Can I Find Out More About Treacher Collins Syndrome?",
+        "body": "For more information on Treacher Collins syndrome, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "facial_birth_deformities_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "treacher_collins_syndrome_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4276",
+          "current_page_item"
+        ]
+      }
+    },
+    "pierre_robin_sequence": {
+      "label": "Pierre Robin Sequence",
+      "path": "/pierre-robin-sequence/",
+      "page_id": 4282,
+      "title": "Pierre Robin Sequence | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/pierre-robin-sequence/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4282",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4282",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in Pierre Robin Sequence treatment in Staten Island, NY. Get in touch with our doctors today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T14:07:28+00:00",
+      "modified_time": "2026-04-20T14:14:58+00:00",
+      "twitter_read_time": "3 minutes",
+      "main_h1": "Treatment Of Pierre Robin Sequence In Staten Island NY & Pierre Robin Cleft Palate",
+      "hero_h2": "Pierre Robin Sequence",
+      "hero_intro": "Our surgeons at Staten Island Oral Surgery provide the skills and care needed to overcome the barriers and health problems that conditions such as Pierre Robin syndrome in NY present.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/38.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/38.jpg",
+        "alt": "Person holding a baby's hand wearing a hospital bracelet",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/9-4.jpg",
+        "alt": "Baby feet wrapped in blue blanket with hearts",
+        "width": 1200,
+        "height": 1200
+      },
+      "videos": [
+        {
+          "title": "Unlocking The Jaw Part 1",
+          "url": "https://www.youtube.com/watch?v=JiIvvBAKSYM",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-2.jpg"
+        },
+        {
+          "title": "Unlocking The Jaw Part 2",
+          "url": "https://www.youtube.com/watch?v=6gIYV3wo2w4",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/maxresdefault-3.jpg"
+        }
+      ],
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/21-04-15-Different-age-and-gender-groups-line-2.aep_.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "content_sections": [
+        {
+          "heading": "What is a Pierre Robin Sequence?",
+          "paragraphs": [
+            "Pierre Robin syndrome in NYC is a genetic birth condition in which the lower jaw is underdeveloped but grows more rapidly during the infant’s first year. Parents should take care to never lay children with Pierre Robin syndrome on their back. The child’s tongue will fall back into the throat and block the airway. Children with this condition often have difficulty breathing regularly, a jaw that is very small and set back in the throat, a receding chin, a large-looking tongue in proportion to the small jaw, and a small opening in the roof of the mouth called a cleft palate.",
+            "Birth conditions such as Pierre Robin syndrome can be extremely distressing to parents and impact both the lives of the parents and their Child. With the use of distraction osteogenesis, airway issues in Pierre Robin syndrome can often be treated."
+          ],
+          "links": [
+            {
+              "label": "cleft palate",
+              "path": "/cleft-lip-palate-surgery/"
+            }
+          ]
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "paragraphs": []
+        },
+        {
+          "heading": "How Can I Find Out More About Pierre Robin Syndrome?",
+          "paragraphs": [
+            "For more information on Pierre Robin syndrome, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "How Can The Surgeons at Staten Island Oral & Maxillofacial Surgery Help My Child’s Pierre Robin Syndrome?",
+          "answer": "The treatment for Pierre Robin syndrome, as with many birth conditions, varies depending on the severity of each individual patient. A breathing tube (CPAP) will be inserted up the nose and into the airways in moderate cases of Pierre Robin syndrome to prevent the airway from being blocked. More severe cases of this condition may require our oral surgeons to perform surgery in order to prevent the upper airway from being blocked. Some children need a tracheostomy, or a surgical hole in the windpipe to aid with breathing. A tracheostomy could potentially be avoided with the aid of neonatal distraction osteogenesis, depending on the severity of your child’s Pierre Robin syndrome in New York City. At Staten Island Oral Surgery, we provide the most advanced surgical techniques and procedures for our patients so that the care and service you receive with us is the best possible care and service available. Working closely with Dr. Vastola, a pediatric ENT physician, Dr. Hoffman has assembled a team to treat this complex and frustrating syndrome."
+        },
+        {
+          "question": "What Can I Expect After Surgery To Correct Pierre Robin Syndrome?",
+          "answer": "The choking and feeding problems that your child may suffer throughout their first few years should dissipate as their lower jaw grows to a more proportionate size. The most pressing concern during the early months and first year of life with children who have Pierre Robin syndrome in NYC is that the child can breathe properly and eat without choking while the jaw is still growing. Working with a Neonatologist and Dr. Vastola (pediatric ENT), babies with Pierre Robin syndrome can be treated to avoid feeding tubes and other issues. Discuss the surgical options available at Staten Island Oral Surgery with Dr. Hoffman and let us help you and your child thrive through the uncertainties and dangers of Pierre Robins Syndrome in New York."
+        }
+      ],
+      "cta": {
+        "heading": "How Can I Find Out More About Pierre Robin Syndrome?",
+        "body": "For more information on Pierre Robin syndrome, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "facial_birth_deformities_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "pierre_robin_sequence_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4282",
+          "current_page_item"
+        ]
+      }
+    },
+    "neonatal_distraction": {
+      "label": "Neonatal Distraction",
+      "path": "/neonatal-distraction/",
+      "page_id": 4288,
+      "title": "Neonatal Distraction | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/neonatal-distraction/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4288",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4288",
+      "meta_description": "Our team of oral and maxillofacial surgeons specialize in neonatal distraction for underdeveloped jaw in Staten Island, NY. Contact us today!",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T14:13:16+00:00",
+      "modified_time": "2026-04-20T14:14:44+00:00",
+      "twitter_read_time": "2 minutes",
+      "main_h1": "Neonatal Distraction In Staten Island For Underdeveloped Jaw",
+      "hero_h2": "Neonatal Distraction",
+      "hero_intro": "When children are born with conditions such as Treacher Collins Syndrome, Pierre Robin Syndrome, and Hemifacial Microsomia, the experience can be very distressing, but our surgeons at Staten Island Oral Surgery Center offers neonatal distraction osteogenesis in New York to bring a little peace of mind to a time that should simply be joyful.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-4.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-4.jpg",
+        "alt": "Baby feet laying in basket",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-43.jpg",
+        "alt": "Woman holding a baby's head",
+        "width": 1200,
+        "height": 1200
+      },
+      "decorative_animation": {
+        "type": "lottie",
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/21-04-15-Different-age-and-gender-groups-line-2.aep_.json",
+        "renderer": "svg",
+        "loop": true,
+        "play_speed": 0.5
+      },
+      "content_sections": [
+        {
+          "heading": "What is Neonatal Distraction?",
+          "paragraphs": [
+            "Distraction osteogenesis in NYC is an orthognathic surgical technique used to stretch or expand the jaw bone. The term neonatal refers to newborns. Neonatal distraction, therefore, is orthognathic jaw surgery used to expand the jaw of infants. The procedure is typically performed in the attempt to correct birth defects in which the jaw is underdeveloped. Treacher collins syndrome, pierre robin syndrome, and hemifacial microsomia are three conditions which produce a variety of symptoms that may range in severity, but all conditions commonly produce an underdeveloped jaw.",
+            "Every new parent counts their child’s fingers and toes and whispers a silent thank you that their child is born whole and healthy."
+          ]
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "paragraphs": []
+        },
+        {
+          "heading": "How Do I Get Started With Neonatal Distraction?",
+          "paragraphs": [
+            "For more information on neonatal distraction, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+          ],
+          "links": [
+            {
+              "label": "+1 (718-226-1251)",
+              "path": "tel:+17182261251"
+            }
+          ]
+        }
+      ],
+      "faq_items": [
+        {
+          "question": "How Can Neonatal Distraction Help My Child?",
+          "answer": "Treacher Collins syndrome, Pierre Robin syndrome, and hemifacial microsomia often leave the jaw underdeveloped. This jaw condition may not only affect your child’s appearance but may also affect your child’s speech and, in severe cases, the ability to eat and breath properly Neonatal distraction osteogenesis in NY has the ability to improve the physical appearance of your child’s jaw as well as the function of the jaw for eating and speech. Neonatal distraction may avoid or limit the need for tracheostomy in your child."
+        },
+        {
+          "question": "What Can I Expect From Neonatal Distraction?",
+          "answer": "Dr. Hoffman will conduct neonatal distraction osteogenesis in NYC in several stages. During the first surgery, Dr. Hoffman will attach a distraction device onto the jaw. This device may be internal or external depending on each individual patient’s condition. You will be instructed on how and when to use the screwing mechanism on the distraction device to expand the jaw bone. Once the jaw is expanded to the necessary size, Dr. Hoffman will remove the distraction device during a second surgical procedure. Although this can be a long process, similar to but more invasive than using a palate expander for orthodontic use, neonatal distraction osteogenesis in NY will eventually result in the improved appearance, improved airway, and improved function of your child’s lower jaw. Discuss neonatal distraction with Dr. Hoffman and discover how this procedure and the doctors and staff at Staten Island Oral Surgery can give your children the beginning to life that they deserve."
+        }
+      ],
+      "cta": {
+        "heading": "How Do I Get Started With Neonatal Distraction?",
+        "body": "For more information on neonatal distraction, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+        "button_text": "Request a Callback",
+        "button_path": "/callback-request/"
+      },
+      "current_menu_state": {
+        "services_classes": [
+          "current-menu-ancestor",
+          "current_page_ancestor"
+        ],
+        "facial_birth_deformities_parent_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "neonatal_distraction_classes": [
+          "current-menu-item",
+          "page_item",
+          "page-item-4288",
+          "current_page_item"
+        ]
+      }
+    },
+    "patient_center": {
+      "label": "Patient Center",
+      "path": "/patient-center/",
+      "page_id": 4401,
+      "title": "Patient Center | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/patient-center/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4401",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4401",
+      "meta_description": "As the leading experts in Oral & Maxillofacial Surgery, we specialize in a range of services, including cutting-edge dental implants that restore...",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-16T19:17:24+00:00",
+      "modified_time": "2025-03-06T00:25:05+00:00",
+      "twitter_read_time": "Less than a minute",
+      "main_h1": "Patient Center",
+      "hero_h2": "Patient Center",
+      "hero_intro": "As the leading experts in Oral & Maxillofacial Surgery, we specialize in a range of services, including cutting-edge dental implants that restore function and aesthetics. Our board-certified professionals are committed to delivering personalized care for all your oral health needs. Discover our services, meet our dedicated team, and explore treatment options tailored to give you the healthy, confident smile you deserve.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-5-1.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-5-1.jpg",
+        "alt": "Patient Center",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "content_sections": [
+        {
+          "heading": "Patient Center",
+          "paragraphs": [
+            "As the leading experts in Oral & Maxillofacial Surgery, we specialize in a range of services, including cutting-edge dental implants that restore function and aesthetics. Our board-certified professionals are committed to delivering personalized care for all your oral health needs. Discover our services, meet our dedicated team, and explore treatment options tailored to give you the healthy, confident smile you deserve."
+          ],
+          "links": [
+            {
+              "label": "First Visit",
+              "path": "/first-visit/"
+            },
+            {
+              "label": "Patient Forms",
+              "path": "/patient-forms/"
+            },
+            {
+              "label": "Surgical Instructions",
+              "path": "/surgical-instructions/"
+            },
+            {
+              "label": "Insurance & Financing",
+              "path": "/insurance-and-financing/"
+            },
+            {
+              "label": "Patient Testimonials",
+              "path": "/testimonials/"
+            },
+            {
+              "label": "Wisdom Tooth Consent",
+              "path": "/wisdom-teeth-removal/#consent"
+            },
+            {
+              "label": "Pay Your Bill",
+              "path": "/pay-your-bill/"
+            },
+            {
+              "label": "Media",
+              "path": "/media/"
+            }
+          ]
+        },
+        {
+          "heading": "Patient Center Menu Pages",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "First Visit",
+              "path": "/first-visit/"
+            },
+            {
+              "label": "Patient Forms",
+              "path": "/patient-forms/"
+            },
+            {
+              "label": "Surgical Instructions",
+              "path": "/surgical-instructions/"
+            },
+            {
+              "label": "Insurance & Financing",
+              "path": "/insurance-and-financing/"
+            },
+            {
+              "label": "Patient Testimonials",
+              "path": "/testimonials/"
+            },
+            {
+              "label": "Wisdom Tooth Consent",
+              "path": "/wisdom-teeth-removal/#consent"
+            },
+            {
+              "label": "Pay Your Bill",
+              "path": "/pay-your-bill/"
+            },
+            {
+              "label": "Media",
+              "path": "/media/"
+            }
+          ]
+        }
+      ],
+      "child_pages": [
+        {
+          "label": "First Visit",
+          "path": "/first-visit/"
+        },
+        {
+          "label": "Patient Forms",
+          "path": "/patient-forms/"
+        },
+        {
+          "label": "Surgical Instructions",
+          "path": "/surgical-instructions/"
+        },
+        {
+          "label": "Insurance & Financing",
+          "path": "/insurance-and-financing/"
+        },
+        {
+          "label": "Patient Testimonials",
+          "path": "/testimonials/"
+        },
+        {
+          "label": "Wisdom Tooth Consent",
+          "path": "/wisdom-teeth-removal/#consent"
+        },
+        {
+          "label": "Pay Your Bill",
+          "path": "/pay-your-bill/"
+        },
+        {
+          "label": "Media",
+          "path": "/media/"
+        }
+      ],
+      "header_submenu_pages": [
+        {
+          "label": "First Visit",
+          "path": "/first-visit/",
+          "source": "Patient Center header hover submenu"
+        },
+        {
+          "label": "Patient Forms",
+          "path": "/patient-forms/",
+          "source": "Patient Center header hover submenu and Patient Forms outer HTML"
+        },
+        {
+          "label": "Surgical Instructions",
+          "path": "/surgical-instructions/",
+          "source": "Patient Center header hover submenu"
+        },
+        {
+          "label": "Insurance & Financing",
+          "path": "/insurance-and-financing/",
+          "source": "Patient Center header hover submenu"
+        },
+        {
+          "label": "Patient Testimonials",
+          "path": "/testimonials/",
+          "source": "Patient Center header hover submenu"
+        },
+        {
+          "label": "Wisdom Tooth Consent",
+          "path": "/our-services/oral-and-maxillofacial/wisdom-teeth-removal/#consent",
+          "source": "Patient Center header hover submenu custom anchor link"
+        },
+        {
+          "label": "Pay Your Bill",
+          "path": "/pay-your-bill/",
+          "source": "Patient Center header hover submenu"
+        },
+        {
+          "label": "Media",
+          "path": "/media/",
+          "source": "Patient Center header hover submenu"
+        }
+      ],
+      "current_menu_state": {
+        "patient_center_classes": [
+          "current-menu-item",
+          "current_page_item",
+          "menu-item-has-children"
+        ]
+      }
+    },
+    "patient_forms": {
+      "label": "Patient Forms",
+      "path": "/patient-forms/",
+      "page_id": 3940,
+      "title": "Patient Forms | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/patient-forms/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=3940",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/3940",
+      "meta_description": "Get a head start on your visit to the Staten Island Oral & Maxillofacial Surgery office. Here, you'll find all necessary forms available for download...",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-15T16:37:33+00:00",
+      "modified_time": "2025-03-13T22:26:45+00:00",
+      "twitter_read_time": "1 minute",
+      "main_h1": "Staten Island Oral & Maxillofacial Surgery Patient Forms",
+      "hero_h2": "Patient Forms",
+      "hero_intro": "Get a head start on your visit to the Staten Island Oral & Maxillofacial Surgery office. Here, you’ll find all necessary forms available for download, ensuring a smooth and efficient appointment. Browse this page to prepare for your visit and expedite your check-in process.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-30.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-30.jpg",
+        "alt": "Person holding pen filling out paperwork",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg"
+      },
+      "secondary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-25.jpg",
+        "alt": "Woman smiling into dentist mirror",
+        "width": 1200,
+        "height": 1200
+      },
+      "content_sections": [
+        {
+          "heading": "Staten Island Oral & Maxillofacial Surgery Patient Forms",
+          "paragraphs": [
+            "Staten Island Oral & Maxillofacial Surgery is dedicated to providing you with the highest level of patient care and personalized service. To make your first visit as convenient as possible, we encourage you to complete the Patient Registration form, the Patient Consent form, and the insurance form prior to your initial appointment. Click on the links below to print out the forms, fill the forms out by hand, and bring them with you to your first appointment. The Compliance Assurance Notice and Privacy Policy contain important information for you. Please print these forms and keep them for your records. Staten Island Oral & Maxillofacial Surgery welcomes you to our practice. We look forward to helping you with your oral and maxillofacial surgery needs."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Patient Forms Links",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Staten Island Online Registration",
+              "path": "https://pdf.dsnforms.com/dsn/patient_form.html?p=x1u1x6"
+            },
+            {
+              "label": "Printable Registration",
+              "path": "/wp-content/uploads/Patient-Information.pdf"
+            },
+            {
+              "label": "Privacy Policy",
+              "path": "/patient-privacy-policy/"
+            },
+            {
+              "label": "Receipt of Privacy Policy",
+              "path": "/wp-content/uploads/Privacy-Practices-Patient-Acknowledgement.pdf"
+            },
+            {
+              "label": "Photo Release Authorization",
+              "path": "/wp-content/uploads/Authorization-to-Release-Photographs.pdf"
+            },
+            {
+              "label": "Site Disclaimer",
+              "path": "/sitedisclaimer/"
+            }
+          ]
+        }
+      ],
+      "form_links": [
+        {
+          "label": "Staten Island Online Registration",
+          "url": "https://pdf.dsnforms.com/dsn/patient_form.html?p=x1u1x6",
+          "type": "external online form"
+        },
+        {
+          "label": "Printable Registration",
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/Patient-Information.pdf",
+          "type": "PDF"
+        },
+        {
+          "label": "Privacy Policy",
+          "url": "https://statenislandoralsurgery.us/patient-privacy-policy/",
+          "type": "site page"
+        },
+        {
+          "label": "Receipt of Privacy Policy",
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/Privacy-Practices-Patient-Acknowledgement.pdf",
+          "type": "PDF"
+        },
+        {
+          "label": "Photo Release Authorization",
+          "url": "https://statenislandoralsurgery.us/wp-content/uploads/Authorization-to-Release-Photographs.pdf",
+          "type": "PDF"
+        },
+        {
+          "label": "Site Disclaimer",
+          "url": "https://statenislandoralsurgery.us/sitedisclaimer/",
+          "type": "site page"
+        }
+      ],
+      "current_menu_state": {
+        "patient_center_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "patient_forms_classes": [
+          "current-menu-item",
+          "current_page_item"
+        ]
+      }
+    },
+    "patient_testimonials": {
+      "label": "Patient Testimonials",
+      "path": "/testimonials/",
+      "post_type": "testimonials",
+      "archive_template_id": 3976,
+      "queried_object_id": 7387,
+      "title": "Testimonials | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/testimonials/",
+      "meta_description": "At Staten Island Oral & Maxillofacial Surgery, we are dedicated to using state-of-the-art technology and providing beautiful, natural-looking results.",
+      "robots": "follow, index",
+      "schema_type": "CollectionPage",
+      "main_h1": "Staten Island Oral Surgery Reviews",
+      "hero_h2": "Patient Testimonials",
+      "hero_intro": "At Staten Island Oral & Maxillofacial Surgery, we are dedicated to using state-of-the-art technology and providing beautiful, natural-looking results. We pride ourselves on helping patients to achieve a full, bright smile, while delivering unparalleled, patient-oriented care. See what some of our patients are saying about Staten Island Oral & Maxillofacial Surgery below!",
+      "og_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Untitled-design-2.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/Untitled-design-2.jpg",
+        "width": 1200,
+        "height": 630,
+        "type": "image/jpeg"
+      },
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-1920-×-1080-px-1-1-1536x1024.jpg",
+        "srcset_full_url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-1920-×-1080-px-1-1.jpg",
+        "alt": "",
+        "width": 1536,
+        "height": 1024,
+        "wp_image_id": 11447
+      },
+      "content_sections": [
+        {
+          "heading": "Testimonials From Staten Island Oral & Maxillofacial Surgery Patients",
+          "paragraphs": [
+            "In order to provide each patient with the best standard of care, our experienced team of surgeons dedicate themselves to creating highly personalized treatment plans that have proven successful in restoring confidence.",
+            "With our state-of-the-art facility and highly-certified staff, Staten Island Oral Surgery has proven successful in keeping patients safe and comfortable while providing a positive experience and life-changing results. We are proud to give every patient our utmost dedication in order to provide compassionate service and leave you looking and feeling your best."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Patient Review Listing",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Google Reviews",
+              "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+            },
+            {
+              "label": "Yelp",
+              "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "Staten Island Oral Surgery | Patient Testimonials",
+          "youtube_url": "https://www.youtube.com/watch?v=dTUQ0U8VVCo&t=2s",
+          "embed_url": "https://www.youtube.com/embed/dTUQ0U8VVCo",
+          "video_id": "dTUQ0U8VVCo"
+        }
+      ],
+      "listing": {
+        "listing_id": 3253,
+        "post_type": "testimonials",
+        "posts_per_page": 15,
+        "columns": 2,
+        "columns_tablet": 2,
+        "columns_mobile": 1,
+        "load_more_enabled": true,
+        "load_more_type": "scroll",
+        "loader_text": "More Testimonials Loading...",
+        "data_pages": 1
+      },
+      "testimonials": [
+        {
+          "post_id": 7387,
+          "name": "Roseann Cacaci",
+          "review": "From the first time meeting with Dr. Lam and staff I loved them. I never felt comfortable with dentists, but with Dr. Lam I felt completely at ease. I have 3 implants now and one tooth had to be pulled the grafted and an implant put in which was done all at once. I had no pain some swelling but all in all a great experience. Dr. Lam is AMAZING!! I highly recommend this office.",
+          "review_platform_links": [
+            {
+              "label": "Google Reviews",
+              "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+            },
+            {
+              "label": "Yelp",
+              "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+            }
+          ]
+        },
+        {
+          "post_id": 7392,
+          "name": "Judith Catarella",
+          "review": "Dr. Hoffman did my implants over 30 years ago and they are still strong as ever. That is why when I needed another implant I traveled from NJ to SI for his best of class skills. His staff and his knowledge of implants and surgery truly represent excellent best practices to model. He is truly a leader in his field. Thank you all!",
+          "review_platform_links": [
+            {
+              "label": "Google Reviews",
+              "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+            },
+            {
+              "label": "Yelp",
+              "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+            }
+          ]
+        },
+        {
+          "post_id": 7765,
+          "name": "Gloria Morales",
+          "review": "Dr. Goodenough took very good care of me. I had to get my tooth pulled. He explained what would happen before, during, and after the procedure. I was interested in an implant. He did the grafting directly. Normally, I have anxiety when I enter any an Oral Surgeon’s Office. Doctor’s knowledge and great bedside manners, reassured me that I’m in good hands.",
+          "review_platform_links": [
+            {
+              "label": "Google Reviews",
+              "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+            },
+            {
+              "label": "Yelp",
+              "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+            }
+          ]
+        },
+        {
+          "post_id": 7396,
+          "name": "Anna Accarino",
+          "review": "I found this group and had Dr. Emad Abdou as my oral surgeon. Love this man, love this office. Everyone is very patient, sweet and helpful. Dr. Emad himself is a doll and an excellent surgeon. If you’re looking for a good supportive place to have work done. Look no further. The best!!! 10 stars if I could rate that high. Hope this is helpful in your time of need!",
+          "review_platform_links": [
+            {
+              "label": "Google Reviews",
+              "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+            },
+            {
+              "label": "Yelp",
+              "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+            }
+          ]
+        }
+      ],
+      "current_menu_state": {
+        "patient_center_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "patient_testimonials_classes": [
+          "current-menu-item"
+        ]
+      },
+      "source_note": "Extracted from the supplied Patient Testimonials outer HTML."
+    },
+    "media": {
+      "label": "Media",
+      "path": "/media/",
+      "page_id": 4419,
+      "title": "Media | Staten Island Oral Surgery",
+      "canonical": "https://statenislandoralsurgery.us/media/",
+      "shortlink": "https://statenislandoralsurgery.us/?p=4419",
+      "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4419",
+      "meta_description": "Stay updated with our latest news, events, and breakthroughs in the field of oral and maxillofacial surgery. From patient success stories to insights...",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "published_time": "2023-05-17T18:05:57+00:00",
+      "modified_time": "2026-04-13T14:52:48+00:00",
+      "twitter_read_time": "7 minutes",
+      "schema_types": [
+        "WebPage",
+        "Article",
+        "VideoObject"
+      ],
+      "main_h1": "Staten Island Oral & Maxillofacial Surgery Media & Videos",
+      "hero_h2": "Media & Videos",
+      "hero_intro": "Stay updated with our latest news, events, and breakthroughs in the field of oral and maxillofacial surgery. From patient success stories to insights from our expert team, our media coverage provides an engaging window into our ongoing dedication to excellence in patient care.",
+      "phone_cta": "+1 (718) 226-1251",
+      "primary_image": {
+        "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-7-1.jpg",
+        "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-7-1.jpg",
+        "alt": "Media",
+        "html_alt": "",
+        "width": 1200,
+        "height": 800,
+        "type": "image/jpeg",
+        "wp_image_id": 10194
+      },
+      "schema_video": {
+        "title": "Media | Staten Island Oral Surgery",
+        "embed_url": "https://www.youtube.com/embed/taQ83Lz21ns",
+        "video_id": "taQ83Lz21ns"
+      },
+      "content_sections": [
+        {
+          "heading": "Dr. Hoffman Prepares To Remove Tumor To Help Young Girl Smile Again",
+          "paragraphs": [
+            "Jannet Sylva is a 12-year-old girl who just arrived from Gambia. Jannet had a severe facial deformity from a benign tumor of the mandible that has changed her entire facial appearance."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://youtu.be/ytfZbOiSK88"
+            }
+          ]
+        },
+        {
+          "heading": "Staten Island Oral & Maxillofacial Surgery",
+          "paragraphs": [
+            "Staten Island Oral & Maxillofacial Surgery specializes in caring for patients with a variety of problems of the mouth, teeth, and facial regions including painful wisdom teeth, complex jaw deformities, or missing teeth."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://youtu.be/PP-SckY_qqY"
+            }
+          ]
+        },
+        {
+          "heading": "Dental Implant Testimonial",
+          "paragraphs": [
+            "Patients share their experiences of having their missing teeth replaced with Dental Implants by Dr. David Hoffman in Staten Island, New York. Staten Island Oral & Maxillofacial Surgery offers dental implants in NYC that look, feel, and function like natural teeth."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://youtu.be/NdyvMV6Biq8"
+            }
+          ]
+        },
+        {
+          "heading": "Parent's Guide For Cleft Lip & Palate",
+          "paragraphs": [
+            "Parents share their experiences of having a child in need of cleft lip and palate surgery and their decision to have Staten Island oral surgeon Dr. David Hoffman perform the surgery."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://youtu.be/hKt6mYy3YrQ"
+            }
+          ]
+        },
+        {
+          "heading": "Cleft Lip And Palate Surgery",
+          "paragraphs": [
+            "Dr. Hoffman of Staten Island Oral Surgery performs cleft lip and palate surgery. Staten Island Oral Surgery provides Cleft Lip and Palate surgery for patients in Staten Island, New York City, and New Jersey. Dr. Hoffman is Medical Director of Healing the Children, Missions Abroad Programs, a non-profit organization dedicated to the surgical treatment of children in Third World countries."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://www.youtube.com/watch?v=kfD-g8M4JBU"
+            }
+          ]
+        },
+        {
+          "heading": "Unlocking The Jaw - Part 1",
+          "paragraphs": [
+            "Our oral surgeons of Staten Island Oral Surgery perform surgery to unlock the fused jaws of 2 young patients on Discovery Health. Each patient underwent Distraction Osteogenesis in Staten Island, New York to correct deformities in their jaws."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://www.youtube.com/watch?v=JiIvvBAKSYM"
+            }
+          ]
+        },
+        {
+          "heading": "Unlocking The Jaw - Part 2",
+          "paragraphs": [
+            "Our oral surgeons continue surgery on 2 young patients. Each patient underwent jaw surgery to correct deformities in their jaws that prevented them from opening their mouths."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://www.youtube.com/watch?v=6gIYV3wo2w4"
+            }
+          ]
+        },
+        {
+          "heading": "Healing The Children's Medical Mission In Colombia",
+          "paragraphs": [
+            "Colombian children smile again thanks to Healing the Children. Healing the Children is a volunteer, non-profit organization that provides health care to Latin American children and children of Third World Countries. Dr. David Hoffman serves as the Medical Director for Healing the Children and has led over forty surgical missions to Latin American countries. He has performed surgery on more than 1000 children with cleft lip, cleft, palate, and other facial deformities."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://youtu.be/1anSaASveSE"
+            }
+          ]
+        },
+        {
+          "heading": "Healing The Children - Cleft Palate Speech Therapy",
+          "paragraphs": [
+            "This video shows the before and after results that speech therapy can have for children with cleft palate. The video was filmed in Neiva, Colombia for the Healing the Children medical mission. Healing the Children is a volunteer, non-profit organization that provides health care to Latin American children and children of Third World Countries. Staten Island Oral and Maxillofacial Surgeon, Dr. David Hoffman, is the mission’s surgical director, and has been at the forefront of bringing cleft lip and palate surgery to developing countries in Latin America for more than 20 years and has personally operated on over 200 children."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://youtu.be/iLOHJO0Fb6Y"
+            }
+          ]
+        },
+        {
+          "heading": "Corrective Jaw Surgery",
+          "paragraphs": [
+            "The team at Staten Island Oral Surgery performed jaw surgery to help this patient regain function following a serious car accident that fused his jaw shut. Oral surgeons used advanced CT technology to perform a series of complicated jaw surgeries to free the jaw and install custom-made joints."
+          ],
+          "links": [
+            {
+              "label": "YouTube video",
+              "path": "https://youtu.be/R26brh04flo"
+            }
+          ]
+        },
+        {
+          "heading": "Magazines",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Read The Russian Copy",
+              "path": "https://statenislandoralsurgery.us/wp-content/uploads/hoffman-mag-russian-9-14-22.pdf"
+            },
+            {
+              "label": "Read The Spanish Copy",
+              "path": "https://statenislandoralsurgery.us/wp-content/uploads/hoffman-mag-spanish-9-16-22.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "In the News",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Read The Full Story",
+              "path": "https://www.silive.com/news/2025/12/shes-whole-again-young-afghan-war-victim-gets-her-smile-back-just-in-time-for-christmas.html"
+            }
+          ]
+        },
+        {
+          "heading": "She was shot in the face at age 6, now Staten Island doctors have given her beautiful smile back",
+          "paragraphs": [
+            "Marzia was just 6 years old and hiding with her family from the Taliban in Afghanistan when a targeted, violent Talibani ambush took the life of her father and brother.",
+            "Though she survived the firearms assault, bullets shattered her upper jaw, destroyed her right eye and left her with few remaining teeth. Years of pain, bullying and seclusion followed as she hid with her family in her impoverished village while the war in Afghanistan raged on.",
+            "But inside the cheerful offices of Staten Island Oral and Maxillofacial Surgery in Bloomfield, the beautiful 19-year-old girl received the life-changing surgery that gave her back her smile — just in time for Christmas."
+          ],
+          "links": [
+            {
+              "label": "Read The Full Story",
+              "path": "https://www.silive.com/news/2025/12/shes-whole-again-young-afghan-war-victim-gets-her-smile-back-just-in-time-for-christmas.html"
+            }
+          ]
+        },
+        {
+          "heading": "A Bathroom Disaster, a Bubble Bath Mix-Up, and the Dental Implant Commercial That Has Staten Island Talking",
+          "subheading": "Award-winning director teams up with his father, Dr. David Hoffman, to create a hilarious new spot for Staten Island Oral & Maxillofacial Surgery — now airing locally before a planned national rollout",
+          "paragraphs": [
+            "Picture this: a middle-aged man on a promising dinner date. The evening is going well — maybe too well. As the chemistry heats up, he excuses himself to the bathroom. What happens next is sixty seconds of escalating catastrophe that has Staten Island residents laughing, cringing, and quietly calling their dentist.",
+            "The new television commercial for Staten Island Oral & Maxillofacial Surgery — now airing exclusively on Staten Island — opens on that romantic date before following our hapless hero behind a closed bathroom door. Once inside, his stomach betrays him. Loudly. He scrambles to turn on the bath faucet, hoping the rushing water will mask the noise. In the process, he knocks over a bottle of bubble bath, and the tub begins filling with a cascade of foamy bubbles. After composing himself, he strikes a match and lights a candle to handle the lingering odor. Then the real crisis arrives: the toilet overflows and refuses to flush. He grabs the plunger and gets to work.",
+            "At that exact moment, the bathroom door swings open. His date steps in — and sees what appears to be the most romantic scene imaginable. Candlelight flickering softly. A bubble bath drawn and waiting. She is charmed. But our hero has a bigger problem: as he frantically plunges the toilet, his denture pops loose and drops straight into the bowl. Startled by her entrance, he does the unthinkable — he fishes it out and jams it right back into his mouth. She reaches for the light switch, dims the room, and leans in for a kiss. He turns away.",
+            "Then the tagline lands: “Don’t let your teeth ruin the moment.”",
+            "The spot is the brainchild of the director, an award-winning commercial director whose résumé includes several Super Bowl advertisements, Apple TV campaigns, and other nationally recognized productions. He also happens to be the son of Dr. David C. Hoffman, the founder and lead surgeon at Staten Island Oral & Maxillofacial Surgery. The father-son collaboration brought a level of storytelling and production value rarely seen in local advertising.",
+            "“Hi son understood exactly what we wanted to say — that living with dentures or missing teeth affects real moments in people’s lives, moments that should be joyful,” said Dr. Hoffman. “He took that message and turned it into something people actually want to watch. I couldn’t be prouder of what he created.”",
+            "The commercial transitions from comedy to a clear message about a procedure that is changing lives: Teeth-in-a-Day, also known as All-on-4 or All-on-X dental implants. The revolutionary technique replaces an entire arch of teeth permanently using just four to six implants — all placed in a single visit. Within 24 hours, patients walk out with a fixed, natural-looking set of teeth, leaving the frustrations of loose dentures, adhesive creams, and dietary restrictions behind for good.",
+            "“People don’t realize how dramatically this procedure can change their quality of life,” Dr. Hoffman added. “We’re not just restoring teeth — we’re restoring confidence, nutrition, and the simple ability to smile without thinking twice. Our in-house lab and surgical center allow us to handle the entire process under one roof, from planning to final restoration.”",
+            "Staten Island Oral & Maxillofacial Surgery, staffed by Dr. David C. Hoffman, D.D.S., F.A.C.S., along with Dr. Lydia J. Lam, Dr. Jessica Li and Dr. Monika Patel, operates a state-of-the-art facility that includes an AAAHC (Quad A) accredited operating suite, an in-house dental laboratory, and the latest implant technology. The practice has built its reputation on providing hospital-level surgical care in a comfortable, modern office setting.",
+            "The commercial is currently airing exclusively on Staten Island, giving the borough a first look before a planned national rollout. Residents interested in learning more about Teeth-in-a-Day or All-on-4 dental implants can schedule a free consultation by calling 718-226-1251 or visiting statenislandoralsurgery.us and iwantteeth.com."
+          ],
+          "links": [
+            {
+              "label": "Commercial video",
+              "path": "https://www.youtube.com/watch?v=taQ83Lz21ns"
+            },
+            {
+              "label": "statenislandoralsurgery.us",
+              "path": "https://statenislandoralsurgery.us/"
+            },
+            {
+              "label": "iwantteeth.com",
+              "path": "https://iwantteeth.com/"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "Dr. Hoffman Prepares To Remove Tumor To Help Young Girl Smile Again",
+          "youtube_url": "https://youtu.be/ytfZbOiSK88",
+          "video_id": "ytfZbOiSK88",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Thumbnails-8.jpg",
+          "overlay_alt": "Dr Hoffman interview",
+          "description": "Jannet Sylva is a 12-year-old girl who just arrived from Gambia. Jannet had a severe facial deformity from a benign tumor of the mandible that has changed her entire facial appearance."
+        },
+        {
+          "title": "Staten Island Oral & Maxillofacial Surgery",
+          "youtube_url": "https://youtu.be/PP-SckY_qqY",
+          "video_id": "PP-SckY_qqY",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Thumbnails-9.jpg",
+          "overlay_alt": "Dr. Hoffman performing dental procedure",
+          "description": "Staten Island Oral & Maxillofacial Surgery specializes in caring for patients with a variety of problems of the mouth, teeth, and facial regions including painful wisdom teeth, complex jaw deformities, or missing teeth."
+        },
+        {
+          "title": "Dental Implant Testimonial",
+          "youtube_url": "https://youtu.be/NdyvMV6Biq8",
+          "video_id": "NdyvMV6Biq8",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Thumbnails-6.jpg",
+          "overlay_alt": "older man smiling",
+          "description": "Patients share their experiences of having their missing teeth replaced with Dental Implants by Dr. David Hoffman in Staten Island, New York. Staten Island Oral & Maxillofacial Surgery offers dental implants in NYC that look, feel, and function like natural teeth."
+        },
+        {
+          "title": "Parent's Guide For Cleft Lip & Palate",
+          "youtube_url": "https://youtu.be/hKt6mYy3YrQ",
+          "video_id": "hKt6mYy3YrQ",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/hKt6mYy3YrQ-HQ.png",
+          "overlay_alt": "woman holding a small child",
+          "description": "Parents share their experiences of having a child in need of cleft lip and palate surgery and their decision to have Staten Island oral surgeon Dr. David Hoffman perform the surgery."
+        },
+        {
+          "title": "Cleft Lip And Palate Surgery",
+          "youtube_url": "https://www.youtube.com/watch?v=kfD-g8M4JBU",
+          "video_id": "kfD-g8M4JBU",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Thumbnails.jpg",
+          "overlay_alt": "cleft lip procedure",
+          "description": "Dr. Hoffman of Staten Island Oral Surgery performs cleft lip and palate surgery. Staten Island Oral Surgery provides Cleft Lip and Palate surgery for patients in Staten Island, New York City, and New Jersey. Dr. Hoffman is Medical Director of Healing the Children, Missions Abroad Programs, a non-profit organization dedicated to the surgical treatment of children in Third World countries."
+        },
+        {
+          "title": "Unlocking The Jaw - Part 1",
+          "youtube_url": "https://www.youtube.com/watch?v=JiIvvBAKSYM",
+          "video_id": "JiIvvBAKSYM",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/JiIvvBAKSYM-HD.png",
+          "overlay_alt": "doctors in operating room performing dental procedures",
+          "description": "Our oral surgeons of Staten Island Oral Surgery perform surgery to unlock the fused jaws of 2 young patients on Discovery Health. Each patient underwent Distraction Osteogenesis in Staten Island, New York to correct deformities in their jaws."
+        },
+        {
+          "title": "Unlocking The Jaw - Part 2",
+          "youtube_url": "https://www.youtube.com/watch?v=6gIYV3wo2w4",
+          "video_id": "6gIYV3wo2w4",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/6gIYV3wo2w4-HD.png",
+          "overlay_alt": "family sitting on the couch",
+          "description": "Our oral surgeons continue surgery on 2 young patients. Each patient underwent jaw surgery to correct deformities in their jaws that prevented them from opening their mouths."
+        },
+        {
+          "title": "Healing The Children's Medical Mission In Colombia",
+          "youtube_url": "https://youtu.be/1anSaASveSE",
+          "video_id": "1anSaASveSE",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Thumbnails-3.jpg",
+          "overlay_alt": "woman hugging small child while smiling",
+          "description": "Colombian children smile again thanks to Healing the Children. Healing the Children is a volunteer, non-profit organization that provides health care to Latin American children and children of Third World Countries. Dr. David Hoffman serves as the Medical Director for Healing the Children and has led over forty surgical missions to Latin American countries. He has performed surgery on more than 1000 children with cleft lip, cleft, palate, and other facial deformities."
+        },
+        {
+          "title": "Healing The Children - Cleft Palate Speech Therapy",
+          "youtube_url": "https://youtu.be/iLOHJO0Fb6Y",
+          "video_id": "iLOHJO0Fb6Y",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Thumbnails-4.jpg",
+          "overlay_alt": "interview of small child",
+          "description": "This video shows the before and after results that speech therapy can have for children with cleft palate. The video was filmed in Neiva, Colombia for the Healing the Children medical mission. Healing the Children is a volunteer, non-profit organization that provides health care to Latin American children and children of Third World Countries. Staten Island Oral and Maxillofacial Surgeon, Dr. David Hoffman, is the mission’s surgical director, and has been at the forefront of bringing cleft lip and palate surgery to developing countries in Latin America for more than 20 years and has personally operated on over 200 children."
+        },
+        {
+          "title": "Corrective Jaw Surgery",
+          "youtube_url": "https://youtu.be/R26brh04flo",
+          "video_id": "R26brh04flo",
+          "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Thumbnails-5.jpg",
+          "overlay_alt": "man talking into microphone sitting at a table",
+          "description": "The team at Staten Island Oral Surgery performed jaw surgery to help this patient regain function following a serious car accident that fused his jaw shut. Oral surgeons used advanced CT technology to perform a series of complicated jaw surgeries to free the jaw and install custom-made joints."
+        }
+      ],
+      "magazines": [
+        {
+          "label": "Read The Russian Copy",
+          "pdf_url": "https://statenislandoralsurgery.us/wp-content/uploads/hoffman-mag-russian-9-14-22.pdf",
+          "image_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Russian.jpg"
+        },
+        {
+          "label": "Read The Spanish Copy",
+          "pdf_url": "https://statenislandoralsurgery.us/wp-content/uploads/hoffman-mag-spanish-9-16-22.pdf",
+          "image_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-Spanish.jpg"
+        }
+      ],
+      "news_items": [
+        {
+          "title": "She was shot in the face at age 6, now Staten Island doctors have given her beautiful smile back",
+          "summary_paragraphs": [
+            "Marzia was just 6 years old and hiding with her family from the Taliban in Afghanistan when a targeted, violent Talibani ambush took the life of her father and brother.",
+            "Though she survived the firearms assault, bullets shattered her upper jaw, destroyed her right eye and left her with few remaining teeth. Years of pain, bullying and seclusion followed as she hid with her family in her impoverished village while the war in Afghanistan raged on.",
+            "But inside the cheerful offices of Staten Island Oral and Maxillofacial Surgery in Bloomfield, the beautiful 19-year-old girl received the life-changing surgery that gave her back her smile — just in time for Christmas."
+          ],
+          "image_url": "https://statenislandoralsurgery.us/wp-content/uploads/DQS5AHPSWNGIZFQYADETYF2QBM.avif",
+          "url": "https://www.silive.com/news/2025/12/shes-whole-again-young-afghan-war-victim-gets-her-smile-back-just-in-time-for-christmas.html",
+          "button_label": "Read The Full Story"
+        }
+      ],
+      "commercial": {
+        "title": "A Bathroom Disaster",
+        "youtube_url": "https://www.youtube.com/watch?v=taQ83Lz21ns",
+        "embed_url": "https://www.youtube.com/embed/taQ83Lz21ns",
+        "video_id": "taQ83Lz21ns",
+        "heading": "A Bathroom Disaster, a Bubble Bath Mix-Up, and the Dental Implant Commercial That Has Staten Island Talking",
+        "subheading": "Award-winning director teams up with his father, Dr. David Hoffman, to create a hilarious new spot for Staten Island Oral & Maxillofacial Surgery — now airing locally before a planned national rollout",
+        "paragraphs": [
+          "Picture this: a middle-aged man on a promising dinner date. The evening is going well — maybe too well. As the chemistry heats up, he excuses himself to the bathroom. What happens next is sixty seconds of escalating catastrophe that has Staten Island residents laughing, cringing, and quietly calling their dentist.",
+          "The new television commercial for Staten Island Oral & Maxillofacial Surgery — now airing exclusively on Staten Island — opens on that romantic date before following our hapless hero behind a closed bathroom door. Once inside, his stomach betrays him. Loudly. He scrambles to turn on the bath faucet, hoping the rushing water will mask the noise. In the process, he knocks over a bottle of bubble bath, and the tub begins filling with a cascade of foamy bubbles. After composing himself, he strikes a match and lights a candle to handle the lingering odor. Then the real crisis arrives: the toilet overflows and refuses to flush. He grabs the plunger and gets to work.",
+          "At that exact moment, the bathroom door swings open. His date steps in — and sees what appears to be the most romantic scene imaginable. Candlelight flickering softly. A bubble bath drawn and waiting. She is charmed. But our hero has a bigger problem: as he frantically plunges the toilet, his denture pops loose and drops straight into the bowl. Startled by her entrance, he does the unthinkable — he fishes it out and jams it right back into his mouth. She reaches for the light switch, dims the room, and leans in for a kiss. He turns away.",
+          "Then the tagline lands: “Don’t let your teeth ruin the moment.”",
+          "The spot is the brainchild of the director, an award-winning commercial director whose résumé includes several Super Bowl advertisements, Apple TV campaigns, and other nationally recognized productions. He also happens to be the son of Dr. David C. Hoffman, the founder and lead surgeon at Staten Island Oral & Maxillofacial Surgery. The father-son collaboration brought a level of storytelling and production value rarely seen in local advertising.",
+          "“Hi son understood exactly what we wanted to say — that living with dentures or missing teeth affects real moments in people’s lives, moments that should be joyful,” said Dr. Hoffman. “He took that message and turned it into something people actually want to watch. I couldn’t be prouder of what he created.”",
+          "The commercial transitions from comedy to a clear message about a procedure that is changing lives: Teeth-in-a-Day, also known as All-on-4 or All-on-X dental implants. The revolutionary technique replaces an entire arch of teeth permanently using just four to six implants — all placed in a single visit. Within 24 hours, patients walk out with a fixed, natural-looking set of teeth, leaving the frustrations of loose dentures, adhesive creams, and dietary restrictions behind for good.",
+          "“People don’t realize how dramatically this procedure can change their quality of life,” Dr. Hoffman added. “We’re not just restoring teeth — we’re restoring confidence, nutrition, and the simple ability to smile without thinking twice. Our in-house lab and surgical center allow us to handle the entire process under one roof, from planning to final restoration.”",
+          "Staten Island Oral & Maxillofacial Surgery, staffed by Dr. David C. Hoffman, D.D.S., F.A.C.S., along with Dr. Lydia J. Lam, Dr. Jessica Li and Dr. Monika Patel, operates a state-of-the-art facility that includes an AAAHC (Quad A) accredited operating suite, an in-house dental laboratory, and the latest implant technology. The practice has built its reputation on providing hospital-level surgical care in a comfortable, modern office setting.",
+          "The commercial is currently airing exclusively on Staten Island, giving the borough a first look before a planned national rollout. Residents interested in learning more about Teeth-in-a-Day or All-on-4 dental implants can schedule a free consultation by calling 718-226-1251 or visiting statenislandoralsurgery.us and iwantteeth.com."
+        ]
+      },
+      "current_menu_state": {
+        "patient_center_classes": [
+          "current-menu-ancestor",
+          "current-menu-parent",
+          "current_page_parent",
+          "current_page_ancestor"
+        ],
+        "media_classes": [
+          "current-menu-item",
+          "current_page_item"
+        ]
+      },
+      "source_note": "Extracted from the supplied Media & Videos outer HTML."
+    }
+  },
+  "stable_locator_notes": [
+    "Do not use SmartMenus IDs like sm-1778457410377533-7 because they are generated dynamically.",
+    "Prefer link text and href paths.",
+    "Use the desktop header nav and exclude the Elementor sticky spacer duplicate.",
+    "For Ridge Augmentation content checks, prefer the canonical path /ridge-augmentation/, the H1 text, the FAQ question text, and the video overlay aria-label rather than generated Elementor data-id values.",
+    "For Sinus Lift content checks, prefer /sinus-lift/, the H1 text, the FAQ question text, canonical link, and the YouTube overlay data rather than generated Elementor data-id values.",
+    "For Platelet Rich Fibrin (PRF) content checks, prefer /platelet-rich-fibrin-prf/, the H1 text, the FAQ question text, canonical link, and image URL/alt data rather than generated Elementor data-id values.",
+    "For Oral & Maxillofacial menu checks, hover Services, then hover the parent link text Oral & Maxillofacial Surgeries with href /oral-and-maxillofacial/.",
+    "For Teeth Extractions content checks, prefer /teeth-extractions/, the H1 text, the FAQ question text, canonical link, and durable image URL/alt data rather than generated Elementor data-id values.",
+    "For Wisdom Teeth Removal content checks, prefer /wisdom-teeth-removal/, the H1 text, the FAQ question text, canonical link, and durable YouTube/image URL data rather than generated Elementor data-id values.",
+    "For Impacted Canines content checks, prefer /impacted-canines/, the H1 text, the FAQ question text, canonical link, and durable image URL/alt data rather than generated Elementor data-id values.",
+    "Use the Facial Birth Deformities href /facial-birth-deformities/ and child page hrefs instead of generated SmartMenus IDs.",
+    "For Pierre Robin Sequence content checks, prefer /pierre-robin-sequence/, the H1 text, FAQ question text, canonical link, durable YouTube video IDs, and image URL/alt data rather than generated Elementor data-id values.",
+    "For Neonatal Distraction content checks, prefer /neonatal-distraction/, the H1 text, FAQ question text, canonical link, and durable image URL/alt data rather than generated Elementor data-id values.",
+    "For Patient Center menu checks, hover the top-level Patient Center link with href /patient-center/ rather than using generated SmartMenus IDs.",
+    "For Patient Forms content checks, prefer /patient-forms/, the H1 text, canonical link, durable image URLs, and form link text rather than generated Elementor data-id values."
+  ],
+  "service_menu_pages": [
+    {
+      "label": "Dental Implants",
+      "path": "/dental-implants/",
+      "source": "Services submenu"
+    },
+    {
+      "label": "Teeth in a Day (All-On-X)",
+      "path": "/teeth-in-a-day-all-on-x/",
+      "source": "Services submenu"
+    },
+    {
+      "label": "Bone Grafting",
+      "path": "/bone-grafting/",
+      "source": "Services submenu parent"
+    },
+    {
+      "label": "Oral & Maxillofacial Surgeries",
+      "path": "/oral-and-maxillofacial/",
+      "source": "Services submenu parent and Oral & Maxillofacial outer HTML"
+    },
+    {
+      "label": "Facial Birth Deformities",
+      "path": "/facial-birth-deformities/",
+      "source": "Services submenu parent and Facial Birth Deformities outer HTML"
+    },
+    {
+      "label": "Anesthesia Options",
+      "path": "/anesthesia-options/",
+      "source": "Services submenu"
+    }
+  ],
+  "oral_maxillofacial_parent_page": {
+    "label": "Oral & Maxillofacial Surgeries",
+    "path": "/oral-and-maxillofacial/",
+    "source": "Services submenu parent and Oral & Maxillofacial outer HTML"
+  },
+  "oral_maxillofacial_header_submenu_pages": [
+    {
+      "label": "Teeth Extractions",
+      "path": "/teeth-extractions/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Teeth Extractions outer HTML"
+    },
+    {
+      "label": "Wisdom Teeth Removal",
+      "path": "/wisdom-teeth-removal/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Wisdom Teeth Removal outer HTML"
+    },
+    {
+      "label": "Impacted Canines",
+      "path": "/impacted-canines/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Impacted Canines outer HTML"
+    },
+    {
+      "label": "Orthognathic Jaw Surgery",
+      "path": "/orthognathic-jaw-surgery/",
+      "source": "Services > Oral & Maxillofacial Surgeries hover submenu and Orthognathic Jaw Surgery outer HTML"
+    }
+  ],
+  "related_oral_maxillofacial_links": [
+    {
+      "label": "Frenectomy",
+      "path": "/frenectomy/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "TMJ Disorders & Surgery",
+      "path": "/tmj-disorders-surgery/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "Facial Trauma",
+      "path": "/facial-trauma/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "Oral Pathology",
+      "path": "/oral-pathology/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "MOHS Reconstruction",
+      "path": "/mohs-reconstruction/",
+      "source": "footer Oral and Maxillofacial links"
+    },
+    {
+      "label": "Anesthesia Options",
+      "path": "/anesthesia-options/",
+      "source": "footer Oral and Maxillofacial links"
+    }
+  ],
+  "facial_birth_deformities_parent_page": {
+    "label": "Facial Birth Deformities",
+    "path": "/facial-birth-deformities/",
+    "source": "Services submenu parent and Facial Birth Deformities outer HTML"
+  },
+  "facial_birth_deformities_header_submenu_pages": [
+    {
+      "label": "Cleft Lip & Palate Surgery",
+      "path": "/cleft-lip-palate-surgery/",
+      "source": "Services > Facial Birth Deformities hover submenu and Cleft Lip & Palate Surgery outer HTML"
+    },
+    {
+      "label": "Hemifacial Microsomia",
+      "path": "/hemifacial-microsomia/",
+      "source": "Services > Facial Birth Deformities hover submenu and Hemifacial Microsomia outer HTML"
+    },
+    {
+      "label": "Treacher Collins Syndrome",
+      "path": "/treacher-collins-syndrome/",
+      "source": "Services > Facial Birth Deformities hover submenu and Treacher Collins Syndrome outer HTML"
+    },
+    {
+      "label": "Pierre Robin Sequence",
+      "path": "/pierre-robin-sequence/",
+      "source": "Services > Facial Birth Deformities hover submenu and Pierre Robin Sequence outer HTML"
+    },
+    {
+      "label": "Neonatal Distraction",
+      "path": "/neonatal-distraction/",
+      "source": "Services > Facial Birth Deformities hover submenu and Neonatal Distraction outer HTML"
+    }
+  ],
+  "patient_center_parent_page": {
+    "label": "Patient Center",
+    "path": "/patient-center/",
+    "source": "header main menu and Patient Center outer HTML"
+  },
+  "patient_center_header_submenu_pages": [
+    {
+      "label": "First Visit",
+      "path": "/first-visit/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Patient Forms",
+      "path": "/patient-forms/",
+      "source": "Patient Center header hover submenu and Patient Forms outer HTML"
+    },
+    {
+      "label": "Surgical Instructions",
+      "path": "/surgical-instructions/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Insurance & Financing",
+      "path": "/insurance-and-financing/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Patient Testimonials",
+      "path": "/testimonials/",
+      "source": "Patient Center header hover submenu and Patient Testimonials outer HTML"
+    },
+    {
+      "label": "Wisdom Tooth Consent",
+      "path": "/our-services/oral-and-maxillofacial/wisdom-teeth-removal/#consent",
+      "source": "Patient Center header hover submenu custom anchor link"
+    },
+    {
+      "label": "Pay Your Bill",
+      "path": "/pay-your-bill/",
+      "source": "Patient Center header hover submenu"
+    },
+    {
+      "label": "Media",
+      "path": "/media/",
+      "source": "Patient Center header hover submenu and Media outer HTML"
+    }
+  ],
+  "patient_center_card_pages": [
+    {
+      "label": "First Visit",
+      "path": "/first-visit/",
+      "source": "Patient Center page card grid"
+    },
+    {
+      "label": "Patient Forms",
+      "path": "/patient-forms/",
+      "source": "Patient Center page card grid"
+    },
+    {
+      "label": "Surgical Instructions",
+      "path": "/surgical-instructions/",
+      "source": "Patient Center page card grid"
+    },
+    {
+      "label": "Insurance & Financing",
+      "path": "/insurance-and-financing/",
+      "source": "Patient Center page card grid"
+    },
+    {
+      "label": "Patient Testimonials",
+      "path": "/testimonials/",
+      "source": "Patient Center page card grid and Patient Testimonials outer HTML"
+    },
+    {
+      "label": "Wisdom Tooth Consent",
+      "path": "/wisdom-teeth-removal/#consent",
+      "source": "Patient Center page card grid"
+    },
+    {
+      "label": "Pay Your Bill",
+      "path": "/pay-your-bill/",
+      "source": "Patient Center page card grid"
+    },
+    {
+      "label": "Media",
+      "path": "/media/",
+      "source": "Patient Center page card grid and Media outer HTML"
+    }
+  ]
+}

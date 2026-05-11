@@ -1,0 +1,128 @@
+{
+  "label": "Teeth Extractions",
+  "path": "/teeth-extractions/",
+  "page_id": 4294,
+  "title": "Teeth Extractions | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/teeth-extractions/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4294",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4294",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in teeth extractions in Staten Island, NY. Get in touch with our skilled doctors today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-16T14:28:56+00:00",
+  "modified_time": "2026-04-20T14:14:32+00:00",
+  "twitter_read_time": "4 minutes",
+  "main_h1": "Remove Teeth In Staten Island, NY",
+  "hero_h2": "Teeth Extractions",
+  "hero_intro": "Discover the gold standard in teeth extractions at our Staten Island Oral & Maxillofacial Surgery office. Our highly skilled team employs the latest techniques to ensure smooth, comfortable extractions, whether it’s for a damaged tooth or preparing for dental implants. Learn how our individualized approach to teeth extractions can improve your oral health and comfort.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-19.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-19.jpg",
+    "alt": "Dentist holding tooth after extraction",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-13.jpg",
+    "alt": "Dentist tools extracting a tooth from person's mouth",
+    "width": 1200,
+    "height": 1200
+  },
+  "decorative_animation": {
+    "type": "lottie",
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/3-1.json",
+    "renderer": "svg",
+    "loop": true,
+    "play_speed": 0.5
+  },
+  "content_sections": [
+    {
+      "heading": "What is a Tooth Extraction?",
+      "paragraphs": [
+        "If a tooth has been severely damaged due to injury, accident, or decay, it may need to be extracted. While some teeth that are damaged or decayed may be effectively treated with a filling, teeth that are too damaged to be repaired must be removed. Tooth extraction is often referred to as pulling a tooth and is the procedure where a tooth is removed entirely to ensure a healthy smile.",
+        "In addition to excessive damage or decay, a tooth may need to be removed due to overcrowding or an overabundance of teeth. If your tooth is infected, it may also need to be extracted. A common form of tooth extraction in adults is the removal of wisdom teeth. Tooth extraction may also be required in children if a baby tooth does not fall out in time for a permanent tooth to come in. In children with overcrowding, teeth may not come in properly, which can cause teeth to shift or become crooked. Additionally, in some cases, If your child is getting braces, they may need to have teeth pulled to create room for the teeth that will straighten into place."
+      ],
+      "links": [
+        {
+          "label": "removal of wisdom teeth",
+          "path": "/wisdom-teeth-removal/"
+        }
+      ]
+    },
+    {
+      "heading": "How Can I Find Out More About Teeth Extractions?",
+      "paragraphs": [
+        "For more information on teeth extractions, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "path": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "How Are Teeth Extracted?",
+      "answer": [
+        "Most teeth can be removed using a simple extraction technique as long as they have erupted and are visible. To begin a simple tooth extraction, an anesthetic will be applied to numb the area around the tooth that is being removed. It is normal to feel a sensation of pressure when having a tooth removed. Dental tools will be used to slowly elevate the tooth out of its socket. Forceps will then be used to firmly grasp the tooth and fully remove it. Gauze may be utilized to control the bleeding from your tooth extraction procedure.",
+        "Some teeth require surgical extraction to be removed properly. Surgical extraction is commonly performed on wisdom teeth because many wisdom teeth are within the gums and not visible in the mouth. Surgical extraction is also performed on teeth that have broken off at the gum line or that have not erupted. General anesthesia is used during surgical tooth extraction to ensure patient comfort. A small incision will be made in the gum line where the surgical tooth extraction will take place. In some cases, a tooth may need to be cut in half or quarters in order to properly be removed. After the tooth or teeth are surgically removed, stitches will be applied to the incisions to promote healing. You may be directed to gently bite down on a gauze pad until the bleeding stops."
+      ]
+    },
+    {
+      "question": "What Tooth Replacement Options Are There After Tooth Extractions?",
+      "answer": [
+        "After losing a tooth or having a tooth removed, most patients are curious about what tooth replacement options are available. At Staten Island Oral & Maxillofacial Surgery, we offer the most innovative procedures for tooth replacement currently available. Some of our most popular dental restorations following tooth extraction include dental implant surgery or Teeth in a Day. It is important to undergo a dental restoration procedure after tooth extraction to reduce the risk of teeth collapsing inward or jawbone resorption."
+      ],
+      "links": [
+        {
+          "label": "dental implant surgery",
+          "path": "/dental-implants/"
+        },
+        {
+          "label": "Teeth in a Day",
+          "path": "/teeth-in-a-day-all-on-x/"
+        }
+      ]
+    },
+    {
+      "question": "Dental Implant Surgery",
+      "answer": [
+        "Dental implants use titanium posts that are surgically inserted into your jawbone. These dental implants will then begin osseointegration, also known as the period of healing where your jawbone and gums securely adhere to the dental implant post. This secure bond allows for a stable base to place your dental abutment and dental crown. Once this period of osseointegration is complete, you will return to our office to have an abutment placed on your dental implant. This abutment will then connect your future dental crown to the base of your dental implant. Multiple dental implants can be placed simultaneously to replace several missing teeth at once. Dental implants are durable, long-lasting tooth replacement options that look, feel, and function like natural teeth."
+      ]
+    },
+    {
+      "question": "Teeth In A Day",
+      "answer": [
+        "Similar to traditional dental implants, Teeth in a Day, also known as All-On-4 dental implants, use titanium posts to connect dental crowns to dental implant posts. The difference is that temporary crowns can be placed on the dental implants the same day for an immediate smile restoration. Permanent dental crowns will be placed during your follow-up appointment. Additionally, teeth in a day differs from traditional dental implants in that all the teeth of the lower or upper jaw can be replaced using just four dental implants. All-On-4 dental implants are recommended for patients who are missing most or all of their teeth.",
+        "Our oral surgeons at Staten Island Oral & Maxillofacial Surgery can help determine what is best for your smile following teeth extraction."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "How Can I Find Out More About Teeth Extractions?",
+    "body": "For more information on teeth extractions, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+    "button_text": "Request a Callback",
+    "button_path": "/callback-request/"
+  },
+  "current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor"
+    ],
+    "oral_parent_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "teeth_extractions_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4294",
+      "current_page_item"
+    ]
+  }
+}

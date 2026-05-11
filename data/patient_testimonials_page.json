@@ -1,0 +1,148 @@
+{
+  "label": "Patient Testimonials",
+  "path": "/testimonials/",
+  "post_type": "testimonials",
+  "archive_template_id": 3976,
+  "queried_object_id": 7387,
+  "title": "Testimonials | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/testimonials/",
+  "meta_description": "At Staten Island Oral & Maxillofacial Surgery, we are dedicated to using state-of-the-art technology and providing beautiful, natural-looking results.",
+  "robots": "follow, index",
+  "schema_type": "CollectionPage",
+  "main_h1": "Staten Island Oral Surgery Reviews",
+  "hero_h2": "Patient Testimonials",
+  "hero_intro": "At Staten Island Oral & Maxillofacial Surgery, we are dedicated to using state-of-the-art technology and providing beautiful, natural-looking results. We pride ourselves on helping patients to achieve a full, bright smile, while delivering unparalleled, patient-oriented care. See what some of our patients are saying about Staten Island Oral & Maxillofacial Surgery below!",
+  "og_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Untitled-design-2.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/Untitled-design-2.jpg",
+    "width": 1200,
+    "height": 630,
+    "type": "image/jpeg"
+  },
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-1920-×-1080-px-1-1-1536x1024.jpg",
+    "srcset_full_url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-1920-×-1080-px-1-1.jpg",
+    "alt": "",
+    "width": 1536,
+    "height": 1024,
+    "wp_image_id": 11447
+  },
+  "content_sections": [
+    {
+      "heading": "Testimonials From Staten Island Oral & Maxillofacial Surgery Patients",
+      "paragraphs": [
+        "In order to provide each patient with the best standard of care, our experienced team of surgeons dedicate themselves to creating highly personalized treatment plans that have proven successful in restoring confidence.",
+        "With our state-of-the-art facility and highly-certified staff, Staten Island Oral Surgery has proven successful in keeping patients safe and comfortable while providing a positive experience and life-changing results. We are proud to give every patient our utmost dedication in order to provide compassionate service and leave you looking and feeling your best."
+      ],
+      "links": []
+    },
+    {
+      "heading": "Patient Review Listing",
+      "paragraphs": [],
+      "links": [
+        {
+          "label": "Google Reviews",
+          "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+        },
+        {
+          "label": "Yelp",
+          "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Staten Island Oral Surgery | Patient Testimonials",
+      "youtube_url": "https://www.youtube.com/watch?v=dTUQ0U8VVCo&t=2s",
+      "embed_url": "https://www.youtube.com/embed/dTUQ0U8VVCo",
+      "video_id": "dTUQ0U8VVCo"
+    }
+  ],
+  "listing": {
+    "listing_id": 3253,
+    "post_type": "testimonials",
+    "posts_per_page": 15,
+    "columns": 2,
+    "columns_tablet": 2,
+    "columns_mobile": 1,
+    "load_more_enabled": true,
+    "load_more_type": "scroll",
+    "loader_text": "More Testimonials Loading...",
+    "data_pages": 1
+  },
+  "testimonials": [
+    {
+      "post_id": 7387,
+      "name": "Roseann Cacaci",
+      "review": "From the first time meeting with Dr. Lam and staff I loved them. I never felt comfortable with dentists, but with Dr. Lam I felt completely at ease. I have 3 implants now and one tooth had to be pulled the grafted and an implant put in which was done all at once. I had no pain some swelling but all in all a great experience. Dr. Lam is AMAZING!! I highly recommend this office.",
+      "review_platform_links": [
+        {
+          "label": "Google Reviews",
+          "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+        },
+        {
+          "label": "Yelp",
+          "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+        }
+      ]
+    },
+    {
+      "post_id": 7392,
+      "name": "Judith Catarella",
+      "review": "Dr. Hoffman did my implants over 30 years ago and they are still strong as ever. That is why when I needed another implant I traveled from NJ to SI for his best of class skills. His staff and his knowledge of implants and surgery truly represent excellent best practices to model. He is truly a leader in his field. Thank you all!",
+      "review_platform_links": [
+        {
+          "label": "Google Reviews",
+          "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+        },
+        {
+          "label": "Yelp",
+          "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+        }
+      ]
+    },
+    {
+      "post_id": 7765,
+      "name": "Gloria Morales",
+      "review": "Dr. Goodenough took very good care of me. I had to get my tooth pulled. He explained what would happen before, during, and after the procedure. I was interested in an implant. He did the grafting directly. Normally, I have anxiety when I enter any an Oral Surgeon’s Office. Doctor’s knowledge and great bedside manners, reassured me that I’m in good hands.",
+      "review_platform_links": [
+        {
+          "label": "Google Reviews",
+          "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+        },
+        {
+          "label": "Yelp",
+          "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+        }
+      ]
+    },
+    {
+      "post_id": 7396,
+      "name": "Anna Accarino",
+      "review": "I found this group and had Dr. Emad Abdou as my oral surgeon. Love this man, love this office. Everyone is very patient, sweet and helpful. Dr. Emad himself is a doll and an excellent surgeon. If you’re looking for a good supportive place to have work done. Look no further. The best!!! 10 stars if I could rate that high. Hope this is helpful in your time of need!",
+      "review_platform_links": [
+        {
+          "label": "Google Reviews",
+          "url": "https://www.google.com/search?authuser=1&sca_esv=570352775&cs=0&output=search&q=Staten+Island+Oral+and+Maxillofacial+Surgery&ludocid=14289594468933314854&lsig=AB86z5XDU3d2yyioVtMzzfdzMk8o&sa=X&ved=2ahUKEwjN7ozq-tmBAxXqrYkEHV78A1QQj9IGKAB6BAggEAE&biw=2240&bih=1030&dpr=2#lrd=0x89c24edb7f180487:0xc64ed675c1282926,1,,,,1"
+        },
+        {
+          "label": "Yelp",
+          "url": "https://www.yelp.com/biz/staten-island-oral-and-maxillofacial-surgery-staten-island-staten-island"
+        }
+      ]
+    }
+  ],
+  "current_menu_state": {
+    "patient_center_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "patient_testimonials_classes": [
+      "current-menu-item"
+    ]
+  },
+  "source_note": "Extracted from the supplied Patient Testimonials outer HTML."
+}

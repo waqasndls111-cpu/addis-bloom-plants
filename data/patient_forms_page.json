@@ -1,0 +1,115 @@
+{
+  "label": "Patient Forms",
+  "path": "/patient-forms/",
+  "page_id": 3940,
+  "title": "Patient Forms | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/patient-forms/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=3940",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/3940",
+  "meta_description": "Get a head start on your visit to the Staten Island Oral & Maxillofacial Surgery office. Here, you'll find all necessary forms available for download...",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-15T16:37:33+00:00",
+  "modified_time": "2025-03-13T22:26:45+00:00",
+  "twitter_read_time": "1 minute",
+  "main_h1": "Staten Island Oral & Maxillofacial Surgery Patient Forms",
+  "hero_h2": "Patient Forms",
+  "hero_intro": "Get a head start on your visit to the Staten Island Oral & Maxillofacial Surgery office. Here, you’ll find all necessary forms available for download, ensuring a smooth and efficient appointment. Browse this page to prepare for your visit and expedite your check-in process.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-30.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-30.jpg",
+    "alt": "Person holding pen filling out paperwork",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-25.jpg",
+    "alt": "Woman smiling into dentist mirror",
+    "width": 1200,
+    "height": 1200
+  },
+  "content_sections": [
+    {
+      "heading": "Staten Island Oral & Maxillofacial Surgery Patient Forms",
+      "paragraphs": [
+        "Staten Island Oral & Maxillofacial Surgery is dedicated to providing you with the highest level of patient care and personalized service. To make your first visit as convenient as possible, we encourage you to complete the Patient Registration form, the Patient Consent form, and the insurance form prior to your initial appointment. Click on the links below to print out the forms, fill the forms out by hand, and bring them with you to your first appointment. The Compliance Assurance Notice and Privacy Policy contain important information for you. Please print these forms and keep them for your records. Staten Island Oral & Maxillofacial Surgery welcomes you to our practice. We look forward to helping you with your oral and maxillofacial surgery needs."
+      ],
+      "links": []
+    },
+    {
+      "heading": "Patient Forms Links",
+      "paragraphs": [],
+      "links": [
+        {
+          "label": "Staten Island Online Registration",
+          "path": "https://pdf.dsnforms.com/dsn/patient_form.html?p=x1u1x6"
+        },
+        {
+          "label": "Printable Registration",
+          "path": "/wp-content/uploads/Patient-Information.pdf"
+        },
+        {
+          "label": "Privacy Policy",
+          "path": "/patient-privacy-policy/"
+        },
+        {
+          "label": "Receipt of Privacy Policy",
+          "path": "/wp-content/uploads/Privacy-Practices-Patient-Acknowledgement.pdf"
+        },
+        {
+          "label": "Photo Release Authorization",
+          "path": "/wp-content/uploads/Authorization-to-Release-Photographs.pdf"
+        },
+        {
+          "label": "Site Disclaimer",
+          "path": "/sitedisclaimer/"
+        }
+      ]
+    }
+  ],
+  "form_links": [
+    {
+      "label": "Staten Island Online Registration",
+      "url": "https://pdf.dsnforms.com/dsn/patient_form.html?p=x1u1x6",
+      "type": "external online form"
+    },
+    {
+      "label": "Printable Registration",
+      "url": "https://statenislandoralsurgery.us/wp-content/uploads/Patient-Information.pdf",
+      "type": "PDF"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "https://statenislandoralsurgery.us/patient-privacy-policy/",
+      "type": "site page"
+    },
+    {
+      "label": "Receipt of Privacy Policy",
+      "url": "https://statenislandoralsurgery.us/wp-content/uploads/Privacy-Practices-Patient-Acknowledgement.pdf",
+      "type": "PDF"
+    },
+    {
+      "label": "Photo Release Authorization",
+      "url": "https://statenislandoralsurgery.us/wp-content/uploads/Authorization-to-Release-Photographs.pdf",
+      "type": "PDF"
+    },
+    {
+      "label": "Site Disclaimer",
+      "url": "https://statenislandoralsurgery.us/sitedisclaimer/",
+      "type": "site page"
+    }
+  ],
+  "current_menu_state": {
+    "patient_center_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "patient_forms_classes": [
+      "current-menu-item",
+      "current_page_item"
+    ]
+  }
+}

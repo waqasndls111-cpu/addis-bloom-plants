@@ -1,0 +1,113 @@
+{
+  "label": "Facial Birth Deformities",
+  "path": "/facial-birth-deformities/",
+  "page_id": 4051,
+  "title": "Facial Birth Deformities | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/facial-birth-deformities/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4051",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4051",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in facial birth deformities in Staten Island, NY. Get in touch with our skilled doctors today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-15T19:42:40+00:00",
+  "modified_time": "2025-03-05T17:18:19+00:00",
+  "twitter_read_time": "Less than a minute",
+  "main_h1": "Staten Island Facial Birth Deformities",
+  "hero_h2": "Facial Birth Deformities",
+  "hero_intro": "Explore our commitment to treating facial birth deformities at the Staten Island Oral & Maxillofacial Surgery office. We offer personalized treatment plans using advanced surgical techniques to improve function and aesthetics.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-3.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-3.jpg",
+    "alt": "Woman holding baby with Facial Birth Deformities in Staten Island",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/15.jpg",
+    "alt": "Woman holding baby with cleft lip",
+    "width": 1500,
+    "height": 1500
+  },
+  "content_sections": [
+    {
+      "heading": "Facial Birth Deformities",
+      "paragraphs": [
+        "Parents, whether newly made or experienced, share a common desire for children following their birth: perfect health. The worry and uncertainty parents feel when their child is born with an oral congenital defect in New York, such as a cleft lip or Treacher Collins Syndrome, is unavoidable, but at Staten Island Oral & Maxillofacial Surgery, a child’s quality of life can be drastically improved.",
+        "If your child was born with an oral congenital defect, discover how our talented surgeons can impact your child’s future by reading about the congenital and pediatric surgeries we provide."
+      ],
+      "links": [
+        {
+          "label": "cleft lip",
+          "path": "/cleft-lip-palate-surgery/"
+        },
+        {
+          "label": "Treacher Collins Syndrome",
+          "path": "/treacher-collins-syndrome/"
+        }
+      ]
+    },
+    {
+      "heading": "Facial Birth Deformities Services",
+      "paragraphs": [],
+      "links": [
+        {
+          "label": "Cleft Lip & Palate Surgery",
+          "path": "/cleft-lip-palate-surgery/"
+        },
+        {
+          "label": "Hemifacial Microsomia",
+          "path": "/hemifacial-microsomia/"
+        },
+        {
+          "label": "Treacher Collins Syndrome",
+          "path": "/treacher-collins-syndrome/"
+        },
+        {
+          "label": "Pierre Robin Sequence",
+          "path": "/pierre-robin-sequence/"
+        },
+        {
+          "label": "Neonatal Distraction",
+          "path": "/neonatal-distraction/"
+        }
+      ]
+    }
+  ],
+  "child_pages": [
+    {
+      "label": "Cleft Lip & Palate Surgery",
+      "path": "/cleft-lip-palate-surgery/"
+    },
+    {
+      "label": "Hemifacial Microsomia",
+      "path": "/hemifacial-microsomia/"
+    },
+    {
+      "label": "Treacher Collins Syndrome",
+      "path": "/treacher-collins-syndrome/"
+    },
+    {
+      "label": "Pierre Robin Sequence",
+      "path": "/pierre-robin-sequence/"
+    },
+    {
+      "label": "Neonatal Distraction",
+      "path": "/neonatal-distraction/"
+    }
+  ],
+  "current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "facial_birth_deformities_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4051",
+      "current_page_item"
+    ]
+  }
+}

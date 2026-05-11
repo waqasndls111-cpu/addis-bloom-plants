@@ -1,0 +1,126 @@
+{
+  "label": "Ridge Augmentation",
+  "path": "/ridge-augmentation/",
+  "page_id": 4180,
+  "title": "Ridge Augmentation | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/ridge-augmentation/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4180",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4180",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in ridge augmentation in Staten Island, NY. Get in touch with our skilled doctors today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-15T20:56:31+00:00",
+  "modified_time": "2026-04-20T14:21:13+00:00",
+  "twitter_read_time": "3 minutes",
+  "main_h1": "Ridge Augmentation Surgery In Staten Island, NY",
+  "hero_h2": "Ridge Augmentation",
+  "hero_intro": "A ridge augmentation can help shape and contour your gum and jawline to what it was before any teeth were removed or any alveoli were damaged. After a successful ridge augmentation, you will have enough healthy bone to support future dental implants.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-42.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-42.jpg",
+    "alt": "Older man smiling after ridge augmentation",
+    "width": 1200,
+    "height": 1200,
+    "type": "image/jpeg"
+  },
+  "hero_video": {
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=oEZAOWL4HJQ",
+    "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/hqdefault-1.jpg",
+    "play_button_aria_label": "Play Video"
+  },
+  "content_sections": [
+    {
+      "heading": "What is Ridge Augmentation?",
+      "paragraphs": [
+        "Ridge augmentation surgery is commonly performed after tooth extraction to help reconstruct your natural gum and jawline. Ridge augmentation can shape the jaw to treat any bone loss associated with tooth extraction or other dental conditions. Bone loss often occurs with periodontal disease or other medical conditions that deteriorate the integrity of your jawbone. Your alveolar ridges, also known as your alveolar margins, are your two jaw ridges that contain the alveoli of the teeth. An alveolus is the small socket that holds the roots of your teeth.",
+        "When you lose a tooth, your alveolus remains open, eventually being filled with natural tissues. In some cases, when you lose a tooth or have a tooth removed, your alveoli may break or be unable to properly heal on its own. In order to receive dental implants, you must have enough healthy bone to support the base of your implants."
+      ],
+      "links": [
+        {
+          "label": "dental implants",
+          "path": "/dental-implants/"
+        }
+      ]
+    },
+    {
+      "heading": "How Can I Find Out More About Ridge Augmentation?",
+      "paragraphs": [
+        "For more information on ridge augmentation, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "href": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "How Is a Ridge Augmentation Surgery Performed?",
+      "answer": "A ridge augmentation procedure is performed by placing tissue or a bone graft to fill the void from your missing tooth and to create a healthy base for dental implants. In most cases, a ridge augmentation procedure is performed immediately following tooth extraction to reduce any cases of severe bone loss. Grafting material will be placed into the alveolus, and your gums will then be carefully sutured over your alveolus to promote proper healing. Bone or tissue graft material will be promoted to grow into your alveolus and fill any empty space, promoting proper bone density for future dental implants. Once the sockets have fully healed after your ridge augmentation, the alveolar ridge can be prepared to properly receive dental implants. A ridge augmentation procedure is often performed at our office under local anesthesia to reduce any discomfort.",
+      "links": [
+        {
+          "label": "bone graft",
+          "path": "/bone-grafting-faqs/"
+        }
+      ]
+    },
+    {
+      "question": "What Can Ridge Augmentation Do For Dental Implants?",
+      "answer": "In order to receive dental implants, you must have adequate healthy bone as a base to support dental implants. If you do not have enough bone or enough bone density, ridge augmentation can help you achieve a stronger base for future dental implants. Proper bone density is needed for dental implants to properly undergo osseointegration, which is the process of your dental implants securely bonding and adhering to your living jawbone. Dental implants act like the roots of your teeth and need proper bone density to be securely fastened to your jaw.",
+      "links": []
+    },
+    {
+      "question": "Am I a Good Candidate For Ridge Augmentation?",
+      "answer": "You may be a good candidate for ridge augmentation if you have missing teeth or have had teeth surgically extracted and are looking to receive dental implants. Patients with broken or damaged alveoli may also benefit from ridge augmentation to fill any empty cavities with a bone graft. If you are unable to receive dental implants due to lack of bone or low bone density, then ridge augmentation may be right for you.",
+      "links": []
+    }
+  ],
+  "header_current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor",
+      "menu-item-has-children"
+    ],
+    "bone_grafting_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor",
+      "menu-item-has-children"
+    ],
+    "ridge_augmentation_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4180",
+      "current_page_item"
+    ]
+  },
+  "footer_bone_grafting_links": [
+    {
+      "label": "Bone Grafting FAQs",
+      "path": "/bone-grafting-faqs/"
+    },
+    {
+      "label": "Ridge Augmentation",
+      "path": "/ridge-augmentation/"
+    },
+    {
+      "label": "Sinus Lift",
+      "path": "/sinus-lift/"
+    },
+    {
+      "label": "BMP Infuse Bone Graft",
+      "path": "/bmp-infuse-bone-graft/"
+    }
+  ],
+  "schema": {
+    "organization_name": "Staten Island Oral Surgery",
+    "telephone": "+1-718-226-1251",
+    "address": "256-C Mason Avenue, 3rd Floor Staten Island, New York 10305",
+    "publisher_same_as": "https://www.facebook.com/statenislandoralmaxillofacialsurgery",
+    "author": "Azuro Digital"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "label": "Wisdom Teeth Removal",
+  "path": "/wisdom-teeth-removal/",
+  "page_id": 4304,
+  "title": "Wisdom Teeth Removal in Staten Island, NY",
+  "canonical": "https://statenislandoralsurgery.us/wisdom-teeth-removal/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4304",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4304",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in wisdom teeth removal in Staten Island, NY. Get in touch with our doctors today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-16T14:44:04+00:00",
+  "modified_time": "2026-04-20T14:12:21+00:00",
+  "twitter_read_time": "3 minutes",
+  "main_h1": "Wisdom Teeth Removal in Staten Island, NY",
+  "hero_h2": "Get Your Wisdom Teeth Removed",
+  "hero_intro": "Our industry-leading oral surgeons specialize in wisdom teeth removal in Staten Island. We use state-of-the-art imaging and techniques to ensure safe and effective extractions, minimizing discomfort and promoting rapid recovery. Explore how our personalized approach to wisdom teeth removal can prevent future dental complications and contribute to your oral health.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-18.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-18.jpg",
+    "alt": "Xray showing impacted wisdom tooth in staten island",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-12.jpg",
+    "alt": "Man holding jaw in pain from impacted wisdom tooth",
+    "width": 2000,
+    "height": 2000
+  },
+  "hero_video": {
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/AAw7zA7L2NE",
+    "title": "Wisdom Teeth Surgery in New York | What You Need To Know",
+    "duration": "PT8M4S",
+    "overlay_image": "https://statenislandoralsurgery.us/wp-content/uploads/Wisdom-Tooth-Consent-Video.jpg"
+  },
+  "decorative_animation": {
+    "type": "lottie",
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/wisdom-tooth.json",
+    "renderer": "svg",
+    "loop": true,
+    "play_speed": 0.5
+  },
+  "content_sections": [
+    {
+      "heading": "What Are Wisdom Teeth?",
+      "paragraphs": [
+        "The average mouth can comfortably fit 28 teeth. When the third and final set of molars - commonly known as wisdom teeth - begin to develop, the addition of 4 more teeth in an already full mouth can cause varying levels of discomfort. In order to prevent this pain, many people have their wisdom teeth removed.",
+        "For some people, wisdom teeth do not have to be extracted. If they align properly and the gum tissue is healthy, they can remain in your jaw without causing pain and discomfort. However, this is not always the case. Wisdom teeth become problematic when they are misaligned. They can grow in sideways, angled toward or away from the second molars, or angled inward or outward. Poor alignment can crowd and damage adjacent teeth, the jawbone, or surrounding nerves. Impacted wisdom teeth are those that remain trapped beneath the gum and bone. Poorly positioned impacted teeth can cause pressure that may move and disrupt the orthodontic or natural alignment of teeth."
+      ]
+    },
+    {
+      "heading": "Understand More About Wisdom Teeth Surgery",
+      "paragraphs": [],
+      "video": "https://www.youtube.com/embed/AAw7zA7L2NE"
+    },
+    {
+      "heading": "How Can I Find Out More About Wisdom Teeth Extraction In Staten Island?",
+      "paragraphs": [
+        "For more information on wisdom teeth extraction, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "path": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "How Do I Know If My Wisdom Teeth Should be Removed?",
+      "answer": "An oral and radiographic examination will allow our oral surgeons to evaluate the position of your wisdom teeth in order to predict any future complications. The earlier you have your wisdom teeth evaluated and treated, the better the outcome will be. Most patients are first assessed by a dentist, orthodontist, or oral surgeon in their mid-teens."
+    },
+    {
+      "question": "What Should I Expect from Wisdom Teeth Surgery?",
+      "answer": "In most cases, wisdom teeth are removed under conscious IV sedation to maximize patient comfort. We offer various types of anesthesia and will work with you to select the best option for your individual case. Our oral surgeons will discuss these options with you prior to the procedure. Our services are provided in an environment of optimal safety, with up-to-date equipment operated by a staff that is experienced in anesthesia techniques. Once your wisdom teeth are removed, the gum is sutured and gauze will be placed in your mouth to help control bleeding. You will remain in the office under the supervision of our staff until you are ready to be taken home by an adult escort. We will provide you with a post-operative kit including instructions for care once you are home, extra gauze, an ice pack, and a prescription for pain medication and antibiotics if necessary."
+    },
+    {
+      "question": "How Long Is Recovery From Wisdom Teeth Surgery?",
+      "answer": "Your specific recovery will depend on many factors including your age, overall health, and the difficulty of the extraction. Most patients will experience some swelling and mild discomfort after surgery, and you will be limited to a soft diet until the discomfort passes. If necessary, you may be prescribed antibiotics or pain medications. The page also mentions therapeutic IV medications and PRF (Platelet Rich Fibrin) as adjunct services that can improve healing times and decrease post-operative complications.",
+      "links": [
+        {
+          "label": "PRF (Platelet Rich Fibrin)",
+          "path": "/platelet-rich-fibrin-prf/"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "How Can I Find Out More About Wisdom Teeth Extraction In Staten Island?",
+    "body": "For more information on wisdom teeth extraction, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+    "button_text": "Request a Callback",
+    "button_path": "/callback-request/"
+  },
+  "current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor"
+    ],
+    "oral_parent_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "wisdom_teeth_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4304",
+      "current_page_item"
+    ]
+  }
+}

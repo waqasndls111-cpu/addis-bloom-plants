@@ -1,0 +1,130 @@
+{
+  "label": "Impacted Canines",
+  "path": "/impacted-canines/",
+  "page_id": 4317,
+  "title": "Impacted Canines | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/impacted-canines/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4317",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4317",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in early detection and treatment of impacted canines in Staten Island, NY. Contact us today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-16T14:50:35+00:00",
+  "modified_time": "2026-04-20T14:10:32+00:00",
+  "twitter_read_time": "5 minutes",
+  "main_h1": "Early Detection & Treatment Of Impacted Canine Teeth In Staten Island",
+  "hero_h2": "Impacted Canines",
+  "hero_intro": "Teeth are called impacted if they fail to erupt and pass through the gums. Teeth that have only partially erupted through the gums are also considered to be impacted teeth. The most common teeth to remain impacted are the third molars (commonly known as wisdom teeth) followed by the maxillary canine or cuspid tooth.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-37.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-37.jpg",
+    "alt": "Little girl with front teeth starting to grow in",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-41.jpg",
+    "alt": "Little boy smiling with head resting on arms",
+    "width": 1200,
+    "height": 1200
+  },
+  "decorative_animation": {
+    "type": "lottie",
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/wisdom-teeth.json",
+    "renderer": "svg",
+    "loop": true,
+    "play_speed": 0.5
+  },
+  "content_sections": [
+    {
+      "heading": "What Causes A Tooth To Be Impacted?",
+      "paragraphs": [
+        "There are several reasons that a tooth can become impacted and fail to fully erupt. The most common causes of tooth impaction are insufficient space in the jaw and the overcrowding, misalignment, or conflicting position of teeth in the jaw. This misalignment of teeth can cause emerging teeth to tilt or become displaced when attempting to emerge, which contributes to impacted teeth.",
+        "Impacted wisdom teeth may occur in early adulthood but can arise later in life. Impacted wisdom teeth often are not noticeable because they do not cause many symptoms or pain. After the wisdom teeth, the maxillary cuspid (upper eye tooth, canine tooth) is the second most common tooth to become impacted. If impacted teeth are not treated, an impacted tooth may press against an adjacent tooth, causing a misalignment or shift in your teeth."
+      ]
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "paragraphs": []
+    },
+    {
+      "heading": "How Can I Find Out More About Impacted Canine Teeth?",
+      "paragraphs": [
+        "For more information on impacted canine teeth, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "path": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What Are Cuspid Teeth?",
+      "answer": "Located between the incisors and first premolar, cuspid teeth are easily recognizable by their distinctively pointed shape. Cuspid teeth have the longest roots of any human teeth, causing them to be very strong biting teeth. They play an important role in the dental arch because they are the first teeth that touch when your jaws close together, guiding the rest of the teeth into the proper biting position. For most people, the maxillary cuspid teeth are the last of the front teeth to erupt into place. This typically happens between the ages of 11 and 13."
+    },
+    {
+      "question": "What Kind Of Problems Can Impacted Canine Teeth Cause?",
+      "answer": "If canine teeth cannot find room to grow in an overcrowded mouth, they may become partially emerged or completely trapped under the gums. Like impacted wisdom teeth, impacted canines can lead to infections, pain, stiffness, swelling, gum disease, and cysts or tumors in the jaw. Early evaluation and treatment is the best way to resolve and prevent the problems associated with them."
+    },
+    {
+      "question": "Why Is Early Detection Of Impacted Canine Teeth Important?",
+      "answer": "Early detection of impacted canine teeth is a key element in the success of their treatment. When the eruption path for the impacted canine tooth is cleared by age 11 or 12, it is likely that the impacted canine will erupt on its own. If the impacted canine tooth and its roots are allowed to develop due to delayed detection, treatment will probably require surgery. The farther the patient is into adulthood, the higher the chance the impacted tooth will be fused to the surrounding bone. Once total fusion has occurred, the only treatment option is to extract the impacted canine tooth and insert a dental implant in its place.",
+      "links": [
+        {
+          "label": "dental implant",
+          "path": "/dental-implants/"
+        }
+      ]
+    },
+    {
+      "question": "How Are Impacted Canine Teeth Treated?",
+      "answer": "The treatment of impacted canine teeth differs from the treatment of impacted wisdom teeth because the goal is eruption, not extraction. Since the most common cause is overcrowding in the jaw, the first step is to create a space for them to grow. Orthodontists often place braces on the upper teeth to open spaces for the eruption of the impacted canines. For many people, treatment also requires extraction of baby teeth and/or adult teeth that are blocking eruption of the cuspid tooth.",
+      "links": [
+        {
+          "label": "impacted wisdom teeth",
+          "path": "/wisdom-teeth-removal/"
+        }
+      ]
+    },
+    {
+      "question": "What Happens If The Canine Tooth Will Not Erupt When Proper Space Is Available?",
+      "answer": "If the impacted canine tooth fails to erupt spontaneously after an orthodontist has applied braces and created an opening, the oral and maxillofacial surgeons can expose and bracket the impacted canine tooth. The gum is lifted to expose the impacted tooth, an orthodontic bracket with a small gold chain is placed on it, and the chain is connected to the orthodontic wire. A CT scan is often used to locate the impacted tooth, identify adjacent teeth, and determine the best surgical approach."
+    },
+    {
+      "question": "What Can I Expect From Surgery To Expose And Bracket An Impacted Tooth?",
+      "answer": "In most cases, impacted canine teeth can be exposed and bracketed safely and easily in the facility using either nitrous oxide or IV sedation. Surgery is generally scheduled for 30 minutes if one tooth is exposed and bracketed and 60 minutes if both sides require treatment. A preoperative examination is conducted before the procedure to answer questions about the specific case."
+    },
+    {
+      "question": "How Long Is Recovery After Impacted Canine Teeth Are Exposed And Bracketed?",
+      "answer": "As with any surgical procedure, recovery depends on many factors. Most patients experience mild discomfort and bleeding after surgery and are limited to a soft diet until discomfort passes. Oral surgeons may prescribe antibiotics or pain medications if necessary, but many patients find Tylenol or Advil adequate for pain management. The surgeons discuss the details of surgery and recovery before the procedure."
+    }
+  ],
+  "cta": {
+    "heading": "How Can I Find Out More About Impacted Canine Teeth?",
+    "body": "For more information on impacted canine teeth, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+    "button_text": "Request a Callback",
+    "button_path": "/callback-request/"
+  },
+  "current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor"
+    ],
+    "oral_parent_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "impacted_canines_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4317",
+      "current_page_item"
+    ]
+  }
+}

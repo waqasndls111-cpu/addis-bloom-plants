@@ -1,0 +1,98 @@
+{
+  "label": "Neonatal Distraction",
+  "path": "/neonatal-distraction/",
+  "page_id": 4288,
+  "title": "Neonatal Distraction | Staten Island Oral Surgery",
+  "canonical": "https://statenislandoralsurgery.us/neonatal-distraction/",
+  "shortlink": "https://statenislandoralsurgery.us/?p=4288",
+  "wp_json": "https://statenislandoralsurgery.us/wp-json/wp/v2/pages/4288",
+  "meta_description": "Our team of oral and maxillofacial surgeons specialize in neonatal distraction for underdeveloped jaw in Staten Island, NY. Contact us today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "published_time": "2023-05-16T14:13:16+00:00",
+  "modified_time": "2026-04-20T14:14:44+00:00",
+  "twitter_read_time": "2 minutes",
+  "main_h1": "Neonatal Distraction In Staten Island For Underdeveloped Jaw",
+  "hero_h2": "Neonatal Distraction",
+  "hero_intro": "When children are born with conditions such as Treacher Collins Syndrome, Pierre Robin Syndrome, and Hemifacial Microsomia, the experience can be very distressing, but our surgeons at Staten Island Oral Surgery Center offers neonatal distraction osteogenesis in New York to bring a little peace of mind to a time that should simply be joyful.",
+  "phone_cta": "+1 (718) 226-1251",
+  "primary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-4.jpg",
+    "secure_url": "https://statenislandoralsurgery.us/wp-content/uploads/SIOMS-4.jpg",
+    "alt": "Baby feet laying in basket",
+    "width": 1200,
+    "height": 800,
+    "type": "image/jpeg"
+  },
+  "secondary_image": {
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/Staten-Island-Oral-and-Maxillofacial-Surgery-43.jpg",
+    "alt": "Woman holding a baby's head",
+    "width": 1200,
+    "height": 1200
+  },
+  "decorative_animation": {
+    "type": "lottie",
+    "url": "https://statenislandoralsurgery.us/wp-content/uploads/21-04-15-Different-age-and-gender-groups-line-2.aep_.json",
+    "renderer": "svg",
+    "loop": true,
+    "play_speed": 0.5
+  },
+  "content_sections": [
+    {
+      "heading": "What is Neonatal Distraction?",
+      "paragraphs": [
+        "Distraction osteogenesis in NYC is an orthognathic surgical technique used to stretch or expand the jaw bone. The term neonatal refers to newborns. Neonatal distraction, therefore, is orthognathic jaw surgery used to expand the jaw of infants. The procedure is typically performed in the attempt to correct birth defects in which the jaw is underdeveloped. Treacher collins syndrome, pierre robin syndrome, and hemifacial microsomia are three conditions which produce a variety of symptoms that may range in severity, but all conditions commonly produce an underdeveloped jaw.",
+        "Every new parent counts their child’s fingers and toes and whispers a silent thank you that their child is born whole and healthy."
+      ]
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "paragraphs": []
+    },
+    {
+      "heading": "How Do I Get Started With Neonatal Distraction?",
+      "paragraphs": [
+        "For more information on neonatal distraction, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251)."
+      ],
+      "links": [
+        {
+          "label": "+1 (718-226-1251)",
+          "path": "tel:+17182261251"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "How Can Neonatal Distraction Help My Child?",
+      "answer": "Treacher Collins syndrome, Pierre Robin syndrome, and hemifacial microsomia often leave the jaw underdeveloped. This jaw condition may not only affect your child’s appearance but may also affect your child’s speech and, in severe cases, the ability to eat and breath properly Neonatal distraction osteogenesis in NY has the ability to improve the physical appearance of your child’s jaw as well as the function of the jaw for eating and speech. Neonatal distraction may avoid or limit the need for tracheostomy in your child."
+    },
+    {
+      "question": "What Can I Expect From Neonatal Distraction?",
+      "answer": "Dr. Hoffman will conduct neonatal distraction osteogenesis in NYC in several stages. During the first surgery, Dr. Hoffman will attach a distraction device onto the jaw. This device may be internal or external depending on each individual patient’s condition. You will be instructed on how and when to use the screwing mechanism on the distraction device to expand the jaw bone. Once the jaw is expanded to the necessary size, Dr. Hoffman will remove the distraction device during a second surgical procedure. Although this can be a long process, similar to but more invasive than using a palate expander for orthodontic use, neonatal distraction osteogenesis in NY will eventually result in the improved appearance, improved airway, and improved function of your child’s lower jaw. Discuss neonatal distraction with Dr. Hoffman and discover how this procedure and the doctors and staff at Staten Island Oral Surgery can give your children the beginning to life that they deserve."
+    }
+  ],
+  "cta": {
+    "heading": "How Do I Get Started With Neonatal Distraction?",
+    "body": "For more information on neonatal distraction, please contact Staten Island Oral & Maxillofacial Surgery to schedule an appointment with oral and maxillofacial surgeons David Hoffman, D.D.S., F.A.C.S., Lydia J. Lam, D.D.S., Jessica Li, D.D.S., and Monika Patel, D.D.S. by calling +1 (718-226-1251).",
+    "button_text": "Request a Callback",
+    "button_path": "/callback-request/"
+  },
+  "current_menu_state": {
+    "services_classes": [
+      "current-menu-ancestor",
+      "current_page_ancestor"
+    ],
+    "facial_birth_deformities_parent_classes": [
+      "current-menu-ancestor",
+      "current-menu-parent",
+      "current_page_parent",
+      "current_page_ancestor"
+    ],
+    "neonatal_distraction_classes": [
+      "current-menu-item",
+      "page_item",
+      "page-item-4288",
+      "current_page_item"
+    ]
+  }
+}
